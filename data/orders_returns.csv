@@ -1,0 +1,2001 @@
+order_id,product_id,category,supplier,customer_location,marketing_channel,order_date,return_status,price,quantity,delivery_time
+O10000,P549,Toys,Supplier C,Chennai,TV,2025-06-26,0,1416.16,1,7
+O10001,P696,Books,Supplier C,Delhi,Social Media,2025-05-25,0,1176.64,2,2
+O10002,P278,Home,Supplier B,Bangalore,TV,2025-06-18,1,619.48,4,1
+O10003,P692,Books,Supplier A,Mumbai,Social Media,2025-05-01,1,1232.53,2,2
+O10004,P685,Books,Supplier B,Mumbai,Email,2025-04-10,0,1678.76,2,4
+O10005,P805,Clothing,Supplier A,Bangalore,Email,2025-04-08,0,251.43,1,8
+O10006,P188,Home,Supplier A,Mumbai,Website Banner,2025-05-02,0,1335.53,2,3
+O10007,P527,Home,Supplier A,Delhi,Social Media,2025-05-22,0,829.25,1,6
+O10008,P972,Home,Supplier B,Delhi,Email,2025-06-13,0,726.81,2,6
+O10009,P916,Books,Supplier A,Bangalore,Social Media,2025-04-27,0,906.66,3,9
+O10010,P336,Toys,Supplier B,Mumbai,Email,2025-04-10,1,815.64,4,9
+O10011,P996,Home,Supplier C,Delhi,TV,2025-05-16,0,1698.03,4,4
+O10012,P273,Books,Supplier C,Delhi,Email,2025-05-19,0,694.64,1,9
+O10013,P299,Clothing,Supplier A,Hyderabad,Website Banner,2025-06-21,0,1519.68,3,6
+O10014,P128,Toys,Supplier B,Hyderabad,TV,2025-04-16,0,369.31,4,2
+O10015,P332,Clothing,Supplier C,Delhi,Website Banner,2025-05-12,0,1912.51,1,6
+O10016,P227,Toys,Supplier B,Bangalore,TV,2025-05-27,0,1320.17,2,2
+O10017,P598,Books,Supplier B,Chennai,Social Media,2025-04-20,0,1472.09,2,8
+O10018,P445,Electronics,Supplier A,Chennai,Website Banner,2025-04-14,1,736.47,3,4
+O10019,P335,Toys,Supplier C,Delhi,Email,2025-05-31,0,941.77,4,5
+O10020,P161,Clothing,Supplier A,Delhi,Social Media,2025-06-17,0,602.8,2,8
+O10021,P493,Books,Supplier A,Delhi,Email,2025-05-06,0,1878.56,1,8
+O10022,P507,Toys,Supplier C,Bangalore,TV,2025-06-05,0,1078.59,2,6
+O10023,P592,Electronics,Supplier C,Hyderabad,TV,2025-04-08,0,1334.81,2,4
+O10024,P953,Electronics,Supplier B,Delhi,Email,2025-05-26,0,1521.69,4,1
+O10025,P803,Home,Supplier C,Delhi,Email,2025-05-03,0,867.99,4,7
+O10026,P895,Home,Supplier B,Mumbai,Social Media,2025-05-03,0,1496.18,1,8
+O10027,P166,Clothing,Supplier B,Bangalore,Email,2025-04-03,0,1416.79,3,9
+O10028,P182,Toys,Supplier B,Delhi,Website Banner,2025-04-30,0,1470.19,3,2
+O10029,P699,Toys,Supplier C,Mumbai,Website Banner,2025-05-12,1,1080.61,2,1
+O10030,P753,Home,Supplier A,Chennai,Email,2025-06-15,1,889.29,1,4
+O10031,P817,Toys,Supplier B,Delhi,Website Banner,2025-05-19,0,599.75,3,5
+O10032,P665,Toys,Supplier A,Delhi,Email,2025-04-14,0,1684.33,3,1
+O10033,P516,Electronics,Supplier A,Mumbai,Social Media,2025-06-18,1,1295.03,2,5
+O10034,P234,Home,Supplier C,Bangalore,Website Banner,2025-06-07,0,999.83,1,6
+O10035,P690,Books,Supplier A,Delhi,Website Banner,2025-05-04,0,1899.19,3,3
+O10036,P105,Home,Supplier A,Chennai,Email,2025-06-25,1,286.11,4,7
+O10037,P672,Books,Supplier C,Delhi,Website Banner,2025-05-13,0,1730.31,4,6
+O10038,P975,Electronics,Supplier B,Chennai,TV,2025-04-14,1,1995.65,2,4
+O10039,P230,Clothing,Supplier A,Hyderabad,Social Media,2025-04-22,1,1796.5,2,3
+O10040,P766,Toys,Supplier C,Hyderabad,Social Media,2025-05-18,0,1658.79,2,5
+O10041,P538,Electronics,Supplier A,Chennai,Website Banner,2025-05-15,1,873.75,2,3
+O10042,P629,Toys,Supplier A,Bangalore,Website Banner,2025-06-15,0,616.37,3,9
+O10043,P485,Clothing,Supplier B,Delhi,TV,2025-05-28,0,1522.73,1,9
+O10044,P156,Clothing,Supplier A,Delhi,TV,2025-04-11,0,748.24,2,6
+O10045,P881,Electronics,Supplier C,Hyderabad,Website Banner,2025-06-16,0,516.87,2,6
+O10046,P918,Clothing,Supplier A,Chennai,Website Banner,2025-04-28,0,1615.75,3,4
+O10047,P157,Books,Supplier B,Delhi,TV,2025-05-24,0,762.58,2,4
+O10048,P165,Clothing,Supplier B,Delhi,Email,2025-06-14,0,1846.0,2,2
+O10049,P944,Toys,Supplier C,Bangalore,TV,2025-04-09,0,1713.14,1,4
+O10050,P610,Toys,Supplier B,Mumbai,Email,2025-05-29,0,1725.75,4,8
+O10051,P835,Toys,Supplier A,Hyderabad,Social Media,2025-04-25,0,1588.83,2,2
+O10052,P400,Toys,Supplier B,Hyderabad,Social Media,2025-04-26,1,1785.59,3,9
+O10053,P117,Books,Supplier C,Mumbai,TV,2025-04-16,1,1650.34,1,1
+O10054,P448,Home,Supplier B,Delhi,Email,2025-04-18,0,1284.52,3,2
+O10055,P289,Electronics,Supplier B,Bangalore,TV,2025-04-18,1,732.48,1,2
+O10056,P155,Toys,Supplier B,Bangalore,TV,2025-04-15,0,1798.78,1,6
+O10057,P630,Clothing,Supplier C,Hyderabad,Email,2025-06-05,0,1713.09,2,7
+O10058,P931,Toys,Supplier B,Bangalore,TV,2025-04-05,0,1051.18,2,3
+O10059,P830,Clothing,Supplier B,Mumbai,Social Media,2025-06-05,0,270.34,2,9
+O10060,P538,Clothing,Supplier A,Delhi,Website Banner,2025-04-09,1,1349.38,4,5
+O10061,P681,Toys,Supplier C,Mumbai,Website Banner,2025-04-11,0,291.07,4,5
+O10062,P958,Books,Supplier B,Chennai,TV,2025-05-23,0,1867.3,3,4
+O10063,P533,Clothing,Supplier C,Hyderabad,Email,2025-05-09,0,1930.94,2,9
+O10064,P110,Clothing,Supplier B,Bangalore,Email,2025-05-24,0,541.08,4,8
+O10065,P107,Toys,Supplier B,Chennai,Social Media,2025-04-23,0,1417.5,2,4
+O10066,P879,Clothing,Supplier B,Bangalore,Email,2025-06-11,0,366.08,4,4
+O10067,P356,Clothing,Supplier A,Delhi,Email,2025-05-04,0,1513.13,4,2
+O10068,P713,Toys,Supplier A,Delhi,Social Media,2025-06-08,0,825.12,1,9
+O10069,P923,Toys,Supplier A,Delhi,TV,2025-05-26,0,1425.89,2,3
+O10070,P602,Electronics,Supplier C,Bangalore,Website Banner,2025-05-13,0,871.18,2,4
+O10071,P914,Books,Supplier C,Chennai,Social Media,2025-04-26,0,462.02,4,7
+O10072,P709,Books,Supplier A,Delhi,TV,2025-05-16,0,931.0,2,8
+O10073,P161,Clothing,Supplier C,Chennai,Social Media,2025-04-07,0,402.81,4,8
+O10074,P583,Books,Supplier B,Bangalore,TV,2025-05-27,0,1238.39,2,4
+O10075,P453,Clothing,Supplier B,Chennai,Social Media,2025-04-15,0,273.71,1,7
+O10076,P396,Electronics,Supplier B,Bangalore,TV,2025-05-05,0,1149.18,2,1
+O10077,P989,Toys,Supplier A,Bangalore,Social Media,2025-06-26,1,1795.46,1,6
+O10078,P539,Toys,Supplier C,Hyderabad,TV,2025-04-19,0,1708.17,3,6
+O10079,P452,Toys,Supplier A,Bangalore,Social Media,2025-04-09,0,1789.01,2,6
+O10080,P207,Books,Supplier C,Bangalore,Website Banner,2025-05-18,1,1859.69,2,2
+O10081,P846,Electronics,Supplier B,Mumbai,Website Banner,2025-06-22,0,388.15,2,8
+O10082,P830,Books,Supplier A,Delhi,Email,2025-04-03,0,431.74,1,5
+O10083,P151,Books,Supplier C,Hyderabad,TV,2025-04-05,0,1202.61,2,5
+O10084,P371,Electronics,Supplier C,Hyderabad,Social Media,2025-04-14,0,1809.15,2,2
+O10085,P352,Electronics,Supplier B,Hyderabad,TV,2025-06-05,0,1953.83,4,4
+O10086,P669,Electronics,Supplier A,Mumbai,Website Banner,2025-04-25,1,283.27,3,9
+O10087,P942,Electronics,Supplier A,Bangalore,TV,2025-04-21,0,840.39,1,9
+O10088,P665,Toys,Supplier A,Delhi,Social Media,2025-05-04,0,583.21,4,6
+O10089,P163,Home,Supplier B,Chennai,TV,2025-04-27,1,1560.74,1,9
+O10090,P387,Home,Supplier A,Bangalore,Social Media,2025-05-15,1,1352.35,4,4
+O10091,P832,Electronics,Supplier B,Mumbai,Website Banner,2025-04-27,0,415.8,3,1
+O10092,P517,Home,Supplier B,Bangalore,Website Banner,2025-06-11,0,1070.34,4,2
+O10093,P965,Home,Supplier B,Bangalore,Website Banner,2025-06-17,1,1433.79,1,1
+O10094,P823,Electronics,Supplier C,Mumbai,Email,2025-05-15,0,1602.21,2,8
+O10095,P493,Home,Supplier A,Hyderabad,Website Banner,2025-04-11,0,236.09,2,9
+O10096,P558,Books,Supplier A,Hyderabad,TV,2025-06-04,1,1802.85,3,6
+O10097,P438,Clothing,Supplier B,Delhi,Email,2025-05-12,0,1224.71,1,2
+O10098,P230,Clothing,Supplier B,Delhi,Website Banner,2025-04-25,0,1661.44,1,6
+O10099,P613,Electronics,Supplier A,Hyderabad,TV,2025-04-19,0,1654.29,1,9
+O10100,P943,Toys,Supplier B,Chennai,TV,2025-05-07,0,541.73,3,3
+O10101,P265,Electronics,Supplier A,Bangalore,TV,2025-06-02,0,398.31,2,9
+O10102,P729,Toys,Supplier C,Chennai,Social Media,2025-05-30,0,1498.32,4,2
+O10103,P101,Clothing,Supplier B,Bangalore,Email,2025-04-21,0,481.57,3,5
+O10104,P990,Electronics,Supplier A,Hyderabad,TV,2025-05-16,0,1729.89,4,2
+O10105,P129,Books,Supplier B,Delhi,Social Media,2025-06-28,0,1507.14,2,7
+O10106,P880,Home,Supplier A,Delhi,Website Banner,2025-04-15,0,1715.29,3,9
+O10107,P823,Toys,Supplier A,Chennai,TV,2025-05-01,0,738.22,2,7
+O10108,P560,Home,Supplier B,Delhi,Social Media,2025-05-26,0,769.88,4,5
+O10109,P923,Home,Supplier C,Hyderabad,TV,2025-05-07,0,1408.2,1,4
+O10110,P663,Electronics,Supplier A,Chennai,Email,2025-06-16,0,256.6,1,4
+O10111,P326,Home,Supplier A,Bangalore,Email,2025-04-29,0,1507.69,4,8
+O10112,P852,Books,Supplier A,Delhi,Website Banner,2025-05-05,1,1704.41,1,1
+O10113,P656,Home,Supplier C,Mumbai,TV,2025-05-03,0,947.29,4,5
+O10114,P657,Electronics,Supplier C,Delhi,Social Media,2025-04-02,0,1576.78,3,2
+O10115,P798,Books,Supplier B,Bangalore,Website Banner,2025-05-17,1,514.3,3,9
+O10116,P823,Clothing,Supplier C,Chennai,TV,2025-06-14,0,780.07,3,7
+O10117,P816,Home,Supplier B,Bangalore,Website Banner,2025-04-10,0,1953.75,1,8
+O10118,P283,Electronics,Supplier B,Mumbai,Social Media,2025-06-06,0,1975.39,2,6
+O10119,P991,Clothing,Supplier C,Hyderabad,Website Banner,2025-04-09,0,1122.69,1,9
+O10120,P420,Clothing,Supplier B,Delhi,Website Banner,2025-06-06,1,1881.69,1,6
+O10121,P362,Toys,Supplier C,Chennai,Website Banner,2025-05-25,0,1140.92,2,7
+O10122,P772,Books,Supplier B,Hyderabad,TV,2025-05-05,0,724.86,2,7
+O10123,P439,Home,Supplier C,Bangalore,Social Media,2025-06-06,0,680.42,2,9
+O10124,P534,Electronics,Supplier C,Chennai,Email,2025-06-11,0,1873.11,2,8
+O10125,P101,Toys,Supplier B,Hyderabad,TV,2025-04-13,0,510.4,1,1
+O10126,P162,Books,Supplier A,Chennai,Email,2025-04-11,0,1243.34,4,4
+O10127,P469,Toys,Supplier B,Mumbai,Email,2025-06-29,0,1199.95,3,7
+O10128,P448,Books,Supplier C,Mumbai,TV,2025-06-04,0,1531.32,4,8
+O10129,P116,Books,Supplier A,Delhi,TV,2025-05-28,1,1098.64,1,7
+O10130,P166,Home,Supplier B,Delhi,Social Media,2025-06-10,1,690.11,2,3
+O10131,P955,Books,Supplier B,Mumbai,Social Media,2025-04-05,0,504.91,3,4
+O10132,P849,Toys,Supplier B,Chennai,Website Banner,2025-04-19,0,1317.47,3,7
+O10133,P560,Books,Supplier A,Mumbai,Email,2025-06-06,0,1494.18,4,8
+O10134,P494,Home,Supplier C,Delhi,Social Media,2025-05-13,0,1225.14,1,7
+O10135,P873,Home,Supplier B,Mumbai,Website Banner,2025-06-27,1,1529.03,1,6
+O10136,P860,Toys,Supplier B,Mumbai,Social Media,2025-06-17,0,454.74,1,9
+O10137,P369,Clothing,Supplier B,Chennai,TV,2025-04-19,0,1788.45,3,9
+O10138,P562,Clothing,Supplier B,Hyderabad,Social Media,2025-06-27,1,1248.31,4,7
+O10139,P363,Books,Supplier B,Delhi,Email,2025-04-15,0,428.32,3,8
+O10140,P610,Electronics,Supplier C,Chennai,Social Media,2025-04-01,1,1031.47,3,6
+O10141,P675,Books,Supplier C,Mumbai,Email,2025-04-13,1,1720.63,2,1
+O10142,P150,Toys,Supplier B,Mumbai,TV,2025-05-17,0,1815.61,4,1
+O10143,P760,Toys,Supplier A,Hyderabad,Email,2025-05-06,0,676.37,2,6
+O10144,P653,Toys,Supplier C,Delhi,Social Media,2025-04-21,1,1480.28,1,2
+O10145,P245,Toys,Supplier A,Delhi,Website Banner,2025-04-12,1,379.97,3,8
+O10146,P722,Toys,Supplier C,Bangalore,TV,2025-05-08,0,260.38,4,1
+O10147,P862,Home,Supplier B,Delhi,Social Media,2025-05-27,1,1208.72,1,2
+O10148,P275,Clothing,Supplier C,Hyderabad,TV,2025-06-01,0,1450.69,4,8
+O10149,P367,Toys,Supplier B,Bangalore,TV,2025-05-25,0,1632.42,3,6
+O10150,P659,Electronics,Supplier C,Bangalore,Social Media,2025-05-20,1,812.39,4,2
+O10151,P837,Electronics,Supplier B,Mumbai,Social Media,2025-04-18,0,211.75,1,2
+O10152,P741,Electronics,Supplier B,Mumbai,Website Banner,2025-04-04,1,1063.13,2,7
+O10153,P216,Electronics,Supplier B,Delhi,TV,2025-06-02,0,228.54,3,5
+O10154,P887,Home,Supplier B,Bangalore,TV,2025-06-23,0,365.57,2,5
+O10155,P193,Electronics,Supplier A,Mumbai,Social Media,2025-05-10,0,788.04,3,8
+O10156,P254,Toys,Supplier B,Hyderabad,Email,2025-06-06,0,986.91,1,7
+O10157,P200,Books,Supplier A,Mumbai,Social Media,2025-06-12,0,703.04,3,9
+O10158,P795,Electronics,Supplier A,Mumbai,TV,2025-06-08,0,1247.36,2,4
+O10159,P184,Home,Supplier B,Bangalore,Social Media,2025-04-10,0,299.63,3,4
+O10160,P950,Home,Supplier A,Bangalore,Website Banner,2025-04-06,0,460.24,1,2
+O10161,P601,Electronics,Supplier C,Chennai,Email,2025-04-23,0,1451.47,3,3
+O10162,P104,Books,Supplier B,Hyderabad,Social Media,2025-04-02,1,455.85,2,1
+O10163,P398,Electronics,Supplier A,Bangalore,Website Banner,2025-04-08,0,1351.6,1,1
+O10164,P645,Home,Supplier B,Delhi,TV,2025-05-03,0,298.43,2,7
+O10165,P226,Clothing,Supplier B,Hyderabad,Social Media,2025-05-12,0,933.29,3,5
+O10166,P454,Toys,Supplier B,Hyderabad,TV,2025-06-19,0,519.34,4,3
+O10167,P735,Home,Supplier A,Bangalore,Website Banner,2025-06-28,0,397.35,2,7
+O10168,P889,Electronics,Supplier C,Hyderabad,TV,2025-04-28,0,1220.66,3,2
+O10169,P331,Toys,Supplier C,Bangalore,Website Banner,2025-05-18,0,1871.0,4,3
+O10170,P709,Electronics,Supplier A,Mumbai,Website Banner,2025-06-09,0,298.62,4,1
+O10171,P492,Electronics,Supplier B,Chennai,Website Banner,2025-06-16,1,958.8,1,8
+O10172,P959,Clothing,Supplier A,Mumbai,Social Media,2025-04-12,0,1473.56,4,2
+O10173,P310,Toys,Supplier A,Bangalore,TV,2025-06-18,0,1032.84,2,7
+O10174,P364,Toys,Supplier A,Bangalore,TV,2025-06-09,0,1651.69,2,9
+O10175,P236,Clothing,Supplier B,Mumbai,Email,2025-04-19,0,523.36,4,6
+O10176,P295,Home,Supplier A,Delhi,Email,2025-04-08,0,1927.27,3,2
+O10177,P931,Electronics,Supplier B,Delhi,Email,2025-06-16,0,893.29,2,2
+O10178,P460,Books,Supplier A,Delhi,Email,2025-06-19,0,814.83,2,9
+O10179,P583,Electronics,Supplier C,Bangalore,TV,2025-04-28,0,1774.29,1,8
+O10180,P219,Electronics,Supplier A,Hyderabad,Website Banner,2025-04-25,0,1214.96,3,9
+O10181,P378,Home,Supplier A,Bangalore,Website Banner,2025-04-24,0,1129.6,4,4
+O10182,P373,Electronics,Supplier C,Hyderabad,Social Media,2025-05-30,0,1508.56,3,4
+O10183,P617,Clothing,Supplier B,Mumbai,Website Banner,2025-04-25,0,1243.7,1,2
+O10184,P871,Clothing,Supplier B,Chennai,TV,2025-05-27,0,492.53,1,1
+O10185,P463,Toys,Supplier A,Hyderabad,TV,2025-04-29,0,1413.56,3,4
+O10186,P701,Books,Supplier C,Delhi,TV,2025-05-22,0,440.24,1,8
+O10187,P896,Electronics,Supplier B,Bangalore,Social Media,2025-04-24,0,1650.54,1,2
+O10188,P941,Electronics,Supplier A,Mumbai,Email,2025-05-07,0,1981.53,1,8
+O10189,P553,Home,Supplier C,Delhi,Website Banner,2025-06-13,0,879.3,3,1
+O10190,P479,Clothing,Supplier B,Mumbai,TV,2025-05-30,0,1000.56,1,1
+O10191,P266,Books,Supplier B,Chennai,TV,2025-06-15,0,283.58,4,4
+O10192,P653,Toys,Supplier C,Bangalore,Email,2025-06-10,0,224.72,4,7
+O10193,P944,Clothing,Supplier C,Bangalore,TV,2025-04-01,0,1858.55,2,9
+O10194,P578,Toys,Supplier C,Chennai,Website Banner,2025-05-01,0,431.52,4,5
+O10195,P250,Home,Supplier C,Bangalore,Social Media,2025-06-17,1,1002.4,2,2
+O10196,P763,Home,Supplier A,Hyderabad,TV,2025-06-19,0,1667.64,3,7
+O10197,P161,Electronics,Supplier C,Mumbai,Website Banner,2025-04-26,0,1800.77,1,2
+O10198,P390,Books,Supplier B,Delhi,TV,2025-05-09,1,1134.92,4,9
+O10199,P562,Toys,Supplier B,Chennai,Email,2025-05-31,1,1217.06,2,9
+O10200,P174,Clothing,Supplier A,Hyderabad,TV,2025-04-02,0,1405.43,3,3
+O10201,P707,Home,Supplier B,Delhi,TV,2025-04-03,0,1930.49,2,8
+O10202,P923,Electronics,Supplier B,Delhi,Social Media,2025-06-06,0,1284.81,1,4
+O10203,P695,Electronics,Supplier C,Chennai,Email,2025-05-21,0,1207.06,4,3
+O10204,P223,Toys,Supplier B,Hyderabad,Email,2025-04-26,0,226.16,3,1
+O10205,P942,Home,Supplier A,Delhi,Social Media,2025-05-10,0,345.71,2,5
+O10206,P610,Books,Supplier C,Delhi,TV,2025-04-23,0,1238.91,3,4
+O10207,P237,Home,Supplier C,Hyderabad,Website Banner,2025-06-26,1,1885.23,2,1
+O10208,P657,Toys,Supplier A,Bangalore,Email,2025-05-05,1,1760.04,2,8
+O10209,P885,Toys,Supplier C,Delhi,Email,2025-05-28,0,1968.64,1,8
+O10210,P320,Home,Supplier C,Mumbai,TV,2025-06-07,0,1150.1,1,8
+O10211,P974,Toys,Supplier A,Hyderabad,TV,2025-05-22,0,1618.28,2,3
+O10212,P672,Home,Supplier C,Delhi,Email,2025-05-17,1,1712.72,4,6
+O10213,P352,Clothing,Supplier A,Chennai,TV,2025-05-20,0,1366.46,3,7
+O10214,P314,Home,Supplier A,Mumbai,Website Banner,2025-06-17,0,809.75,3,9
+O10215,P505,Home,Supplier B,Delhi,Email,2025-04-27,0,1045.96,1,5
+O10216,P275,Toys,Supplier B,Mumbai,Website Banner,2025-04-21,0,1744.25,4,9
+O10217,P327,Toys,Supplier C,Mumbai,Website Banner,2025-05-21,0,737.39,2,6
+O10218,P667,Electronics,Supplier C,Bangalore,TV,2025-06-02,0,1862.74,1,4
+O10219,P492,Electronics,Supplier A,Mumbai,Website Banner,2025-04-14,0,613.65,2,1
+O10220,P719,Clothing,Supplier C,Bangalore,TV,2025-04-11,0,1549.13,2,1
+O10221,P891,Electronics,Supplier A,Hyderabad,Social Media,2025-06-27,0,1335.01,1,5
+O10222,P800,Home,Supplier A,Bangalore,TV,2025-06-14,0,1549.28,4,3
+O10223,P930,Toys,Supplier C,Chennai,Website Banner,2025-05-31,1,987.23,3,5
+O10224,P683,Electronics,Supplier A,Delhi,Social Media,2025-04-15,1,1878.75,1,5
+O10225,P596,Electronics,Supplier B,Hyderabad,TV,2025-04-03,1,1338.45,4,1
+O10226,P431,Clothing,Supplier C,Hyderabad,Website Banner,2025-05-25,1,718.93,2,8
+O10227,P876,Clothing,Supplier B,Chennai,Email,2025-06-26,0,1349.22,1,5
+O10228,P813,Home,Supplier C,Bangalore,Email,2025-05-22,0,716.27,3,5
+O10229,P746,Toys,Supplier A,Delhi,TV,2025-05-18,0,728.54,3,9
+O10230,P948,Clothing,Supplier C,Bangalore,TV,2025-05-10,1,919.28,2,8
+O10231,P590,Electronics,Supplier B,Mumbai,Email,2025-04-10,0,1734.37,1,1
+O10232,P447,Toys,Supplier A,Bangalore,Website Banner,2025-06-17,0,1100.54,3,3
+O10233,P537,Toys,Supplier C,Hyderabad,Website Banner,2025-06-05,1,1422.02,1,7
+O10234,P282,Electronics,Supplier C,Delhi,Website Banner,2025-06-24,0,905.54,3,1
+O10235,P338,Clothing,Supplier C,Bangalore,TV,2025-05-27,0,674.49,2,1
+O10236,P811,Electronics,Supplier B,Delhi,Social Media,2025-04-04,0,1918.35,2,5
+O10237,P564,Toys,Supplier B,Delhi,Social Media,2025-06-20,0,1286.45,1,9
+O10238,P714,Books,Supplier C,Mumbai,Social Media,2025-05-21,0,1881.11,4,6
+O10239,P782,Books,Supplier A,Mumbai,Social Media,2025-04-23,0,566.14,4,2
+O10240,P961,Home,Supplier A,Hyderabad,Social Media,2025-04-05,0,464.41,2,9
+O10241,P379,Electronics,Supplier B,Chennai,TV,2025-04-01,1,1740.48,3,6
+O10242,P717,Electronics,Supplier A,Delhi,TV,2025-04-03,0,1425.65,4,5
+O10243,P295,Home,Supplier B,Chennai,Social Media,2025-06-23,0,535.84,2,5
+O10244,P783,Home,Supplier C,Hyderabad,TV,2025-06-11,0,684.85,3,3
+O10245,P348,Home,Supplier B,Delhi,TV,2025-04-23,0,1641.2,3,6
+O10246,P631,Toys,Supplier B,Delhi,Social Media,2025-06-15,0,1016.96,4,4
+O10247,P612,Electronics,Supplier C,Chennai,Website Banner,2025-04-12,0,1406.97,2,2
+O10248,P579,Toys,Supplier A,Bangalore,TV,2025-06-04,0,773.03,3,3
+O10249,P521,Home,Supplier B,Mumbai,Website Banner,2025-06-19,0,886.21,3,9
+O10250,P885,Electronics,Supplier B,Bangalore,TV,2025-04-24,0,1983.28,1,9
+O10251,P537,Toys,Supplier C,Chennai,TV,2025-04-28,0,645.71,1,6
+O10252,P811,Toys,Supplier A,Mumbai,Social Media,2025-05-15,0,1111.62,4,9
+O10253,P787,Home,Supplier B,Bangalore,TV,2025-05-26,0,1719.92,1,4
+O10254,P538,Electronics,Supplier C,Mumbai,Email,2025-04-01,0,630.6,2,5
+O10255,P975,Home,Supplier B,Delhi,Email,2025-06-23,1,947.38,4,6
+O10256,P628,Electronics,Supplier C,Bangalore,Social Media,2025-05-07,0,1307.16,4,9
+O10257,P270,Books,Supplier A,Mumbai,Website Banner,2025-04-08,0,1066.14,1,5
+O10258,P486,Clothing,Supplier A,Mumbai,Website Banner,2025-06-21,0,1027.1,3,8
+O10259,P775,Clothing,Supplier A,Mumbai,Website Banner,2025-06-07,0,852.52,2,1
+O10260,P247,Clothing,Supplier A,Bangalore,Email,2025-04-03,0,1255.96,2,5
+O10261,P399,Home,Supplier B,Hyderabad,Website Banner,2025-05-07,0,1323.87,2,1
+O10262,P813,Books,Supplier B,Bangalore,Website Banner,2025-04-06,0,1375.92,4,6
+O10263,P841,Electronics,Supplier A,Chennai,Social Media,2025-06-01,0,326.66,2,7
+O10264,P857,Toys,Supplier A,Bangalore,Website Banner,2025-04-14,0,1335.86,3,5
+O10265,P393,Electronics,Supplier A,Mumbai,Email,2025-06-21,0,1915.83,3,1
+O10266,P318,Toys,Supplier B,Delhi,Email,2025-06-08,0,1173.78,1,6
+O10267,P332,Electronics,Supplier A,Bangalore,Email,2025-06-22,0,1487.48,2,5
+O10268,P844,Books,Supplier A,Bangalore,Social Media,2025-05-31,1,1202.12,4,6
+O10269,P970,Toys,Supplier A,Mumbai,Social Media,2025-04-05,0,1738.53,1,7
+O10270,P171,Home,Supplier C,Delhi,TV,2025-04-02,0,1873.25,3,7
+O10271,P971,Electronics,Supplier A,Delhi,Website Banner,2025-06-12,0,531.6,2,2
+O10272,P172,Electronics,Supplier C,Chennai,Social Media,2025-06-28,0,986.35,3,3
+O10273,P860,Toys,Supplier C,Bangalore,Email,2025-04-23,0,906.29,1,6
+O10274,P723,Home,Supplier A,Delhi,Email,2025-05-03,0,929.39,3,3
+O10275,P618,Home,Supplier C,Delhi,Social Media,2025-04-10,0,425.94,2,2
+O10276,P927,Books,Supplier A,Hyderabad,Social Media,2025-04-17,0,1664.51,2,4
+O10277,P481,Home,Supplier B,Hyderabad,Social Media,2025-06-02,1,264.38,1,5
+O10278,P292,Home,Supplier B,Delhi,TV,2025-04-26,0,1150.81,2,9
+O10279,P990,Home,Supplier B,Chennai,Email,2025-05-24,0,1391.38,3,3
+O10280,P462,Clothing,Supplier B,Delhi,TV,2025-06-10,1,573.44,3,3
+O10281,P617,Books,Supplier C,Mumbai,TV,2025-04-04,1,1830.53,4,6
+O10282,P662,Electronics,Supplier A,Bangalore,Website Banner,2025-05-11,0,1709.39,4,5
+O10283,P216,Toys,Supplier A,Chennai,Email,2025-05-30,0,1047.95,4,6
+O10284,P463,Electronics,Supplier A,Mumbai,Email,2025-04-24,1,940.07,3,7
+O10285,P709,Books,Supplier B,Chennai,Social Media,2025-05-15,0,625.82,3,3
+O10286,P574,Toys,Supplier B,Mumbai,Social Media,2025-05-25,0,1513.99,1,5
+O10287,P858,Books,Supplier A,Bangalore,Website Banner,2025-05-28,0,437.14,4,8
+O10288,P753,Home,Supplier B,Bangalore,TV,2025-06-14,0,1424.43,3,4
+O10289,P320,Toys,Supplier A,Hyderabad,Social Media,2025-06-24,0,1716.42,1,2
+O10290,P382,Home,Supplier A,Mumbai,Social Media,2025-06-08,0,611.25,3,4
+O10291,P394,Electronics,Supplier A,Hyderabad,Email,2025-05-13,0,1759.57,1,2
+O10292,P351,Electronics,Supplier A,Mumbai,Email,2025-06-07,0,259.98,4,3
+O10293,P629,Toys,Supplier A,Hyderabad,Social Media,2025-05-26,0,1843.02,4,4
+O10294,P576,Toys,Supplier A,Bangalore,Email,2025-04-07,1,413.05,4,4
+O10295,P208,Books,Supplier A,Chennai,Website Banner,2025-04-24,1,1362.37,3,9
+O10296,P908,Books,Supplier B,Hyderabad,Social Media,2025-06-26,0,650.15,3,6
+O10297,P297,Home,Supplier A,Mumbai,Email,2025-05-04,0,1705.79,1,9
+O10298,P647,Toys,Supplier A,Mumbai,Website Banner,2025-04-06,0,1122.14,2,4
+O10299,P130,Electronics,Supplier B,Bangalore,Email,2025-05-17,0,443.43,2,9
+O10300,P684,Books,Supplier B,Mumbai,Email,2025-04-20,0,1227.78,4,9
+O10301,P319,Books,Supplier B,Delhi,Email,2025-05-24,0,934.19,2,6
+O10302,P102,Electronics,Supplier A,Chennai,Social Media,2025-04-24,1,1390.61,4,5
+O10303,P598,Books,Supplier C,Hyderabad,TV,2025-04-02,0,1787.43,1,3
+O10304,P575,Home,Supplier C,Chennai,Email,2025-06-22,0,936.9,2,5
+O10305,P911,Toys,Supplier B,Bangalore,Website Banner,2025-05-03,0,721.79,2,3
+O10306,P848,Electronics,Supplier C,Hyderabad,Social Media,2025-05-04,0,226.13,4,5
+O10307,P628,Toys,Supplier B,Hyderabad,Social Media,2025-04-16,0,1234.71,1,5
+O10308,P311,Books,Supplier A,Delhi,Website Banner,2025-06-12,0,924.09,2,2
+O10309,P911,Books,Supplier C,Bangalore,Email,2025-06-06,0,874.37,2,9
+O10310,P239,Electronics,Supplier A,Mumbai,TV,2025-06-07,1,529.28,2,7
+O10311,P747,Home,Supplier C,Delhi,Email,2025-06-16,0,974.1,1,6
+O10312,P735,Clothing,Supplier A,Delhi,Website Banner,2025-06-20,1,1972.0,1,5
+O10313,P932,Electronics,Supplier C,Chennai,Social Media,2025-06-23,0,735.96,2,4
+O10314,P561,Clothing,Supplier A,Chennai,TV,2025-05-15,0,1279.47,4,8
+O10315,P487,Clothing,Supplier A,Chennai,Social Media,2025-06-15,0,1597.68,4,2
+O10316,P202,Home,Supplier C,Delhi,Website Banner,2025-06-18,0,1548.48,2,8
+O10317,P465,Clothing,Supplier A,Mumbai,Email,2025-05-12,0,791.79,1,1
+O10318,P442,Clothing,Supplier A,Hyderabad,TV,2025-05-14,0,1299.55,2,1
+O10319,P275,Home,Supplier A,Chennai,Social Media,2025-06-21,0,1768.28,1,3
+O10320,P907,Clothing,Supplier C,Mumbai,Social Media,2025-06-27,0,227.81,2,5
+O10321,P451,Clothing,Supplier C,Bangalore,Social Media,2025-06-18,0,984.32,1,6
+O10322,P981,Clothing,Supplier A,Chennai,Email,2025-04-17,0,603.69,3,4
+O10323,P316,Electronics,Supplier A,Hyderabad,TV,2025-04-05,0,899.54,4,7
+O10324,P777,Electronics,Supplier C,Bangalore,Email,2025-06-02,0,948.78,3,7
+O10325,P554,Electronics,Supplier C,Bangalore,Email,2025-04-04,0,1544.01,4,2
+O10326,P627,Home,Supplier A,Hyderabad,Email,2025-04-27,1,368.88,1,2
+O10327,P928,Books,Supplier A,Chennai,Website Banner,2025-05-24,0,1122.65,3,2
+O10328,P381,Clothing,Supplier A,Delhi,Website Banner,2025-06-14,0,1215.55,4,2
+O10329,P680,Clothing,Supplier B,Hyderabad,Website Banner,2025-05-16,0,1089.48,2,9
+O10330,P626,Home,Supplier C,Hyderabad,TV,2025-04-22,0,1517.37,1,5
+O10331,P817,Clothing,Supplier B,Hyderabad,Email,2025-04-04,0,890.82,1,8
+O10332,P590,Electronics,Supplier C,Bangalore,Email,2025-05-30,1,1900.94,2,5
+O10333,P943,Books,Supplier C,Mumbai,Website Banner,2025-04-15,1,1067.25,2,5
+O10334,P486,Toys,Supplier C,Delhi,Email,2025-06-04,0,1228.19,4,1
+O10335,P472,Clothing,Supplier C,Chennai,Email,2025-04-09,0,1685.96,1,6
+O10336,P709,Electronics,Supplier C,Chennai,Social Media,2025-06-20,0,695.42,4,4
+O10337,P636,Toys,Supplier C,Mumbai,Email,2025-06-08,0,335.36,2,3
+O10338,P581,Books,Supplier C,Hyderabad,Social Media,2025-04-03,0,1474.01,1,6
+O10339,P724,Toys,Supplier B,Delhi,Email,2025-06-14,0,1069.42,2,2
+O10340,P370,Electronics,Supplier A,Chennai,TV,2025-06-18,0,1813.71,4,8
+O10341,P642,Toys,Supplier A,Chennai,Website Banner,2025-04-07,1,1968.82,4,1
+O10342,P526,Home,Supplier B,Hyderabad,Social Media,2025-06-14,0,918.4,4,9
+O10343,P305,Toys,Supplier B,Mumbai,Website Banner,2025-06-02,0,947.79,1,8
+O10344,P211,Clothing,Supplier B,Delhi,Social Media,2025-06-15,1,934.33,2,1
+O10345,P752,Clothing,Supplier B,Mumbai,Social Media,2025-04-20,0,784.2,2,9
+O10346,P805,Home,Supplier C,Mumbai,Social Media,2025-05-07,1,1607.04,4,2
+O10347,P387,Electronics,Supplier A,Delhi,TV,2025-04-08,0,1566.19,4,3
+O10348,P965,Clothing,Supplier C,Delhi,Email,2025-06-24,0,1061.56,4,2
+O10349,P106,Books,Supplier A,Chennai,Social Media,2025-04-05,1,280.39,4,8
+O10350,P428,Clothing,Supplier A,Chennai,TV,2025-04-29,0,757.21,3,2
+O10351,P295,Clothing,Supplier B,Delhi,Social Media,2025-05-09,0,726.15,3,2
+O10352,P741,Electronics,Supplier C,Bangalore,Email,2025-06-08,0,1659.96,3,1
+O10353,P568,Toys,Supplier B,Chennai,Social Media,2025-05-12,0,357.64,4,7
+O10354,P919,Clothing,Supplier C,Bangalore,TV,2025-04-16,0,1650.22,4,2
+O10355,P450,Home,Supplier A,Delhi,Email,2025-06-09,1,1404.53,2,5
+O10356,P836,Toys,Supplier B,Chennai,TV,2025-04-26,1,1518.39,1,5
+O10357,P742,Books,Supplier B,Mumbai,Email,2025-05-28,1,977.98,2,3
+O10358,P642,Electronics,Supplier A,Delhi,Email,2025-06-04,0,1423.51,3,3
+O10359,P221,Books,Supplier A,Hyderabad,Website Banner,2025-06-23,0,1296.25,2,3
+O10360,P290,Toys,Supplier A,Bangalore,Website Banner,2025-04-26,0,1584.16,4,6
+O10361,P202,Toys,Supplier B,Delhi,Website Banner,2025-04-07,1,1004.19,3,4
+O10362,P321,Toys,Supplier C,Delhi,Email,2025-06-25,0,1051.09,3,3
+O10363,P650,Books,Supplier B,Chennai,Social Media,2025-05-29,0,1358.44,1,2
+O10364,P716,Toys,Supplier C,Chennai,TV,2025-06-19,0,394.54,1,3
+O10365,P620,Books,Supplier B,Chennai,TV,2025-05-25,0,985.24,3,4
+O10366,P991,Toys,Supplier B,Hyderabad,TV,2025-04-17,0,1949.51,3,6
+O10367,P819,Home,Supplier A,Chennai,Website Banner,2025-05-13,1,267.59,2,4
+O10368,P429,Toys,Supplier C,Delhi,Email,2025-05-26,1,768.81,3,8
+O10369,P944,Books,Supplier B,Chennai,Website Banner,2025-06-17,0,765.4,4,3
+O10370,P509,Clothing,Supplier B,Mumbai,Social Media,2025-05-07,0,1340.24,2,3
+O10371,P962,Toys,Supplier A,Chennai,Email,2025-06-01,1,390.44,4,3
+O10372,P642,Clothing,Supplier A,Hyderabad,TV,2025-05-20,0,1331.38,4,8
+O10373,P679,Home,Supplier C,Mumbai,Website Banner,2025-05-11,0,371.07,4,4
+O10374,P271,Electronics,Supplier B,Delhi,Website Banner,2025-05-10,0,370.92,3,1
+O10375,P814,Home,Supplier C,Delhi,Social Media,2025-05-08,0,1510.73,1,2
+O10376,P368,Toys,Supplier B,Bangalore,Social Media,2025-05-11,0,783.44,1,2
+O10377,P366,Clothing,Supplier C,Mumbai,Website Banner,2025-05-21,0,1959.36,4,3
+O10378,P419,Clothing,Supplier A,Bangalore,Social Media,2025-06-11,0,267.24,3,6
+O10379,P972,Books,Supplier B,Mumbai,TV,2025-05-21,0,1001.19,2,8
+O10380,P944,Clothing,Supplier C,Mumbai,Social Media,2025-06-25,1,403.64,4,1
+O10381,P630,Books,Supplier A,Hyderabad,Social Media,2025-04-08,1,832.48,2,9
+O10382,P151,Electronics,Supplier A,Bangalore,Website Banner,2025-06-23,1,1996.8,2,1
+O10383,P556,Toys,Supplier C,Hyderabad,Website Banner,2025-05-22,0,1799.92,3,2
+O10384,P100,Books,Supplier B,Mumbai,Email,2025-06-01,0,286.98,3,3
+O10385,P819,Electronics,Supplier B,Delhi,Email,2025-04-27,0,1213.86,1,7
+O10386,P840,Clothing,Supplier A,Mumbai,Website Banner,2025-05-21,1,1366.08,1,9
+O10387,P170,Clothing,Supplier B,Hyderabad,Social Media,2025-06-26,0,577.16,3,3
+O10388,P603,Electronics,Supplier B,Bangalore,Social Media,2025-04-29,0,461.19,4,8
+O10389,P742,Clothing,Supplier B,Bangalore,Email,2025-04-07,0,1827.89,1,9
+O10390,P835,Electronics,Supplier A,Hyderabad,Email,2025-06-18,0,1943.87,2,7
+O10391,P531,Books,Supplier C,Bangalore,Email,2025-05-14,0,1985.41,4,4
+O10392,P327,Books,Supplier B,Chennai,TV,2025-04-03,1,1621.57,2,4
+O10393,P319,Electronics,Supplier A,Delhi,TV,2025-06-14,1,1394.3,3,4
+O10394,P949,Books,Supplier A,Delhi,Email,2025-05-12,0,822.31,2,6
+O10395,P580,Books,Supplier C,Delhi,Social Media,2025-06-15,1,508.52,4,4
+O10396,P400,Books,Supplier B,Bangalore,Email,2025-05-27,0,342.17,3,5
+O10397,P224,Home,Supplier B,Bangalore,TV,2025-05-19,0,1447.94,4,9
+O10398,P485,Toys,Supplier C,Mumbai,Social Media,2025-06-07,0,1612.5,2,7
+O10399,P386,Clothing,Supplier C,Mumbai,TV,2025-05-05,0,1687.62,4,8
+O10400,P309,Home,Supplier A,Delhi,Social Media,2025-06-01,0,1844.78,3,5
+O10401,P989,Books,Supplier A,Chennai,TV,2025-04-03,1,1783.87,2,5
+O10402,P397,Electronics,Supplier C,Mumbai,Social Media,2025-06-12,0,1999.53,2,7
+O10403,P214,Books,Supplier B,Mumbai,Social Media,2025-05-10,0,639.32,1,8
+O10404,P790,Toys,Supplier A,Bangalore,Social Media,2025-06-29,0,1573.95,1,9
+O10405,P611,Books,Supplier A,Chennai,Social Media,2025-04-22,1,1255.63,4,2
+O10406,P248,Electronics,Supplier B,Delhi,Website Banner,2025-06-22,0,670.24,1,3
+O10407,P722,Toys,Supplier A,Mumbai,TV,2025-05-30,0,1967.43,1,2
+O10408,P116,Books,Supplier B,Chennai,TV,2025-05-01,0,1816.22,1,7
+O10409,P290,Toys,Supplier B,Chennai,Website Banner,2025-06-13,0,431.33,1,2
+O10410,P813,Clothing,Supplier B,Delhi,Social Media,2025-06-12,0,247.09,3,2
+O10411,P485,Clothing,Supplier C,Chennai,Social Media,2025-05-19,0,1439.0,3,2
+O10412,P563,Books,Supplier C,Chennai,TV,2025-06-17,0,1287.44,1,4
+O10413,P470,Toys,Supplier C,Chennai,Website Banner,2025-05-23,0,1884.47,4,1
+O10414,P778,Electronics,Supplier B,Mumbai,Social Media,2025-06-12,1,621.21,3,2
+O10415,P432,Books,Supplier B,Delhi,Social Media,2025-06-28,0,351.9,1,3
+O10416,P284,Clothing,Supplier C,Chennai,Social Media,2025-05-15,0,666.59,3,7
+O10417,P692,Clothing,Supplier A,Chennai,Email,2025-05-03,1,234.07,2,1
+O10418,P208,Books,Supplier B,Mumbai,Website Banner,2025-05-14,0,264.61,3,6
+O10419,P406,Toys,Supplier A,Delhi,Social Media,2025-06-18,1,1846.74,3,3
+O10420,P613,Clothing,Supplier A,Bangalore,Email,2025-04-09,0,833.63,4,3
+O10421,P106,Toys,Supplier B,Mumbai,Website Banner,2025-06-04,0,939.46,3,4
+O10422,P603,Clothing,Supplier B,Delhi,Social Media,2025-04-12,0,233.07,4,4
+O10423,P468,Clothing,Supplier A,Chennai,TV,2025-06-02,1,686.94,2,7
+O10424,P982,Home,Supplier A,Delhi,Email,2025-04-16,0,1648.51,1,3
+O10425,P150,Clothing,Supplier C,Delhi,Email,2025-04-24,0,1307.88,4,8
+O10426,P720,Electronics,Supplier C,Delhi,Social Media,2025-06-04,1,1556.81,3,8
+O10427,P864,Books,Supplier B,Bangalore,Social Media,2025-06-16,0,1004.98,3,7
+O10428,P868,Books,Supplier C,Delhi,Email,2025-06-26,0,757.51,4,2
+O10429,P935,Toys,Supplier C,Bangalore,TV,2025-04-20,0,1069.06,2,5
+O10430,P924,Clothing,Supplier C,Chennai,TV,2025-05-21,0,781.53,1,6
+O10431,P471,Electronics,Supplier C,Bangalore,Website Banner,2025-05-26,0,1710.15,3,4
+O10432,P963,Toys,Supplier A,Chennai,Social Media,2025-05-30,0,735.81,2,5
+O10433,P398,Home,Supplier B,Chennai,TV,2025-05-24,0,1387.57,1,9
+O10434,P414,Toys,Supplier C,Bangalore,Website Banner,2025-04-11,0,446.57,1,7
+O10435,P835,Toys,Supplier A,Mumbai,TV,2025-05-25,1,1436.36,3,2
+O10436,P867,Clothing,Supplier A,Hyderabad,Social Media,2025-06-19,1,1843.94,4,1
+O10437,P465,Home,Supplier A,Delhi,Website Banner,2025-06-25,0,1295.45,3,2
+O10438,P168,Toys,Supplier C,Hyderabad,Website Banner,2025-06-28,1,1207.74,3,3
+O10439,P170,Electronics,Supplier C,Delhi,Website Banner,2025-05-26,0,1930.01,3,2
+O10440,P739,Electronics,Supplier B,Delhi,TV,2025-04-09,0,1329.31,2,3
+O10441,P276,Books,Supplier C,Chennai,Social Media,2025-06-29,0,667.19,4,9
+O10442,P295,Home,Supplier C,Delhi,Website Banner,2025-06-16,0,726.3,2,4
+O10443,P501,Home,Supplier A,Delhi,Email,2025-06-11,0,1469.55,3,9
+O10444,P743,Books,Supplier B,Bangalore,Social Media,2025-06-20,1,1523.79,4,3
+O10445,P537,Toys,Supplier C,Hyderabad,Email,2025-06-04,0,746.29,1,1
+O10446,P208,Home,Supplier C,Bangalore,Email,2025-05-24,1,821.62,4,5
+O10447,P985,Electronics,Supplier A,Delhi,Website Banner,2025-05-31,0,1983.9,3,2
+O10448,P282,Electronics,Supplier A,Chennai,Website Banner,2025-04-23,0,383.51,4,4
+O10449,P921,Clothing,Supplier C,Bangalore,TV,2025-05-19,0,928.36,1,2
+O10450,P808,Home,Supplier B,Bangalore,TV,2025-06-27,0,312.41,1,2
+O10451,P575,Toys,Supplier B,Mumbai,TV,2025-05-25,0,1677.94,4,3
+O10452,P493,Books,Supplier A,Delhi,Social Media,2025-06-03,0,366.22,1,5
+O10453,P283,Books,Supplier A,Chennai,TV,2025-06-01,0,1413.21,2,4
+O10454,P596,Toys,Supplier C,Bangalore,Email,2025-04-13,0,301.67,4,2
+O10455,P931,Clothing,Supplier A,Bangalore,TV,2025-04-18,0,1411.14,1,2
+O10456,P621,Books,Supplier C,Chennai,Website Banner,2025-06-11,0,1717.47,1,6
+O10457,P769,Home,Supplier B,Delhi,TV,2025-06-28,1,917.88,4,7
+O10458,P324,Clothing,Supplier B,Mumbai,Social Media,2025-04-24,0,1139.83,2,6
+O10459,P441,Home,Supplier C,Bangalore,Social Media,2025-06-08,0,922.78,4,7
+O10460,P853,Electronics,Supplier A,Mumbai,Email,2025-06-05,1,740.88,1,1
+O10461,P532,Clothing,Supplier B,Hyderabad,Social Media,2025-05-20,0,1645.87,4,6
+O10462,P695,Books,Supplier A,Delhi,TV,2025-04-01,0,689.6,1,3
+O10463,P427,Clothing,Supplier B,Hyderabad,Website Banner,2025-06-26,1,1501.3,3,1
+O10464,P143,Clothing,Supplier C,Hyderabad,Social Media,2025-05-02,0,571.15,4,8
+O10465,P110,Clothing,Supplier C,Hyderabad,Email,2025-05-21,0,649.74,4,4
+O10466,P662,Clothing,Supplier C,Delhi,TV,2025-05-27,0,805.63,1,8
+O10467,P815,Home,Supplier B,Delhi,Email,2025-05-08,1,1260.48,1,4
+O10468,P606,Electronics,Supplier A,Chennai,Social Media,2025-05-17,1,1017.96,1,4
+O10469,P593,Toys,Supplier A,Mumbai,Social Media,2025-04-29,0,1541.26,1,4
+O10470,P967,Clothing,Supplier A,Mumbai,Email,2025-05-30,0,584.42,4,6
+O10471,P223,Books,Supplier B,Chennai,TV,2025-06-27,0,219.21,1,9
+O10472,P535,Clothing,Supplier B,Chennai,Social Media,2025-05-17,0,1597.8,4,5
+O10473,P746,Books,Supplier B,Hyderabad,Website Banner,2025-05-14,0,1678.97,2,8
+O10474,P801,Home,Supplier B,Chennai,Social Media,2025-06-13,0,307.06,4,8
+O10475,P646,Books,Supplier B,Bangalore,TV,2025-05-30,1,1299.63,1,4
+O10476,P678,Toys,Supplier A,Mumbai,Social Media,2025-04-27,1,880.77,1,9
+O10477,P446,Electronics,Supplier B,Chennai,Email,2025-06-03,0,1629.01,2,9
+O10478,P191,Books,Supplier B,Bangalore,Social Media,2025-05-28,0,1773.95,4,5
+O10479,P327,Books,Supplier A,Bangalore,Social Media,2025-06-20,0,1731.81,2,6
+O10480,P881,Electronics,Supplier B,Bangalore,TV,2025-05-29,0,1598.97,4,5
+O10481,P817,Toys,Supplier A,Bangalore,Email,2025-06-07,0,684.29,1,3
+O10482,P391,Clothing,Supplier A,Hyderabad,TV,2025-06-19,1,1661.4,4,8
+O10483,P624,Books,Supplier C,Bangalore,Social Media,2025-04-25,0,1160.26,1,9
+O10484,P650,Electronics,Supplier C,Hyderabad,Website Banner,2025-05-10,0,294.96,1,4
+O10485,P984,Home,Supplier C,Hyderabad,Social Media,2025-05-14,0,1022.49,3,9
+O10486,P600,Electronics,Supplier C,Bangalore,TV,2025-05-25,0,1895.88,3,9
+O10487,P116,Home,Supplier B,Mumbai,Website Banner,2025-05-24,0,1798.15,4,7
+O10488,P212,Toys,Supplier C,Bangalore,TV,2025-04-16,0,384.08,1,8
+O10489,P171,Clothing,Supplier A,Bangalore,TV,2025-05-25,0,1539.43,2,3
+O10490,P472,Electronics,Supplier B,Bangalore,Email,2025-05-23,1,1650.43,1,5
+O10491,P864,Books,Supplier C,Mumbai,Website Banner,2025-05-14,0,688.5,2,3
+O10492,P132,Toys,Supplier A,Delhi,Social Media,2025-05-05,0,1048.9,4,7
+O10493,P709,Electronics,Supplier B,Delhi,TV,2025-04-04,0,1479.78,4,6
+O10494,P638,Books,Supplier B,Hyderabad,Social Media,2025-05-03,0,990.27,2,3
+O10495,P138,Electronics,Supplier C,Hyderabad,Email,2025-05-24,0,403.03,2,9
+O10496,P419,Home,Supplier B,Mumbai,Email,2025-04-30,0,1470.59,1,1
+O10497,P346,Electronics,Supplier A,Chennai,Website Banner,2025-05-31,0,1840.95,4,3
+O10498,P233,Electronics,Supplier B,Delhi,Email,2025-05-27,0,1374.47,1,7
+O10499,P722,Electronics,Supplier A,Hyderabad,Email,2025-06-19,0,1592.84,2,3
+O10500,P370,Toys,Supplier B,Delhi,Social Media,2025-04-26,0,845.05,3,3
+O10501,P636,Electronics,Supplier C,Mumbai,Email,2025-05-22,1,529.76,3,2
+O10502,P360,Books,Supplier A,Mumbai,Email,2025-05-15,0,1356.99,3,9
+O10503,P553,Home,Supplier B,Chennai,TV,2025-06-21,0,789.99,2,4
+O10504,P893,Home,Supplier B,Chennai,Email,2025-04-15,0,1748.13,1,6
+O10505,P597,Electronics,Supplier B,Mumbai,TV,2025-06-14,0,420.73,4,2
+O10506,P945,Toys,Supplier A,Hyderabad,Email,2025-04-30,1,980.23,2,9
+O10507,P558,Toys,Supplier A,Delhi,Email,2025-04-16,0,914.11,3,7
+O10508,P507,Books,Supplier A,Bangalore,Website Banner,2025-05-11,1,1888.5,1,5
+O10509,P836,Electronics,Supplier C,Chennai,Website Banner,2025-04-06,1,475.64,4,7
+O10510,P649,Home,Supplier C,Bangalore,TV,2025-06-23,0,217.72,4,4
+O10511,P584,Toys,Supplier A,Hyderabad,Email,2025-05-28,0,628.55,2,7
+O10512,P377,Electronics,Supplier B,Chennai,Social Media,2025-06-17,0,1676.5,2,2
+O10513,P477,Toys,Supplier C,Bangalore,Website Banner,2025-06-22,1,576.78,4,7
+O10514,P102,Toys,Supplier A,Hyderabad,Social Media,2025-05-03,0,633.58,4,4
+O10515,P729,Home,Supplier B,Delhi,Website Banner,2025-05-04,0,433.82,3,4
+O10516,P787,Clothing,Supplier C,Hyderabad,Website Banner,2025-04-13,0,1487.79,4,1
+O10517,P789,Books,Supplier B,Chennai,Email,2025-04-07,0,324.51,2,3
+O10518,P610,Books,Supplier B,Mumbai,Website Banner,2025-04-22,0,796.17,1,5
+O10519,P740,Home,Supplier B,Delhi,Social Media,2025-06-09,0,708.5,3,5
+O10520,P632,Toys,Supplier B,Bangalore,Website Banner,2025-06-21,0,1199.29,3,2
+O10521,P224,Electronics,Supplier C,Chennai,TV,2025-04-13,1,1514.75,4,4
+O10522,P977,Toys,Supplier C,Mumbai,Email,2025-05-15,0,1159.18,1,1
+O10523,P419,Home,Supplier C,Hyderabad,Email,2025-05-28,0,1875.85,3,9
+O10524,P663,Books,Supplier A,Mumbai,TV,2025-05-21,0,1912.6,2,1
+O10525,P755,Toys,Supplier C,Chennai,TV,2025-04-07,0,850.64,4,6
+O10526,P677,Books,Supplier B,Chennai,TV,2025-04-29,0,1599.82,2,7
+O10527,P312,Electronics,Supplier C,Mumbai,Website Banner,2025-06-24,0,1529.84,4,3
+O10528,P381,Books,Supplier B,Hyderabad,Email,2025-06-28,0,1807.34,3,1
+O10529,P819,Books,Supplier A,Mumbai,TV,2025-05-29,0,1006.3,4,7
+O10530,P383,Clothing,Supplier B,Chennai,Website Banner,2025-04-28,0,1154.85,1,3
+O10531,P554,Clothing,Supplier B,Chennai,TV,2025-06-26,0,948.39,2,6
+O10532,P576,Clothing,Supplier B,Bangalore,Social Media,2025-06-16,0,1730.68,1,6
+O10533,P885,Books,Supplier A,Bangalore,Social Media,2025-06-05,0,613.46,2,4
+O10534,P500,Home,Supplier C,Delhi,Email,2025-06-20,0,631.48,2,6
+O10535,P620,Books,Supplier C,Chennai,Website Banner,2025-04-30,0,870.69,4,4
+O10536,P477,Home,Supplier A,Bangalore,Social Media,2025-06-15,0,614.62,3,8
+O10537,P205,Home,Supplier B,Mumbai,Social Media,2025-06-08,0,1209.81,3,9
+O10538,P317,Clothing,Supplier C,Hyderabad,Website Banner,2025-06-25,1,442.08,1,2
+O10539,P372,Toys,Supplier A,Mumbai,TV,2025-05-20,1,776.34,4,7
+O10540,P127,Electronics,Supplier C,Hyderabad,Website Banner,2025-06-18,0,1844.2,3,9
+O10541,P952,Clothing,Supplier A,Bangalore,TV,2025-06-01,0,936.61,2,9
+O10542,P871,Clothing,Supplier B,Delhi,Social Media,2025-05-16,1,1546.82,2,5
+O10543,P279,Toys,Supplier C,Mumbai,Social Media,2025-05-09,0,404.23,4,1
+O10544,P968,Electronics,Supplier A,Mumbai,Social Media,2025-06-11,0,645.62,1,6
+O10545,P985,Books,Supplier C,Mumbai,Email,2025-05-17,1,1653.22,4,8
+O10546,P188,Books,Supplier C,Hyderabad,Email,2025-05-07,0,1573.39,1,1
+O10547,P835,Clothing,Supplier C,Bangalore,Email,2025-04-25,0,895.08,4,2
+O10548,P181,Electronics,Supplier C,Mumbai,Website Banner,2025-06-26,0,1917.91,2,1
+O10549,P614,Clothing,Supplier A,Mumbai,Social Media,2025-04-09,0,1839.16,4,5
+O10550,P801,Home,Supplier B,Delhi,Social Media,2025-05-09,0,1932.14,3,2
+O10551,P107,Clothing,Supplier A,Delhi,Website Banner,2025-05-27,0,970.25,3,4
+O10552,P741,Clothing,Supplier A,Bangalore,Email,2025-06-19,0,555.45,4,1
+O10553,P970,Books,Supplier A,Bangalore,Website Banner,2025-06-27,0,1327.99,1,7
+O10554,P174,Books,Supplier B,Chennai,Email,2025-04-29,0,1432.59,1,8
+O10555,P426,Books,Supplier C,Delhi,Social Media,2025-04-01,0,425.8,2,5
+O10556,P210,Home,Supplier C,Chennai,TV,2025-06-26,0,1615.67,2,2
+O10557,P201,Books,Supplier C,Hyderabad,Email,2025-04-05,0,232.51,1,8
+O10558,P601,Electronics,Supplier B,Chennai,Social Media,2025-04-30,0,1068.91,4,1
+O10559,P240,Toys,Supplier C,Mumbai,Social Media,2025-04-21,1,795.83,2,7
+O10560,P541,Electronics,Supplier B,Chennai,TV,2025-06-25,0,1532.55,1,1
+O10561,P613,Electronics,Supplier C,Bangalore,Social Media,2025-05-15,0,762.97,1,6
+O10562,P656,Books,Supplier C,Hyderabad,Social Media,2025-06-15,0,1688.25,4,6
+O10563,P278,Toys,Supplier A,Mumbai,Email,2025-04-28,0,1270.92,3,5
+O10564,P338,Toys,Supplier B,Chennai,Email,2025-06-14,0,1629.01,1,2
+O10565,P887,Toys,Supplier A,Hyderabad,TV,2025-05-18,0,1980.81,2,2
+O10566,P610,Home,Supplier A,Hyderabad,TV,2025-05-01,0,1422.49,4,9
+O10567,P164,Books,Supplier A,Mumbai,Social Media,2025-05-25,0,1972.91,4,5
+O10568,P734,Toys,Supplier B,Chennai,Email,2025-04-01,1,251.91,4,5
+O10569,P845,Home,Supplier B,Hyderabad,TV,2025-06-24,1,808.65,3,7
+O10570,P188,Clothing,Supplier C,Hyderabad,TV,2025-04-28,0,394.14,3,6
+O10571,P964,Clothing,Supplier A,Delhi,Website Banner,2025-06-11,0,672.15,2,2
+O10572,P581,Home,Supplier C,Hyderabad,TV,2025-06-15,0,1710.0,2,1
+O10573,P539,Home,Supplier A,Delhi,Social Media,2025-05-28,0,258.18,4,5
+O10574,P904,Books,Supplier B,Chennai,Email,2025-05-23,0,1136.33,2,4
+O10575,P595,Books,Supplier B,Chennai,TV,2025-06-19,0,1220.83,1,3
+O10576,P627,Clothing,Supplier B,Chennai,Website Banner,2025-04-21,1,1210.07,3,2
+O10577,P658,Toys,Supplier A,Bangalore,Email,2025-06-16,0,1055.53,4,2
+O10578,P955,Clothing,Supplier B,Chennai,TV,2025-06-07,0,1623.09,4,4
+O10579,P418,Toys,Supplier A,Hyderabad,Website Banner,2025-04-03,0,440.38,1,2
+O10580,P235,Toys,Supplier C,Mumbai,TV,2025-05-26,0,759.04,1,4
+O10581,P496,Books,Supplier A,Delhi,Email,2025-06-10,0,1308.31,1,3
+O10582,P538,Electronics,Supplier C,Bangalore,Email,2025-04-14,0,1443.71,1,9
+O10583,P287,Electronics,Supplier A,Chennai,Email,2025-05-12,1,927.47,4,7
+O10584,P200,Home,Supplier C,Chennai,Social Media,2025-06-17,0,1775.67,3,3
+O10585,P644,Books,Supplier B,Mumbai,TV,2025-05-28,0,947.89,3,8
+O10586,P652,Toys,Supplier C,Mumbai,Social Media,2025-04-14,1,925.0,1,9
+O10587,P366,Electronics,Supplier B,Bangalore,Email,2025-04-06,0,265.17,2,7
+O10588,P946,Toys,Supplier B,Delhi,Website Banner,2025-06-22,0,1192.05,4,6
+O10589,P180,Electronics,Supplier C,Chennai,TV,2025-04-21,0,1475.63,3,4
+O10590,P510,Electronics,Supplier A,Bangalore,Social Media,2025-04-16,0,405.99,1,5
+O10591,P906,Electronics,Supplier A,Hyderabad,TV,2025-05-28,0,749.78,2,8
+O10592,P646,Books,Supplier A,Hyderabad,Website Banner,2025-04-28,0,1606.26,2,3
+O10593,P491,Clothing,Supplier A,Bangalore,Social Media,2025-06-20,1,858.65,1,2
+O10594,P327,Toys,Supplier A,Chennai,Email,2025-06-23,0,634.88,4,3
+O10595,P767,Books,Supplier B,Bangalore,Social Media,2025-06-27,0,1409.96,3,7
+O10596,P764,Books,Supplier A,Chennai,TV,2025-06-04,0,554.17,2,8
+O10597,P687,Books,Supplier B,Mumbai,TV,2025-05-02,0,1812.18,3,1
+O10598,P750,Books,Supplier B,Bangalore,TV,2025-06-25,0,390.08,3,7
+O10599,P701,Books,Supplier B,Chennai,TV,2025-04-14,0,1471.79,2,9
+O10600,P307,Home,Supplier C,Bangalore,Email,2025-05-18,0,1099.19,1,3
+O10601,P738,Toys,Supplier C,Bangalore,Social Media,2025-04-05,0,1765.87,2,3
+O10602,P338,Books,Supplier B,Chennai,Email,2025-04-14,1,427.15,2,8
+O10603,P637,Toys,Supplier C,Chennai,Email,2025-04-21,0,1420.21,4,4
+O10604,P630,Home,Supplier A,Delhi,Email,2025-04-06,0,1229.7,3,8
+O10605,P566,Home,Supplier A,Bangalore,TV,2025-06-10,1,1064.16,1,5
+O10606,P523,Toys,Supplier B,Hyderabad,TV,2025-04-23,0,1084.53,3,3
+O10607,P801,Electronics,Supplier A,Bangalore,TV,2025-06-18,0,1499.56,2,4
+O10608,P903,Clothing,Supplier B,Bangalore,Social Media,2025-06-11,1,1887.93,1,4
+O10609,P958,Electronics,Supplier B,Chennai,Website Banner,2025-06-05,0,364.25,1,8
+O10610,P948,Electronics,Supplier A,Bangalore,TV,2025-06-09,0,235.1,1,6
+O10611,P287,Electronics,Supplier C,Bangalore,Social Media,2025-05-24,0,1650.27,1,7
+O10612,P183,Books,Supplier A,Hyderabad,TV,2025-06-08,0,394.7,4,9
+O10613,P722,Home,Supplier A,Chennai,TV,2025-05-08,0,1976.05,1,6
+O10614,P705,Electronics,Supplier B,Bangalore,Email,2025-06-22,0,1314.83,2,3
+O10615,P861,Home,Supplier B,Mumbai,Email,2025-05-21,0,1371.56,4,3
+O10616,P116,Toys,Supplier B,Delhi,Email,2025-05-18,0,558.01,2,3
+O10617,P447,Clothing,Supplier B,Hyderabad,Social Media,2025-04-05,0,632.56,2,2
+O10618,P702,Toys,Supplier C,Bangalore,Website Banner,2025-05-08,0,1386.83,3,1
+O10619,P566,Toys,Supplier C,Mumbai,Website Banner,2025-04-05,1,1837.51,1,1
+O10620,P331,Books,Supplier C,Bangalore,Social Media,2025-06-22,0,1968.3,1,4
+O10621,P426,Clothing,Supplier B,Bangalore,TV,2025-04-27,1,556.46,2,3
+O10622,P670,Toys,Supplier B,Chennai,Social Media,2025-06-29,0,441.42,1,5
+O10623,P448,Toys,Supplier B,Chennai,TV,2025-05-04,0,301.52,4,9
+O10624,P953,Clothing,Supplier C,Chennai,Social Media,2025-05-21,0,1762.93,3,8
+O10625,P423,Clothing,Supplier B,Mumbai,Social Media,2025-05-15,0,730.49,1,9
+O10626,P206,Toys,Supplier A,Bangalore,Social Media,2025-05-23,0,203.26,1,5
+O10627,P222,Clothing,Supplier A,Delhi,Website Banner,2025-06-05,0,602.87,4,8
+O10628,P599,Toys,Supplier B,Hyderabad,Email,2025-05-11,0,812.79,3,4
+O10629,P498,Toys,Supplier A,Chennai,Social Media,2025-06-29,0,1983.78,4,5
+O10630,P702,Books,Supplier A,Chennai,Website Banner,2025-06-01,0,1142.37,2,3
+O10631,P173,Electronics,Supplier C,Bangalore,Email,2025-05-27,0,568.49,2,5
+O10632,P330,Toys,Supplier B,Bangalore,Email,2025-05-01,0,802.67,1,3
+O10633,P409,Home,Supplier B,Mumbai,Social Media,2025-06-10,0,794.55,3,5
+O10634,P809,Electronics,Supplier C,Mumbai,TV,2025-06-02,0,235.51,2,5
+O10635,P844,Electronics,Supplier A,Chennai,TV,2025-05-10,0,443.33,4,6
+O10636,P489,Electronics,Supplier A,Bangalore,TV,2025-06-02,0,1451.35,2,9
+O10637,P675,Books,Supplier B,Delhi,Social Media,2025-05-08,1,416.45,2,1
+O10638,P145,Toys,Supplier A,Hyderabad,TV,2025-05-06,0,615.32,4,6
+O10639,P414,Books,Supplier C,Bangalore,Website Banner,2025-05-18,0,831.33,1,1
+O10640,P794,Toys,Supplier C,Bangalore,Website Banner,2025-04-06,0,1563.92,3,6
+O10641,P947,Books,Supplier B,Mumbai,Website Banner,2025-05-14,1,1248.32,1,2
+O10642,P801,Books,Supplier C,Hyderabad,Website Banner,2025-05-13,0,1440.2,4,8
+O10643,P878,Home,Supplier C,Chennai,Email,2025-05-17,1,1220.62,2,3
+O10644,P205,Books,Supplier B,Bangalore,Website Banner,2025-05-09,0,1430.47,3,6
+O10645,P762,Clothing,Supplier C,Chennai,TV,2025-05-18,0,205.12,1,6
+O10646,P213,Home,Supplier C,Bangalore,Social Media,2025-06-11,1,1875.62,4,4
+O10647,P739,Books,Supplier C,Chennai,TV,2025-04-16,0,399.66,2,5
+O10648,P366,Electronics,Supplier A,Hyderabad,Website Banner,2025-04-09,0,931.25,2,2
+O10649,P300,Clothing,Supplier B,Mumbai,Email,2025-06-01,0,1587.87,1,8
+O10650,P795,Clothing,Supplier B,Hyderabad,Website Banner,2025-05-14,1,983.42,4,7
+O10651,P952,Clothing,Supplier B,Delhi,Social Media,2025-04-12,0,1904.32,2,6
+O10652,P570,Home,Supplier A,Mumbai,TV,2025-05-07,0,1041.66,2,7
+O10653,P823,Books,Supplier A,Hyderabad,Social Media,2025-04-07,0,1774.89,3,1
+O10654,P122,Books,Supplier B,Delhi,Social Media,2025-06-02,0,1659.49,2,5
+O10655,P803,Electronics,Supplier A,Bangalore,Social Media,2025-05-17,1,1965.78,1,7
+O10656,P228,Electronics,Supplier B,Bangalore,TV,2025-04-02,0,1867.79,4,1
+O10657,P290,Clothing,Supplier A,Chennai,Website Banner,2025-04-27,0,1816.62,4,2
+O10658,P945,Electronics,Supplier C,Mumbai,Social Media,2025-06-21,1,1516.89,3,9
+O10659,P821,Home,Supplier C,Bangalore,TV,2025-06-17,0,860.6,4,3
+O10660,P139,Books,Supplier B,Mumbai,Email,2025-04-29,0,391.03,1,6
+O10661,P307,Clothing,Supplier A,Bangalore,TV,2025-04-12,0,1439.56,2,7
+O10662,P346,Electronics,Supplier A,Chennai,Email,2025-05-10,0,1961.58,3,9
+O10663,P718,Home,Supplier C,Hyderabad,TV,2025-05-14,0,1507.89,4,5
+O10664,P192,Home,Supplier C,Chennai,Website Banner,2025-06-04,0,1871.71,3,4
+O10665,P108,Electronics,Supplier A,Delhi,Social Media,2025-04-25,0,1647.75,3,2
+O10666,P996,Books,Supplier A,Bangalore,Website Banner,2025-04-21,0,493.61,4,3
+O10667,P533,Electronics,Supplier A,Delhi,TV,2025-04-04,1,648.57,3,5
+O10668,P465,Clothing,Supplier A,Delhi,Social Media,2025-06-25,0,815.36,4,2
+O10669,P934,Electronics,Supplier A,Mumbai,Email,2025-06-07,0,502.87,1,4
+O10670,P100,Home,Supplier A,Bangalore,TV,2025-05-01,0,1246.97,4,1
+O10671,P468,Electronics,Supplier B,Delhi,Social Media,2025-05-21,1,1955.81,2,4
+O10672,P365,Books,Supplier A,Hyderabad,Email,2025-06-01,0,1570.63,4,7
+O10673,P766,Toys,Supplier C,Delhi,Email,2025-05-07,0,962.1,2,3
+O10674,P886,Electronics,Supplier B,Hyderabad,Website Banner,2025-05-02,0,208.11,3,8
+O10675,P627,Books,Supplier A,Mumbai,TV,2025-05-07,0,763.9,4,6
+O10676,P134,Books,Supplier C,Delhi,Email,2025-06-22,0,1148.17,2,6
+O10677,P636,Home,Supplier B,Chennai,Social Media,2025-05-27,0,783.65,4,1
+O10678,P238,Books,Supplier C,Mumbai,Email,2025-04-07,0,399.86,4,5
+O10679,P554,Books,Supplier A,Hyderabad,Email,2025-04-30,1,996.98,4,3
+O10680,P234,Books,Supplier A,Mumbai,Website Banner,2025-06-27,0,655.86,1,1
+O10681,P663,Books,Supplier A,Delhi,Website Banner,2025-05-23,0,1836.62,2,8
+O10682,P151,Clothing,Supplier A,Bangalore,Social Media,2025-04-18,0,383.16,1,7
+O10683,P704,Clothing,Supplier B,Bangalore,Website Banner,2025-04-01,0,288.47,1,7
+O10684,P871,Home,Supplier B,Hyderabad,Email,2025-05-20,0,209.57,2,4
+O10685,P591,Electronics,Supplier C,Hyderabad,Email,2025-04-02,0,790.53,4,6
+O10686,P830,Books,Supplier A,Bangalore,Website Banner,2025-05-09,0,1388.7,1,9
+O10687,P190,Electronics,Supplier C,Hyderabad,Email,2025-05-05,0,1514.74,1,3
+O10688,P304,Electronics,Supplier B,Mumbai,Email,2025-06-01,0,1015.87,1,9
+O10689,P252,Home,Supplier A,Chennai,Social Media,2025-04-26,0,1431.79,4,4
+O10690,P183,Books,Supplier A,Chennai,Website Banner,2025-04-10,0,847.85,1,5
+O10691,P152,Books,Supplier B,Mumbai,Email,2025-06-23,0,1402.05,3,7
+O10692,P964,Toys,Supplier B,Chennai,Website Banner,2025-04-30,0,273.07,2,6
+O10693,P695,Electronics,Supplier B,Delhi,Social Media,2025-06-08,0,903.36,3,8
+O10694,P173,Electronics,Supplier B,Mumbai,Website Banner,2025-05-31,0,1623.53,4,8
+O10695,P140,Clothing,Supplier B,Hyderabad,Email,2025-04-18,1,1645.41,1,8
+O10696,P843,Toys,Supplier A,Mumbai,Website Banner,2025-04-07,0,1489.07,2,3
+O10697,P740,Clothing,Supplier B,Bangalore,Email,2025-05-16,0,567.63,1,6
+O10698,P102,Clothing,Supplier A,Hyderabad,Email,2025-06-15,0,644.97,4,7
+O10699,P535,Clothing,Supplier A,Bangalore,Email,2025-04-12,0,1992.96,2,9
+O10700,P508,Home,Supplier B,Hyderabad,Social Media,2025-05-12,0,386.08,3,4
+O10701,P183,Home,Supplier B,Chennai,Website Banner,2025-06-04,1,525.19,2,5
+O10702,P417,Clothing,Supplier A,Mumbai,Social Media,2025-05-27,0,434.05,1,8
+O10703,P874,Toys,Supplier B,Delhi,Website Banner,2025-04-14,1,789.78,2,1
+O10704,P673,Electronics,Supplier B,Hyderabad,Social Media,2025-06-29,1,578.32,4,6
+O10705,P828,Toys,Supplier B,Hyderabad,TV,2025-06-20,0,1095.84,4,4
+O10706,P890,Books,Supplier C,Bangalore,Email,2025-05-10,0,1056.84,2,5
+O10707,P256,Home,Supplier A,Chennai,Email,2025-05-20,0,1822.71,4,5
+O10708,P242,Electronics,Supplier C,Bangalore,Social Media,2025-04-02,0,262.53,4,2
+O10709,P599,Electronics,Supplier B,Bangalore,TV,2025-06-15,1,775.78,4,8
+O10710,P142,Books,Supplier C,Chennai,Email,2025-05-24,0,1273.98,3,2
+O10711,P109,Books,Supplier B,Delhi,Website Banner,2025-06-29,1,1288.64,1,4
+O10712,P203,Clothing,Supplier C,Bangalore,Social Media,2025-05-23,0,1064.23,4,5
+O10713,P943,Home,Supplier B,Bangalore,Email,2025-04-17,1,1668.2,2,1
+O10714,P379,Home,Supplier C,Hyderabad,Email,2025-04-09,1,312.9,4,6
+O10715,P478,Toys,Supplier C,Chennai,Social Media,2025-04-14,0,1667.88,3,2
+O10716,P923,Clothing,Supplier C,Mumbai,Social Media,2025-06-06,0,1090.56,2,5
+O10717,P204,Clothing,Supplier A,Delhi,Website Banner,2025-04-18,0,440.77,1,6
+O10718,P313,Clothing,Supplier C,Delhi,Website Banner,2025-05-24,1,1794.26,2,8
+O10719,P934,Clothing,Supplier A,Chennai,Email,2025-06-07,1,1368.61,2,9
+O10720,P393,Home,Supplier B,Hyderabad,Email,2025-06-03,0,494.38,2,6
+O10721,P223,Home,Supplier C,Hyderabad,Social Media,2025-05-25,0,260.57,2,5
+O10722,P211,Clothing,Supplier B,Chennai,Email,2025-04-20,0,454.0,4,4
+O10723,P844,Toys,Supplier B,Hyderabad,Email,2025-05-29,1,1295.84,1,2
+O10724,P505,Electronics,Supplier C,Delhi,Social Media,2025-04-16,0,522.73,4,2
+O10725,P634,Electronics,Supplier A,Delhi,Email,2025-04-20,1,606.37,3,7
+O10726,P834,Toys,Supplier C,Mumbai,Email,2025-06-16,0,245.25,3,5
+O10727,P783,Clothing,Supplier B,Chennai,TV,2025-06-27,0,1501.28,2,7
+O10728,P135,Home,Supplier B,Bangalore,Website Banner,2025-04-07,0,1658.66,4,1
+O10729,P537,Electronics,Supplier C,Bangalore,Social Media,2025-05-06,0,1634.33,4,1
+O10730,P589,Books,Supplier A,Mumbai,TV,2025-04-27,0,429.62,1,5
+O10731,P196,Books,Supplier A,Mumbai,Website Banner,2025-06-03,0,1825.94,1,2
+O10732,P964,Toys,Supplier B,Hyderabad,Website Banner,2025-04-28,0,1410.1,1,8
+O10733,P481,Clothing,Supplier B,Mumbai,Website Banner,2025-04-19,0,1815.55,4,3
+O10734,P210,Electronics,Supplier A,Mumbai,TV,2025-04-14,0,1004.89,1,1
+O10735,P505,Clothing,Supplier C,Bangalore,TV,2025-05-15,0,986.52,1,2
+O10736,P537,Electronics,Supplier B,Hyderabad,Website Banner,2025-04-01,1,1612.17,1,7
+O10737,P498,Toys,Supplier A,Mumbai,Email,2025-06-14,0,367.94,2,6
+O10738,P894,Toys,Supplier B,Mumbai,Email,2025-05-01,1,1137.57,3,8
+O10739,P418,Books,Supplier C,Hyderabad,TV,2025-04-04,0,1705.49,3,7
+O10740,P520,Clothing,Supplier A,Chennai,TV,2025-05-28,0,1694.35,4,8
+O10741,P905,Books,Supplier B,Hyderabad,TV,2025-04-17,0,1921.04,4,3
+O10742,P508,Clothing,Supplier C,Bangalore,Website Banner,2025-06-19,0,1456.89,2,6
+O10743,P909,Books,Supplier B,Chennai,Email,2025-04-29,0,573.99,3,7
+O10744,P347,Home,Supplier C,Delhi,TV,2025-05-25,0,236.5,1,1
+O10745,P996,Home,Supplier C,Hyderabad,TV,2025-06-15,0,1062.95,1,1
+O10746,P846,Home,Supplier A,Bangalore,Social Media,2025-04-21,0,1124.67,4,7
+O10747,P915,Home,Supplier C,Chennai,Website Banner,2025-04-13,0,632.47,3,3
+O10748,P243,Electronics,Supplier B,Hyderabad,Social Media,2025-04-03,0,424.46,4,3
+O10749,P908,Home,Supplier C,Mumbai,Email,2025-06-11,0,1255.17,4,5
+O10750,P244,Toys,Supplier C,Hyderabad,Social Media,2025-06-11,0,1575.66,1,6
+O10751,P116,Toys,Supplier A,Delhi,Social Media,2025-04-15,0,1987.68,1,2
+O10752,P770,Electronics,Supplier C,Hyderabad,Social Media,2025-06-23,0,1564.94,3,3
+O10753,P415,Home,Supplier C,Chennai,Website Banner,2025-04-12,0,1628.54,4,6
+O10754,P800,Home,Supplier B,Chennai,Email,2025-04-27,1,1309.63,2,3
+O10755,P730,Home,Supplier A,Hyderabad,Social Media,2025-05-19,1,1974.66,3,5
+O10756,P830,Books,Supplier A,Chennai,Website Banner,2025-04-25,0,1351.92,4,9
+O10757,P349,Clothing,Supplier A,Mumbai,Email,2025-05-28,0,1748.46,3,3
+O10758,P275,Books,Supplier C,Hyderabad,TV,2025-04-07,0,1902.41,3,6
+O10759,P566,Clothing,Supplier A,Mumbai,Social Media,2025-06-12,0,1873.75,3,5
+O10760,P158,Home,Supplier C,Mumbai,Email,2025-06-12,0,886.55,2,5
+O10761,P594,Home,Supplier C,Bangalore,Social Media,2025-05-08,0,341.59,2,6
+O10762,P341,Books,Supplier B,Hyderabad,TV,2025-04-13,0,509.37,1,6
+O10763,P170,Books,Supplier B,Chennai,Email,2025-05-05,0,306.6,1,1
+O10764,P815,Clothing,Supplier B,Mumbai,Website Banner,2025-06-29,0,389.71,4,9
+O10765,P599,Toys,Supplier B,Bangalore,Email,2025-06-03,0,532.37,3,5
+O10766,P425,Clothing,Supplier B,Hyderabad,Website Banner,2025-05-01,0,813.97,4,1
+O10767,P426,Books,Supplier C,Hyderabad,Email,2025-06-19,0,1178.37,1,8
+O10768,P412,Books,Supplier C,Delhi,Website Banner,2025-04-05,0,1481.03,2,7
+O10769,P154,Electronics,Supplier A,Delhi,TV,2025-06-25,0,579.67,1,7
+O10770,P633,Books,Supplier C,Mumbai,TV,2025-04-29,0,1410.54,4,5
+O10771,P860,Electronics,Supplier C,Delhi,TV,2025-04-08,0,1467.67,1,1
+O10772,P382,Toys,Supplier B,Mumbai,Email,2025-04-13,0,1205.52,4,9
+O10773,P726,Clothing,Supplier C,Chennai,TV,2025-04-18,1,1826.51,4,9
+O10774,P555,Clothing,Supplier B,Mumbai,Social Media,2025-06-04,0,399.79,4,8
+O10775,P369,Electronics,Supplier A,Delhi,TV,2025-04-04,1,518.82,4,5
+O10776,P864,Clothing,Supplier A,Chennai,Website Banner,2025-04-01,0,971.6,1,3
+O10777,P477,Books,Supplier C,Delhi,Website Banner,2025-06-19,0,428.08,4,8
+O10778,P871,Home,Supplier A,Mumbai,Website Banner,2025-04-24,0,1219.33,4,1
+O10779,P606,Electronics,Supplier C,Bangalore,Email,2025-04-22,0,917.12,3,3
+O10780,P142,Clothing,Supplier A,Hyderabad,Social Media,2025-04-04,0,712.27,4,7
+O10781,P225,Electronics,Supplier B,Delhi,TV,2025-05-16,0,505.98,1,4
+O10782,P560,Electronics,Supplier B,Mumbai,Social Media,2025-04-22,0,803.61,4,7
+O10783,P981,Home,Supplier B,Chennai,Social Media,2025-06-25,1,1294.33,2,5
+O10784,P331,Books,Supplier B,Delhi,Website Banner,2025-04-26,0,1236.41,2,6
+O10785,P907,Electronics,Supplier C,Delhi,Website Banner,2025-04-27,0,494.52,4,7
+O10786,P345,Clothing,Supplier A,Hyderabad,Website Banner,2025-06-08,0,424.86,2,7
+O10787,P776,Toys,Supplier C,Mumbai,Email,2025-06-08,0,248.02,2,7
+O10788,P697,Electronics,Supplier B,Bangalore,Social Media,2025-06-14,1,222.37,1,7
+O10789,P629,Electronics,Supplier C,Chennai,Social Media,2025-06-08,1,1783.66,3,7
+O10790,P673,Home,Supplier A,Mumbai,Email,2025-05-14,1,281.16,2,3
+O10791,P102,Books,Supplier C,Chennai,Email,2025-04-30,0,1516.2,2,3
+O10792,P676,Toys,Supplier A,Delhi,Email,2025-04-04,0,1769.57,3,7
+O10793,P839,Clothing,Supplier C,Hyderabad,Social Media,2025-05-08,0,376.5,3,2
+O10794,P735,Toys,Supplier A,Hyderabad,Social Media,2025-04-04,1,985.34,2,2
+O10795,P423,Clothing,Supplier A,Bangalore,Website Banner,2025-05-01,0,1932.15,4,3
+O10796,P674,Books,Supplier B,Hyderabad,Website Banner,2025-05-13,0,1701.45,2,4
+O10797,P215,Clothing,Supplier A,Delhi,Social Media,2025-06-07,0,1081.47,4,6
+O10798,P218,Home,Supplier B,Bangalore,Website Banner,2025-04-02,0,1572.63,4,8
+O10799,P814,Home,Supplier B,Mumbai,Email,2025-05-25,0,1700.08,4,7
+O10800,P262,Home,Supplier B,Hyderabad,TV,2025-06-11,0,826.45,3,4
+O10801,P111,Home,Supplier C,Bangalore,Website Banner,2025-05-05,1,1805.88,2,2
+O10802,P720,Toys,Supplier C,Delhi,Social Media,2025-04-06,1,1046.85,2,2
+O10803,P562,Books,Supplier C,Chennai,Website Banner,2025-06-24,0,1150.05,1,4
+O10804,P517,Clothing,Supplier C,Chennai,Website Banner,2025-06-26,0,1999.47,3,6
+O10805,P315,Clothing,Supplier A,Delhi,Website Banner,2025-05-09,1,1717.95,1,3
+O10806,P413,Home,Supplier A,Delhi,TV,2025-06-09,1,851.19,1,6
+O10807,P663,Home,Supplier C,Chennai,Email,2025-04-02,0,218.62,4,5
+O10808,P322,Electronics,Supplier A,Bangalore,Social Media,2025-06-02,0,1327.11,3,5
+O10809,P748,Books,Supplier A,Chennai,TV,2025-05-31,0,1467.04,1,2
+O10810,P786,Toys,Supplier B,Delhi,Social Media,2025-06-03,1,1371.44,2,8
+O10811,P750,Clothing,Supplier B,Hyderabad,Social Media,2025-04-14,0,1942.15,1,5
+O10812,P909,Electronics,Supplier B,Mumbai,Social Media,2025-06-27,0,1753.35,3,2
+O10813,P303,Electronics,Supplier B,Hyderabad,TV,2025-06-03,0,1007.9,2,7
+O10814,P632,Clothing,Supplier A,Hyderabad,Email,2025-05-08,1,313.14,2,9
+O10815,P994,Toys,Supplier C,Delhi,Social Media,2025-05-25,0,1056.91,2,9
+O10816,P581,Electronics,Supplier A,Chennai,Email,2025-06-03,0,1440.64,4,1
+O10817,P522,Electronics,Supplier A,Bangalore,Email,2025-04-15,0,1293.88,2,7
+O10818,P973,Books,Supplier A,Hyderabad,Website Banner,2025-05-03,0,1168.65,4,9
+O10819,P876,Toys,Supplier B,Chennai,TV,2025-06-19,0,1043.87,4,6
+O10820,P170,Electronics,Supplier B,Bangalore,TV,2025-05-11,0,728.77,1,1
+O10821,P596,Toys,Supplier B,Hyderabad,Website Banner,2025-04-17,0,699.22,1,2
+O10822,P407,Clothing,Supplier C,Bangalore,Website Banner,2025-05-08,1,1100.42,2,4
+O10823,P414,Home,Supplier A,Chennai,Email,2025-05-31,0,489.09,3,4
+O10824,P771,Electronics,Supplier C,Mumbai,Social Media,2025-04-08,0,813.23,2,2
+O10825,P285,Books,Supplier B,Chennai,TV,2025-06-10,0,783.16,1,8
+O10826,P623,Clothing,Supplier C,Delhi,Social Media,2025-04-28,0,1256.84,2,2
+O10827,P391,Toys,Supplier A,Bangalore,Social Media,2025-04-16,0,320.03,1,3
+O10828,P260,Clothing,Supplier A,Mumbai,Website Banner,2025-05-17,1,1693.4,2,4
+O10829,P605,Electronics,Supplier B,Bangalore,Social Media,2025-06-27,0,1212.28,3,9
+O10830,P518,Toys,Supplier B,Bangalore,Email,2025-06-01,0,1407.49,2,1
+O10831,P196,Home,Supplier C,Hyderabad,Website Banner,2025-06-01,1,1465.57,3,8
+O10832,P313,Clothing,Supplier B,Delhi,Social Media,2025-04-14,0,724.67,3,5
+O10833,P787,Electronics,Supplier B,Bangalore,Website Banner,2025-05-25,1,1046.67,2,7
+O10834,P818,Books,Supplier A,Chennai,Email,2025-06-26,0,1921.24,3,8
+O10835,P827,Toys,Supplier B,Chennai,Email,2025-06-13,0,1580.07,3,5
+O10836,P841,Clothing,Supplier B,Hyderabad,Social Media,2025-06-05,0,1945.2,1,8
+O10837,P657,Clothing,Supplier A,Delhi,Website Banner,2025-05-23,0,1543.26,1,8
+O10838,P280,Home,Supplier A,Delhi,Social Media,2025-05-17,0,516.08,3,9
+O10839,P159,Home,Supplier C,Chennai,Social Media,2025-05-29,0,316.16,4,2
+O10840,P351,Books,Supplier B,Mumbai,Website Banner,2025-04-01,0,1239.79,2,3
+O10841,P622,Books,Supplier A,Hyderabad,Social Media,2025-05-28,1,844.06,3,1
+O10842,P136,Electronics,Supplier C,Hyderabad,Email,2025-06-26,0,695.82,2,4
+O10843,P712,Electronics,Supplier C,Chennai,Website Banner,2025-06-14,1,1652.98,1,5
+O10844,P706,Books,Supplier B,Chennai,Website Banner,2025-05-29,0,860.59,2,1
+O10845,P580,Books,Supplier B,Mumbai,Website Banner,2025-05-24,0,770.6,3,8
+O10846,P907,Toys,Supplier C,Mumbai,Website Banner,2025-05-18,0,1729.98,3,2
+O10847,P639,Home,Supplier A,Delhi,Social Media,2025-04-13,0,1723.32,3,1
+O10848,P253,Electronics,Supplier C,Hyderabad,Social Media,2025-06-06,1,841.46,3,2
+O10849,P634,Home,Supplier B,Hyderabad,Email,2025-04-16,0,1698.5,4,5
+O10850,P754,Home,Supplier A,Chennai,TV,2025-06-12,0,1731.4,4,9
+O10851,P526,Books,Supplier A,Delhi,TV,2025-04-13,0,963.07,4,9
+O10852,P881,Toys,Supplier C,Hyderabad,Email,2025-05-29,0,319.65,3,2
+O10853,P421,Clothing,Supplier B,Delhi,TV,2025-06-20,0,202.85,4,2
+O10854,P172,Toys,Supplier C,Delhi,Email,2025-05-17,0,1141.93,2,3
+O10855,P266,Toys,Supplier C,Chennai,Social Media,2025-04-11,0,819.34,3,7
+O10856,P934,Home,Supplier C,Delhi,Website Banner,2025-05-11,0,1994.84,1,3
+O10857,P120,Toys,Supplier A,Mumbai,Website Banner,2025-05-14,0,1590.34,3,1
+O10858,P768,Electronics,Supplier A,Mumbai,Social Media,2025-04-19,0,1570.3,2,6
+O10859,P738,Home,Supplier B,Bangalore,Website Banner,2025-05-01,0,1919.44,4,3
+O10860,P319,Electronics,Supplier B,Chennai,Website Banner,2025-05-21,1,1797.9,3,1
+O10861,P515,Clothing,Supplier C,Bangalore,TV,2025-05-17,0,772.74,4,4
+O10862,P745,Home,Supplier C,Mumbai,Social Media,2025-06-25,0,498.78,3,1
+O10863,P476,Clothing,Supplier C,Bangalore,TV,2025-04-10,0,1542.61,2,1
+O10864,P977,Home,Supplier B,Chennai,TV,2025-06-24,0,880.89,3,2
+O10865,P221,Books,Supplier A,Chennai,Website Banner,2025-05-19,1,1051.71,4,8
+O10866,P609,Toys,Supplier A,Delhi,Website Banner,2025-06-14,0,1334.72,4,2
+O10867,P314,Books,Supplier C,Hyderabad,Social Media,2025-06-05,0,1834.17,2,2
+O10868,P973,Clothing,Supplier C,Delhi,Website Banner,2025-04-23,0,954.36,3,8
+O10869,P129,Toys,Supplier C,Chennai,Website Banner,2025-04-05,0,1609.97,1,6
+O10870,P623,Home,Supplier C,Mumbai,Social Media,2025-06-12,0,683.01,3,4
+O10871,P812,Toys,Supplier B,Mumbai,Website Banner,2025-04-06,0,1456.35,2,3
+O10872,P563,Electronics,Supplier A,Delhi,TV,2025-04-03,0,202.84,1,1
+O10873,P855,Toys,Supplier C,Chennai,Social Media,2025-04-25,0,1768.71,2,3
+O10874,P209,Electronics,Supplier B,Mumbai,Website Banner,2025-06-03,0,254.68,3,9
+O10875,P214,Toys,Supplier C,Chennai,Email,2025-05-01,0,1482.96,1,5
+O10876,P836,Electronics,Supplier C,Mumbai,Social Media,2025-04-01,0,283.26,2,6
+O10877,P235,Clothing,Supplier A,Chennai,Social Media,2025-04-03,0,679.24,4,5
+O10878,P143,Books,Supplier C,Bangalore,Email,2025-06-25,0,1094.96,1,1
+O10879,P299,Home,Supplier A,Chennai,Website Banner,2025-05-07,0,955.89,1,1
+O10880,P586,Toys,Supplier A,Chennai,Website Banner,2025-05-28,0,545.31,2,4
+O10881,P243,Books,Supplier A,Delhi,Social Media,2025-05-14,0,800.87,4,3
+O10882,P777,Home,Supplier B,Bangalore,Social Media,2025-05-13,1,1509.87,1,8
+O10883,P898,Home,Supplier B,Hyderabad,Website Banner,2025-04-13,1,1404.66,2,7
+O10884,P166,Electronics,Supplier A,Delhi,Website Banner,2025-04-10,0,329.27,1,7
+O10885,P562,Clothing,Supplier C,Hyderabad,TV,2025-04-13,0,1545.17,1,8
+O10886,P911,Clothing,Supplier A,Mumbai,Social Media,2025-04-15,0,295.48,1,7
+O10887,P360,Books,Supplier C,Hyderabad,Social Media,2025-04-12,0,1177.27,4,2
+O10888,P173,Clothing,Supplier A,Chennai,Email,2025-06-13,0,668.11,3,4
+O10889,P419,Toys,Supplier C,Hyderabad,TV,2025-05-10,0,1257.84,3,6
+O10890,P816,Clothing,Supplier B,Delhi,Website Banner,2025-06-04,1,670.39,4,3
+O10891,P404,Books,Supplier C,Delhi,TV,2025-04-16,0,1972.92,4,3
+O10892,P959,Clothing,Supplier A,Hyderabad,Website Banner,2025-05-27,0,757.51,2,6
+O10893,P781,Toys,Supplier B,Delhi,Website Banner,2025-06-14,0,635.53,1,1
+O10894,P190,Electronics,Supplier C,Delhi,TV,2025-04-24,0,701.24,4,1
+O10895,P463,Books,Supplier C,Hyderabad,Social Media,2025-04-14,0,1813.65,2,5
+O10896,P620,Electronics,Supplier C,Bangalore,Website Banner,2025-05-25,0,1345.19,3,1
+O10897,P686,Electronics,Supplier C,Bangalore,TV,2025-05-23,0,1515.23,3,8
+O10898,P266,Electronics,Supplier C,Mumbai,Email,2025-04-28,0,1852.42,3,2
+O10899,P617,Home,Supplier B,Delhi,TV,2025-05-22,0,1841.37,3,6
+O10900,P168,Home,Supplier B,Hyderabad,Email,2025-04-20,0,1530.1,2,5
+O10901,P809,Electronics,Supplier B,Delhi,Website Banner,2025-05-30,0,556.08,1,4
+O10902,P194,Books,Supplier B,Chennai,TV,2025-04-24,0,1718.07,2,1
+O10903,P401,Toys,Supplier A,Delhi,TV,2025-04-27,0,566.8,1,3
+O10904,P911,Toys,Supplier B,Delhi,Email,2025-06-09,1,1537.22,3,4
+O10905,P100,Clothing,Supplier C,Bangalore,TV,2025-06-19,0,1434.09,4,2
+O10906,P552,Books,Supplier C,Hyderabad,TV,2025-05-12,1,1566.0,4,2
+O10907,P725,Home,Supplier B,Delhi,Website Banner,2025-05-08,1,1158.83,4,2
+O10908,P324,Electronics,Supplier C,Bangalore,TV,2025-05-28,0,1349.71,1,1
+O10909,P278,Clothing,Supplier B,Mumbai,Social Media,2025-05-14,0,1915.98,3,2
+O10910,P286,Toys,Supplier C,Bangalore,Email,2025-04-23,1,381.96,2,6
+O10911,P502,Home,Supplier A,Bangalore,TV,2025-06-22,0,755.93,4,3
+O10912,P779,Home,Supplier A,Bangalore,Email,2025-06-05,0,1300.44,1,5
+O10913,P725,Electronics,Supplier B,Delhi,Email,2025-04-08,1,1935.3,4,1
+O10914,P257,Toys,Supplier B,Delhi,Email,2025-05-13,0,372.03,2,8
+O10915,P522,Books,Supplier B,Mumbai,TV,2025-06-01,0,240.59,3,4
+O10916,P290,Home,Supplier C,Chennai,TV,2025-04-29,0,300.35,2,9
+O10917,P345,Electronics,Supplier B,Chennai,Email,2025-04-04,0,294.33,3,4
+O10918,P316,Books,Supplier A,Chennai,Social Media,2025-06-03,0,1834.07,3,2
+O10919,P815,Toys,Supplier C,Mumbai,Email,2025-05-25,0,1498.26,3,3
+O10920,P388,Home,Supplier B,Chennai,Social Media,2025-04-19,0,1418.79,4,5
+O10921,P304,Books,Supplier C,Chennai,Email,2025-06-01,0,1140.63,2,6
+O10922,P631,Books,Supplier C,Bangalore,Website Banner,2025-06-11,0,1607.51,4,7
+O10923,P658,Books,Supplier B,Delhi,Email,2025-04-24,0,480.17,2,4
+O10924,P450,Home,Supplier C,Delhi,Email,2025-06-17,0,905.49,1,7
+O10925,P441,Home,Supplier A,Bangalore,TV,2025-06-21,0,1082.01,1,3
+O10926,P125,Clothing,Supplier A,Bangalore,Social Media,2025-04-06,0,398.74,2,7
+O10927,P240,Toys,Supplier C,Bangalore,Website Banner,2025-05-09,0,955.12,2,4
+O10928,P349,Electronics,Supplier B,Delhi,Social Media,2025-04-10,1,769.7,2,8
+O10929,P644,Books,Supplier C,Chennai,Website Banner,2025-04-13,0,264.05,2,9
+O10930,P713,Clothing,Supplier A,Bangalore,Email,2025-04-29,0,446.12,3,7
+O10931,P439,Electronics,Supplier C,Mumbai,TV,2025-06-08,0,1575.27,4,8
+O10932,P718,Clothing,Supplier C,Bangalore,TV,2025-04-03,1,232.47,3,8
+O10933,P265,Home,Supplier A,Hyderabad,Social Media,2025-05-01,0,1881.66,4,2
+O10934,P240,Books,Supplier C,Bangalore,TV,2025-05-19,0,355.56,4,9
+O10935,P196,Electronics,Supplier C,Delhi,Social Media,2025-05-14,0,1638.63,4,6
+O10936,P309,Electronics,Supplier B,Bangalore,Social Media,2025-06-24,0,1817.51,3,4
+O10937,P768,Electronics,Supplier B,Hyderabad,Website Banner,2025-04-02,0,1894.04,2,5
+O10938,P898,Electronics,Supplier A,Mumbai,Social Media,2025-04-08,0,1761.46,3,5
+O10939,P923,Electronics,Supplier A,Chennai,Website Banner,2025-05-30,0,717.59,3,7
+O10940,P325,Clothing,Supplier A,Bangalore,TV,2025-06-04,1,799.56,4,9
+O10941,P855,Books,Supplier B,Hyderabad,Social Media,2025-06-19,0,967.78,1,7
+O10942,P123,Home,Supplier A,Hyderabad,Social Media,2025-05-27,0,450.73,1,9
+O10943,P426,Home,Supplier A,Mumbai,Email,2025-05-19,0,240.09,3,4
+O10944,P816,Home,Supplier A,Delhi,Social Media,2025-04-05,1,1764.42,4,4
+O10945,P376,Home,Supplier B,Bangalore,Social Media,2025-05-12,0,1197.43,3,6
+O10946,P146,Clothing,Supplier C,Hyderabad,Email,2025-06-23,1,1295.7,3,8
+O10947,P554,Toys,Supplier A,Mumbai,Email,2025-06-13,1,1868.58,2,9
+O10948,P784,Books,Supplier C,Chennai,TV,2025-06-20,0,1397.22,4,1
+O10949,P538,Electronics,Supplier A,Hyderabad,Social Media,2025-04-22,0,1443.54,1,1
+O10950,P138,Toys,Supplier C,Mumbai,TV,2025-04-29,0,1616.54,1,8
+O10951,P404,Home,Supplier B,Delhi,TV,2025-05-15,0,409.43,1,7
+O10952,P213,Toys,Supplier B,Delhi,Email,2025-05-08,0,848.29,3,9
+O10953,P495,Books,Supplier A,Hyderabad,Website Banner,2025-05-22,0,1942.77,4,3
+O10954,P715,Electronics,Supplier C,Hyderabad,TV,2025-06-05,1,1861.27,2,5
+O10955,P116,Electronics,Supplier B,Bangalore,Website Banner,2025-05-08,0,1791.34,1,3
+O10956,P174,Books,Supplier A,Mumbai,Social Media,2025-05-17,1,1013.76,4,5
+O10957,P892,Books,Supplier A,Hyderabad,Email,2025-04-14,0,1742.95,1,1
+O10958,P863,Home,Supplier B,Bangalore,Social Media,2025-05-16,0,287.11,2,4
+O10959,P650,Electronics,Supplier B,Bangalore,Social Media,2025-06-26,1,467.33,4,6
+O10960,P478,Toys,Supplier A,Hyderabad,Email,2025-04-09,0,945.14,3,2
+O10961,P708,Clothing,Supplier C,Delhi,Social Media,2025-04-04,0,1070.11,3,7
+O10962,P318,Clothing,Supplier C,Mumbai,Email,2025-04-16,0,674.31,1,8
+O10963,P144,Books,Supplier C,Mumbai,Website Banner,2025-05-19,0,841.66,1,1
+O10964,P367,Home,Supplier A,Delhi,Social Media,2025-06-03,0,493.0,4,4
+O10965,P834,Clothing,Supplier B,Hyderabad,Email,2025-06-14,0,1080.44,2,4
+O10966,P695,Electronics,Supplier A,Mumbai,TV,2025-05-15,0,1628.92,1,5
+O10967,P411,Books,Supplier B,Hyderabad,Social Media,2025-04-27,1,1390.45,4,4
+O10968,P702,Toys,Supplier C,Hyderabad,Website Banner,2025-04-19,0,394.03,2,9
+O10969,P161,Books,Supplier C,Bangalore,Email,2025-05-06,1,1077.65,1,7
+O10970,P572,Toys,Supplier B,Delhi,Social Media,2025-04-26,0,1455.76,1,2
+O10971,P967,Books,Supplier B,Hyderabad,Social Media,2025-05-04,0,1153.81,4,1
+O10972,P219,Books,Supplier A,Chennai,Social Media,2025-06-21,0,905.02,1,9
+O10973,P395,Books,Supplier C,Delhi,Website Banner,2025-04-05,0,1319.45,3,1
+O10974,P222,Toys,Supplier A,Mumbai,Email,2025-05-14,1,1943.55,2,6
+O10975,P578,Toys,Supplier A,Bangalore,TV,2025-06-13,0,370.83,2,2
+O10976,P547,Books,Supplier A,Mumbai,TV,2025-05-11,0,902.03,3,4
+O10977,P558,Clothing,Supplier C,Mumbai,TV,2025-05-16,0,931.89,4,6
+O10978,P392,Home,Supplier A,Delhi,Email,2025-05-07,0,1238.54,3,5
+O10979,P491,Home,Supplier A,Mumbai,TV,2025-04-04,1,473.91,3,6
+O10980,P823,Home,Supplier A,Hyderabad,Website Banner,2025-05-05,1,517.96,2,3
+O10981,P974,Toys,Supplier A,Mumbai,Email,2025-04-13,0,713.65,4,5
+O10982,P619,Toys,Supplier A,Bangalore,Social Media,2025-04-02,0,1920.57,1,2
+O10983,P740,Clothing,Supplier A,Bangalore,Website Banner,2025-04-24,0,1521.4,3,7
+O10984,P946,Home,Supplier C,Chennai,Social Media,2025-04-06,0,1391.05,3,3
+O10985,P982,Home,Supplier A,Bangalore,TV,2025-04-09,1,1670.52,4,1
+O10986,P397,Books,Supplier B,Mumbai,Website Banner,2025-06-27,0,429.64,3,8
+O10987,P659,Toys,Supplier A,Bangalore,Email,2025-04-18,0,1746.8,4,8
+O10988,P364,Home,Supplier A,Delhi,Website Banner,2025-05-21,0,1270.7,1,3
+O10989,P440,Clothing,Supplier C,Bangalore,Social Media,2025-05-09,1,803.59,4,7
+O10990,P904,Clothing,Supplier C,Hyderabad,Email,2025-04-03,0,1668.54,1,9
+O10991,P806,Home,Supplier B,Delhi,Website Banner,2025-04-30,0,1644.62,4,8
+O10992,P852,Toys,Supplier B,Chennai,Website Banner,2025-06-17,0,1722.28,3,3
+O10993,P223,Clothing,Supplier C,Hyderabad,Website Banner,2025-04-01,0,407.93,1,2
+O10994,P773,Books,Supplier C,Mumbai,Website Banner,2025-05-30,0,1944.85,3,7
+O10995,P508,Clothing,Supplier A,Mumbai,Email,2025-06-16,0,1927.33,1,7
+O10996,P848,Electronics,Supplier C,Mumbai,Social Media,2025-04-11,0,843.45,4,9
+O10997,P744,Electronics,Supplier B,Hyderabad,Website Banner,2025-04-28,0,318.61,4,5
+O10998,P342,Toys,Supplier A,Hyderabad,Email,2025-05-24,0,500.7,4,4
+O10999,P720,Home,Supplier B,Hyderabad,Social Media,2025-05-20,0,1987.1,2,8
+O11000,P273,Toys,Supplier A,Delhi,Website Banner,2025-05-28,0,1213.42,2,4
+O11001,P760,Toys,Supplier C,Delhi,Social Media,2025-05-24,0,841.92,1,4
+O11002,P484,Toys,Supplier B,Mumbai,Social Media,2025-04-01,0,718.76,2,2
+O11003,P214,Toys,Supplier A,Bangalore,Email,2025-04-01,0,662.59,4,1
+O11004,P926,Books,Supplier A,Mumbai,Social Media,2025-05-17,1,1395.47,2,4
+O11005,P319,Books,Supplier C,Chennai,Email,2025-05-04,0,954.9,2,7
+O11006,P606,Clothing,Supplier C,Delhi,Website Banner,2025-06-19,0,1937.74,3,9
+O11007,P639,Electronics,Supplier C,Hyderabad,Social Media,2025-05-29,0,1430.92,1,9
+O11008,P755,Toys,Supplier B,Delhi,Social Media,2025-05-01,0,1625.68,1,1
+O11009,P454,Clothing,Supplier A,Hyderabad,TV,2025-04-08,0,726.93,1,5
+O11010,P483,Electronics,Supplier C,Chennai,Website Banner,2025-05-14,1,342.54,2,7
+O11011,P542,Home,Supplier B,Chennai,Website Banner,2025-06-05,0,1078.08,4,7
+O11012,P642,Books,Supplier B,Delhi,TV,2025-05-21,0,766.25,3,6
+O11013,P550,Electronics,Supplier B,Hyderabad,TV,2025-05-13,0,563.75,1,4
+O11014,P886,Home,Supplier C,Chennai,Email,2025-04-09,0,1914.76,2,3
+O11015,P257,Electronics,Supplier C,Mumbai,Email,2025-05-11,0,999.18,4,9
+O11016,P200,Books,Supplier A,Mumbai,Social Media,2025-06-20,0,514.48,3,4
+O11017,P115,Books,Supplier A,Hyderabad,Social Media,2025-04-04,0,557.57,3,8
+O11018,P457,Clothing,Supplier C,Delhi,Social Media,2025-06-02,0,705.28,1,1
+O11019,P389,Toys,Supplier B,Chennai,Social Media,2025-06-02,1,1998.77,1,7
+O11020,P144,Electronics,Supplier B,Delhi,Email,2025-05-29,1,682.42,4,6
+O11021,P677,Electronics,Supplier B,Mumbai,Website Banner,2025-06-09,0,791.84,2,1
+O11022,P553,Home,Supplier A,Chennai,Social Media,2025-06-01,0,1386.79,4,4
+O11023,P474,Books,Supplier B,Delhi,Website Banner,2025-05-06,1,729.13,1,5
+O11024,P756,Electronics,Supplier A,Bangalore,Social Media,2025-05-11,0,588.45,4,8
+O11025,P607,Books,Supplier A,Hyderabad,TV,2025-04-03,0,485.55,2,4
+O11026,P985,Electronics,Supplier B,Hyderabad,Social Media,2025-05-03,1,762.83,3,3
+O11027,P250,Clothing,Supplier B,Bangalore,Social Media,2025-06-06,1,390.65,3,2
+O11028,P277,Toys,Supplier C,Mumbai,Social Media,2025-05-07,0,233.56,3,4
+O11029,P241,Electronics,Supplier C,Chennai,Email,2025-05-03,0,1648.36,3,4
+O11030,P694,Books,Supplier B,Hyderabad,TV,2025-05-25,0,448.21,1,5
+O11031,P540,Clothing,Supplier A,Bangalore,Social Media,2025-05-15,0,1596.76,1,7
+O11032,P916,Electronics,Supplier A,Bangalore,Social Media,2025-05-07,0,1635.58,2,9
+O11033,P563,Home,Supplier A,Mumbai,Website Banner,2025-05-27,0,1168.26,2,2
+O11034,P634,Toys,Supplier A,Mumbai,TV,2025-06-07,0,757.43,2,5
+O11035,P262,Electronics,Supplier A,Delhi,Social Media,2025-06-29,0,461.06,2,9
+O11036,P349,Clothing,Supplier C,Hyderabad,Website Banner,2025-04-10,0,1526.25,4,3
+O11037,P224,Home,Supplier B,Delhi,Website Banner,2025-04-19,0,1282.5,2,1
+O11038,P976,Clothing,Supplier C,Bangalore,Email,2025-06-16,0,1379.82,3,2
+O11039,P612,Clothing,Supplier A,Chennai,Website Banner,2025-06-28,0,215.6,3,6
+O11040,P695,Home,Supplier A,Chennai,Social Media,2025-06-21,1,1869.53,3,5
+O11041,P311,Clothing,Supplier A,Mumbai,Email,2025-06-05,0,319.32,4,1
+O11042,P954,Home,Supplier A,Chennai,Email,2025-04-13,0,860.25,2,1
+O11043,P875,Electronics,Supplier B,Chennai,Social Media,2025-06-06,1,924.88,3,4
+O11044,P738,Home,Supplier A,Chennai,TV,2025-04-27,0,202.44,3,4
+O11045,P702,Home,Supplier B,Bangalore,Website Banner,2025-05-13,0,1094.76,3,6
+O11046,P597,Toys,Supplier A,Chennai,Email,2025-05-05,1,1555.06,3,6
+O11047,P134,Home,Supplier B,Chennai,TV,2025-05-05,0,1681.88,1,6
+O11048,P351,Home,Supplier C,Chennai,Social Media,2025-04-26,0,1782.91,2,1
+O11049,P149,Electronics,Supplier A,Delhi,Website Banner,2025-05-30,0,1077.89,2,9
+O11050,P560,Toys,Supplier B,Bangalore,Website Banner,2025-04-12,0,1335.15,4,7
+O11051,P331,Books,Supplier C,Mumbai,Email,2025-05-05,1,343.14,1,7
+O11052,P760,Electronics,Supplier A,Delhi,Website Banner,2025-06-17,1,1078.47,4,7
+O11053,P568,Electronics,Supplier A,Hyderabad,Website Banner,2025-05-17,0,478.67,3,2
+O11054,P386,Books,Supplier A,Bangalore,Website Banner,2025-06-25,0,865.36,4,2
+O11055,P616,Home,Supplier B,Bangalore,Website Banner,2025-06-22,0,792.75,3,6
+O11056,P946,Clothing,Supplier B,Hyderabad,Social Media,2025-06-26,0,962.37,3,7
+O11057,P356,Toys,Supplier C,Hyderabad,TV,2025-06-19,0,1228.95,2,3
+O11058,P425,Clothing,Supplier B,Hyderabad,Social Media,2025-04-15,0,1825.18,2,4
+O11059,P525,Books,Supplier B,Mumbai,Social Media,2025-05-19,0,910.07,2,3
+O11060,P773,Electronics,Supplier A,Chennai,Email,2025-05-16,0,1966.04,2,7
+O11061,P671,Electronics,Supplier A,Bangalore,Website Banner,2025-05-26,0,1566.25,2,7
+O11062,P533,Toys,Supplier A,Chennai,Social Media,2025-05-22,0,1120.67,1,4
+O11063,P417,Electronics,Supplier A,Chennai,Website Banner,2025-06-03,0,1359.25,2,7
+O11064,P416,Electronics,Supplier A,Hyderabad,Social Media,2025-04-09,0,384.0,4,5
+O11065,P296,Toys,Supplier A,Mumbai,Social Media,2025-05-17,0,1720.14,3,1
+O11066,P987,Toys,Supplier A,Delhi,Email,2025-04-12,0,1248.24,2,4
+O11067,P229,Books,Supplier C,Mumbai,TV,2025-04-14,0,1974.92,1,7
+O11068,P737,Electronics,Supplier C,Chennai,TV,2025-04-03,0,1345.57,4,2
+O11069,P309,Electronics,Supplier C,Mumbai,Social Media,2025-05-03,1,1701.4,4,2
+O11070,P795,Books,Supplier C,Hyderabad,Email,2025-06-19,0,1639.57,3,1
+O11071,P472,Home,Supplier A,Delhi,Website Banner,2025-06-25,0,821.83,4,2
+O11072,P316,Home,Supplier C,Hyderabad,Website Banner,2025-04-13,0,667.3,4,8
+O11073,P251,Home,Supplier A,Delhi,Social Media,2025-05-10,0,974.89,4,8
+O11074,P744,Books,Supplier C,Chennai,TV,2025-05-17,0,1041.03,4,8
+O11075,P927,Electronics,Supplier B,Delhi,Email,2025-06-27,1,632.15,1,1
+O11076,P570,Books,Supplier C,Delhi,TV,2025-05-21,0,1810.28,3,1
+O11077,P997,Books,Supplier C,Delhi,Website Banner,2025-04-07,1,1176.59,2,4
+O11078,P960,Home,Supplier A,Mumbai,TV,2025-06-28,1,1961.2,4,6
+O11079,P339,Clothing,Supplier C,Mumbai,Website Banner,2025-04-21,0,1658.03,1,8
+O11080,P289,Electronics,Supplier B,Chennai,Email,2025-06-21,0,1200.27,3,2
+O11081,P226,Home,Supplier A,Delhi,Email,2025-04-17,0,1904.67,2,3
+O11082,P316,Clothing,Supplier A,Bangalore,Social Media,2025-05-20,0,1108.77,3,6
+O11083,P627,Clothing,Supplier C,Chennai,Social Media,2025-04-15,0,1796.79,1,4
+O11084,P821,Toys,Supplier A,Delhi,TV,2025-06-15,0,844.66,1,2
+O11085,P196,Electronics,Supplier A,Delhi,Email,2025-06-14,0,881.56,1,7
+O11086,P960,Clothing,Supplier A,Mumbai,Email,2025-04-09,0,952.64,4,4
+O11087,P819,Home,Supplier A,Chennai,Social Media,2025-04-16,0,1183.93,1,8
+O11088,P302,Toys,Supplier A,Delhi,Website Banner,2025-04-23,0,1196.28,2,8
+O11089,P790,Electronics,Supplier A,Delhi,TV,2025-06-06,0,1093.52,4,7
+O11090,P711,Books,Supplier B,Chennai,TV,2025-04-18,0,750.8,3,9
+O11091,P632,Home,Supplier C,Bangalore,Social Media,2025-04-17,0,1868.97,2,4
+O11092,P557,Clothing,Supplier B,Chennai,Email,2025-05-24,0,1259.45,4,7
+O11093,P577,Clothing,Supplier A,Chennai,Social Media,2025-06-25,1,933.93,1,1
+O11094,P634,Home,Supplier A,Bangalore,Social Media,2025-04-11,0,1372.12,3,4
+O11095,P766,Clothing,Supplier C,Chennai,Social Media,2025-05-01,0,1582.34,1,2
+O11096,P913,Toys,Supplier B,Delhi,Social Media,2025-06-18,0,1929.31,2,9
+O11097,P740,Electronics,Supplier C,Chennai,Website Banner,2025-05-22,0,1099.19,2,5
+O11098,P134,Toys,Supplier B,Bangalore,Website Banner,2025-06-29,0,401.78,4,3
+O11099,P303,Clothing,Supplier A,Hyderabad,Email,2025-05-19,0,993.38,2,4
+O11100,P516,Books,Supplier C,Chennai,Social Media,2025-04-25,0,1062.15,3,6
+O11101,P721,Electronics,Supplier C,Mumbai,Website Banner,2025-06-05,0,1814.59,4,1
+O11102,P338,Electronics,Supplier A,Delhi,Email,2025-05-12,0,910.64,3,7
+O11103,P803,Home,Supplier C,Delhi,Social Media,2025-05-01,0,1915.98,1,8
+O11104,P883,Home,Supplier B,Mumbai,TV,2025-05-07,0,1073.24,3,7
+O11105,P820,Books,Supplier B,Mumbai,Website Banner,2025-06-27,0,1952.8,3,7
+O11106,P519,Electronics,Supplier B,Chennai,Email,2025-04-15,1,214.76,2,9
+O11107,P386,Books,Supplier B,Mumbai,TV,2025-04-12,0,1817.87,1,4
+O11108,P289,Home,Supplier A,Hyderabad,Social Media,2025-04-11,0,1876.02,2,7
+O11109,P709,Home,Supplier C,Bangalore,Social Media,2025-04-06,0,1929.84,1,9
+O11110,P911,Electronics,Supplier B,Mumbai,Social Media,2025-06-06,0,223.54,1,5
+O11111,P491,Toys,Supplier A,Mumbai,Website Banner,2025-06-29,1,509.06,3,2
+O11112,P952,Clothing,Supplier C,Hyderabad,Email,2025-05-17,0,1376.78,2,5
+O11113,P619,Home,Supplier C,Delhi,TV,2025-06-01,0,245.85,3,4
+O11114,P753,Home,Supplier A,Delhi,Email,2025-06-07,0,314.5,3,8
+O11115,P963,Toys,Supplier A,Chennai,Website Banner,2025-04-10,0,597.94,3,5
+O11116,P111,Toys,Supplier B,Hyderabad,Email,2025-05-20,1,1122.39,1,9
+O11117,P806,Books,Supplier C,Bangalore,Website Banner,2025-05-21,0,1182.62,2,9
+O11118,P855,Books,Supplier C,Bangalore,Social Media,2025-04-08,1,261.67,2,3
+O11119,P549,Clothing,Supplier A,Hyderabad,TV,2025-04-07,0,506.66,3,6
+O11120,P295,Clothing,Supplier C,Bangalore,Social Media,2025-06-23,0,1099.47,1,6
+O11121,P756,Electronics,Supplier B,Delhi,Email,2025-05-04,0,1269.09,2,4
+O11122,P905,Books,Supplier C,Bangalore,Social Media,2025-05-27,1,467.12,4,3
+O11123,P364,Home,Supplier A,Bangalore,TV,2025-05-10,0,917.91,2,1
+O11124,P312,Books,Supplier A,Hyderabad,Social Media,2025-04-16,0,1827.92,3,7
+O11125,P476,Home,Supplier B,Hyderabad,TV,2025-06-19,1,1998.02,4,5
+O11126,P683,Toys,Supplier B,Bangalore,TV,2025-04-20,0,1976.99,1,7
+O11127,P712,Books,Supplier C,Mumbai,Social Media,2025-04-18,0,1787.01,4,1
+O11128,P940,Toys,Supplier C,Hyderabad,Website Banner,2025-04-14,0,910.39,4,8
+O11129,P277,Clothing,Supplier A,Chennai,Email,2025-04-09,0,1435.83,3,3
+O11130,P761,Clothing,Supplier B,Chennai,Website Banner,2025-04-22,0,949.87,2,7
+O11131,P976,Electronics,Supplier B,Delhi,Website Banner,2025-06-27,0,1367.35,1,3
+O11132,P996,Books,Supplier B,Bangalore,Social Media,2025-04-28,0,756.98,4,3
+O11133,P424,Toys,Supplier C,Mumbai,Email,2025-04-11,0,1291.16,3,9
+O11134,P150,Home,Supplier B,Delhi,Email,2025-04-29,0,1142.77,2,2
+O11135,P730,Clothing,Supplier A,Bangalore,Website Banner,2025-06-14,1,244.06,4,4
+O11136,P777,Clothing,Supplier A,Hyderabad,Social Media,2025-06-23,0,1623.27,3,6
+O11137,P448,Home,Supplier C,Chennai,Email,2025-05-03,0,221.42,3,3
+O11138,P829,Toys,Supplier C,Mumbai,Website Banner,2025-06-16,0,727.68,3,7
+O11139,P917,Toys,Supplier B,Chennai,Email,2025-05-15,0,210.66,1,7
+O11140,P971,Books,Supplier C,Hyderabad,Social Media,2025-06-13,0,877.16,2,5
+O11141,P539,Books,Supplier A,Bangalore,Social Media,2025-06-28,0,313.69,4,3
+O11142,P203,Electronics,Supplier B,Hyderabad,Social Media,2025-04-04,0,1844.32,2,2
+O11143,P236,Clothing,Supplier A,Hyderabad,Email,2025-06-22,0,948.22,2,4
+O11144,P663,Books,Supplier B,Chennai,TV,2025-06-08,0,1027.09,4,4
+O11145,P530,Toys,Supplier C,Mumbai,Email,2025-04-15,0,829.73,2,8
+O11146,P659,Home,Supplier B,Hyderabad,TV,2025-05-21,0,1329.51,1,8
+O11147,P796,Toys,Supplier B,Chennai,Social Media,2025-04-20,0,1611.93,4,5
+O11148,P334,Clothing,Supplier A,Mumbai,Website Banner,2025-06-18,0,1366.66,4,6
+O11149,P185,Toys,Supplier A,Bangalore,TV,2025-04-20,1,1546.77,3,8
+O11150,P108,Electronics,Supplier B,Bangalore,Social Media,2025-04-29,0,1830.75,2,1
+O11151,P385,Clothing,Supplier C,Delhi,Social Media,2025-05-26,0,1754.38,4,5
+O11152,P563,Home,Supplier C,Chennai,TV,2025-04-12,0,1413.31,4,4
+O11153,P368,Electronics,Supplier A,Mumbai,Website Banner,2025-04-26,0,586.35,1,4
+O11154,P373,Clothing,Supplier C,Hyderabad,Social Media,2025-04-24,0,1347.87,3,2
+O11155,P282,Home,Supplier A,Bangalore,TV,2025-05-11,0,1110.95,4,1
+O11156,P635,Electronics,Supplier C,Mumbai,Website Banner,2025-05-31,0,1490.99,1,6
+O11157,P314,Electronics,Supplier B,Chennai,Website Banner,2025-05-26,0,1699.28,4,7
+O11158,P295,Clothing,Supplier A,Delhi,Social Media,2025-06-16,0,1536.9,4,5
+O11159,P898,Books,Supplier A,Bangalore,Email,2025-05-06,0,1723.81,4,8
+O11160,P265,Electronics,Supplier B,Mumbai,Email,2025-06-28,0,314.96,1,9
+O11161,P815,Electronics,Supplier A,Mumbai,Social Media,2025-05-30,0,256.92,2,2
+O11162,P486,Home,Supplier C,Mumbai,Website Banner,2025-06-06,0,665.3,4,4
+O11163,P384,Toys,Supplier C,Chennai,Social Media,2025-04-15,0,1821.2,4,9
+O11164,P167,Clothing,Supplier A,Chennai,TV,2025-06-23,0,1682.59,2,5
+O11165,P212,Clothing,Supplier C,Chennai,Email,2025-05-30,1,1428.91,4,3
+O11166,P263,Books,Supplier A,Hyderabad,TV,2025-06-17,1,1461.37,3,6
+O11167,P975,Books,Supplier B,Mumbai,Social Media,2025-04-02,0,1508.01,4,3
+O11168,P885,Clothing,Supplier A,Bangalore,Social Media,2025-05-14,0,1896.68,3,5
+O11169,P624,Books,Supplier B,Chennai,Website Banner,2025-05-21,0,1697.94,2,3
+O11170,P394,Home,Supplier C,Chennai,Website Banner,2025-06-12,0,1322.1,1,6
+O11171,P468,Clothing,Supplier B,Mumbai,Website Banner,2025-06-09,0,1398.29,2,5
+O11172,P478,Books,Supplier C,Chennai,TV,2025-04-26,0,584.73,4,9
+O11173,P886,Clothing,Supplier A,Hyderabad,Website Banner,2025-06-14,1,1383.17,3,3
+O11174,P770,Toys,Supplier C,Hyderabad,Social Media,2025-06-07,0,964.42,1,6
+O11175,P192,Electronics,Supplier A,Chennai,Website Banner,2025-05-17,0,475.33,4,8
+O11176,P895,Clothing,Supplier A,Mumbai,Email,2025-06-15,0,1651.53,1,7
+O11177,P295,Electronics,Supplier B,Mumbai,Website Banner,2025-05-24,0,1118.44,1,6
+O11178,P420,Books,Supplier B,Mumbai,TV,2025-05-16,0,1959.37,4,2
+O11179,P811,Electronics,Supplier B,Delhi,Email,2025-04-06,0,707.02,2,7
+O11180,P857,Clothing,Supplier B,Chennai,Email,2025-06-07,0,1065.21,4,8
+O11181,P863,Toys,Supplier C,Mumbai,Email,2025-04-02,0,1006.39,4,1
+O11182,P753,Books,Supplier C,Hyderabad,TV,2025-05-19,1,417.4,2,9
+O11183,P664,Clothing,Supplier C,Bangalore,Social Media,2025-05-05,0,967.01,3,4
+O11184,P216,Books,Supplier A,Bangalore,Website Banner,2025-06-10,0,717.6,4,8
+O11185,P630,Home,Supplier C,Mumbai,Email,2025-04-20,0,488.58,1,7
+O11186,P680,Electronics,Supplier C,Bangalore,Email,2025-04-15,0,707.88,4,7
+O11187,P719,Home,Supplier C,Bangalore,Email,2025-05-08,0,619.85,4,2
+O11188,P642,Clothing,Supplier B,Delhi,Social Media,2025-06-23,1,1521.33,1,1
+O11189,P687,Toys,Supplier C,Hyderabad,Social Media,2025-04-15,0,255.4,2,4
+O11190,P611,Books,Supplier A,Hyderabad,TV,2025-05-13,1,1311.43,3,2
+O11191,P107,Electronics,Supplier B,Delhi,Social Media,2025-05-31,0,1569.19,3,8
+O11192,P305,Books,Supplier A,Delhi,Website Banner,2025-06-11,0,1065.3,1,7
+O11193,P126,Clothing,Supplier C,Bangalore,TV,2025-05-30,1,1876.82,2,8
+O11194,P990,Books,Supplier B,Chennai,TV,2025-05-10,0,1474.19,4,6
+O11195,P357,Electronics,Supplier A,Bangalore,Website Banner,2025-06-29,0,1546.26,4,1
+O11196,P612,Clothing,Supplier C,Delhi,Website Banner,2025-06-08,0,554.48,4,9
+O11197,P326,Books,Supplier A,Hyderabad,Website Banner,2025-06-14,0,1599.13,4,6
+O11198,P764,Toys,Supplier A,Bangalore,TV,2025-05-23,0,1697.77,4,1
+O11199,P760,Clothing,Supplier A,Chennai,TV,2025-04-08,1,850.28,1,1
+O11200,P987,Clothing,Supplier C,Bangalore,TV,2025-05-25,0,584.05,4,8
+O11201,P955,Toys,Supplier C,Mumbai,Website Banner,2025-05-10,0,893.09,4,6
+O11202,P794,Home,Supplier A,Bangalore,Website Banner,2025-06-10,1,1531.29,2,8
+O11203,P233,Electronics,Supplier B,Delhi,Email,2025-04-14,0,951.75,4,8
+O11204,P236,Home,Supplier B,Hyderabad,Social Media,2025-05-01,0,1525.97,3,8
+O11205,P697,Books,Supplier C,Hyderabad,Email,2025-05-13,0,404.42,1,7
+O11206,P610,Toys,Supplier C,Delhi,Website Banner,2025-04-24,0,1650.82,1,7
+O11207,P145,Home,Supplier C,Mumbai,TV,2025-06-17,0,655.77,1,4
+O11208,P134,Clothing,Supplier C,Delhi,Website Banner,2025-05-31,1,648.07,3,9
+O11209,P527,Books,Supplier C,Bangalore,Social Media,2025-06-09,0,1262.69,4,2
+O11210,P628,Books,Supplier B,Delhi,Email,2025-05-16,0,326.21,1,9
+O11211,P744,Home,Supplier C,Delhi,Email,2025-05-09,0,247.34,3,3
+O11212,P190,Home,Supplier A,Mumbai,TV,2025-05-15,0,669.85,2,2
+O11213,P752,Toys,Supplier A,Bangalore,Email,2025-06-09,0,1168.52,4,4
+O11214,P267,Electronics,Supplier B,Chennai,Email,2025-06-28,0,1833.71,3,5
+O11215,P326,Home,Supplier A,Chennai,Website Banner,2025-04-16,0,1723.58,4,2
+O11216,P806,Home,Supplier B,Hyderabad,Email,2025-05-25,1,1082.8,2,1
+O11217,P611,Clothing,Supplier B,Delhi,Email,2025-05-27,0,266.69,3,5
+O11218,P390,Books,Supplier A,Hyderabad,Email,2025-04-30,0,1163.45,4,9
+O11219,P580,Electronics,Supplier C,Mumbai,TV,2025-06-04,1,1468.63,3,5
+O11220,P288,Clothing,Supplier A,Chennai,TV,2025-06-10,0,810.5,1,9
+O11221,P281,Toys,Supplier A,Delhi,Website Banner,2025-06-06,0,399.91,4,6
+O11222,P750,Toys,Supplier B,Mumbai,Email,2025-04-07,0,701.42,3,3
+O11223,P818,Home,Supplier A,Mumbai,TV,2025-06-27,0,1588.86,1,4
+O11224,P724,Home,Supplier B,Delhi,TV,2025-05-09,0,832.24,2,4
+O11225,P701,Toys,Supplier C,Mumbai,Website Banner,2025-04-28,0,1661.57,4,1
+O11226,P690,Home,Supplier C,Delhi,Social Media,2025-06-27,0,775.14,4,3
+O11227,P611,Electronics,Supplier C,Delhi,Email,2025-05-11,0,494.4,2,3
+O11228,P803,Home,Supplier A,Bangalore,TV,2025-04-16,0,984.53,1,1
+O11229,P917,Books,Supplier B,Hyderabad,Website Banner,2025-04-01,0,1014.09,2,9
+O11230,P316,Home,Supplier C,Mumbai,Website Banner,2025-06-03,0,228.99,4,1
+O11231,P834,Clothing,Supplier B,Mumbai,Website Banner,2025-05-26,1,410.68,3,9
+O11232,P814,Electronics,Supplier B,Bangalore,TV,2025-06-03,1,532.87,1,1
+O11233,P487,Clothing,Supplier C,Bangalore,Email,2025-05-16,0,404.46,1,2
+O11234,P889,Clothing,Supplier C,Bangalore,Social Media,2025-04-15,0,814.75,1,2
+O11235,P271,Books,Supplier B,Chennai,Email,2025-04-22,0,1936.32,2,6
+O11236,P790,Electronics,Supplier C,Chennai,Website Banner,2025-04-06,0,1116.6,2,7
+O11237,P547,Electronics,Supplier B,Chennai,Website Banner,2025-04-21,0,1329.6,3,1
+O11238,P539,Electronics,Supplier B,Delhi,Social Media,2025-04-14,0,841.5,3,3
+O11239,P367,Electronics,Supplier C,Mumbai,Email,2025-04-18,0,782.28,1,2
+O11240,P358,Electronics,Supplier A,Hyderabad,Website Banner,2025-04-05,0,241.66,3,8
+O11241,P952,Books,Supplier C,Delhi,Website Banner,2025-04-22,1,1100.6,2,9
+O11242,P133,Home,Supplier A,Mumbai,Email,2025-05-03,0,1070.5,3,2
+O11243,P727,Clothing,Supplier B,Mumbai,Website Banner,2025-04-27,0,484.1,2,2
+O11244,P228,Electronics,Supplier B,Bangalore,Email,2025-04-27,0,1575.78,3,9
+O11245,P449,Home,Supplier A,Bangalore,Website Banner,2025-04-11,0,1086.81,4,4
+O11246,P620,Home,Supplier B,Delhi,Email,2025-04-15,0,810.19,2,5
+O11247,P593,Clothing,Supplier A,Bangalore,Social Media,2025-04-11,0,464.44,4,9
+O11248,P445,Books,Supplier A,Mumbai,Website Banner,2025-05-31,0,1193.89,2,6
+O11249,P895,Toys,Supplier B,Bangalore,Social Media,2025-05-28,0,1555.07,3,9
+O11250,P365,Toys,Supplier A,Chennai,Website Banner,2025-04-21,1,707.6,4,9
+O11251,P605,Home,Supplier C,Bangalore,Website Banner,2025-06-20,1,593.83,3,7
+O11252,P101,Clothing,Supplier C,Mumbai,TV,2025-06-12,1,1139.48,2,9
+O11253,P490,Toys,Supplier B,Delhi,Email,2025-04-21,0,479.62,4,5
+O11254,P353,Home,Supplier B,Hyderabad,Social Media,2025-04-30,0,1399.9,1,5
+O11255,P932,Books,Supplier A,Bangalore,Social Media,2025-05-10,0,1289.62,3,8
+O11256,P788,Toys,Supplier A,Mumbai,Social Media,2025-06-16,0,356.75,2,4
+O11257,P541,Home,Supplier A,Hyderabad,Email,2025-05-10,0,265.74,4,9
+O11258,P613,Home,Supplier A,Hyderabad,TV,2025-04-29,1,1316.52,3,7
+O11259,P430,Electronics,Supplier C,Chennai,Social Media,2025-06-08,0,729.73,4,7
+O11260,P656,Books,Supplier C,Hyderabad,Email,2025-06-05,0,355.6,3,3
+O11261,P688,Electronics,Supplier B,Mumbai,Website Banner,2025-04-27,0,1566.97,3,4
+O11262,P685,Clothing,Supplier A,Mumbai,Social Media,2025-06-22,1,765.28,3,7
+O11263,P196,Electronics,Supplier A,Bangalore,Social Media,2025-06-18,0,1027.28,4,5
+O11264,P226,Electronics,Supplier B,Bangalore,TV,2025-05-20,1,626.26,4,3
+O11265,P522,Toys,Supplier A,Bangalore,Social Media,2025-06-02,1,1329.17,3,1
+O11266,P944,Home,Supplier A,Hyderabad,Social Media,2025-06-21,1,742.68,1,7
+O11267,P203,Books,Supplier A,Hyderabad,Website Banner,2025-05-26,0,1942.44,1,6
+O11268,P374,Electronics,Supplier A,Chennai,Email,2025-04-18,0,1465.31,1,7
+O11269,P479,Books,Supplier A,Bangalore,Email,2025-04-01,0,446.1,2,2
+O11270,P813,Electronics,Supplier B,Delhi,TV,2025-04-14,0,950.05,1,4
+O11271,P455,Clothing,Supplier A,Chennai,Website Banner,2025-06-25,0,893.76,4,2
+O11272,P419,Electronics,Supplier B,Delhi,Email,2025-06-13,0,1161.64,1,8
+O11273,P914,Toys,Supplier A,Hyderabad,Website Banner,2025-05-29,1,1715.48,4,7
+O11274,P386,Home,Supplier C,Chennai,Email,2025-04-06,0,1250.16,2,1
+O11275,P999,Clothing,Supplier C,Chennai,Website Banner,2025-06-11,1,310.8,4,2
+O11276,P384,Electronics,Supplier C,Mumbai,TV,2025-06-20,0,1379.75,4,2
+O11277,P613,Books,Supplier C,Hyderabad,Social Media,2025-04-05,0,214.88,4,4
+O11278,P269,Clothing,Supplier B,Hyderabad,TV,2025-04-18,1,1603.93,1,3
+O11279,P656,Clothing,Supplier B,Chennai,Email,2025-05-07,0,1399.94,3,1
+O11280,P543,Electronics,Supplier A,Hyderabad,TV,2025-04-02,0,755.81,4,2
+O11281,P786,Clothing,Supplier C,Chennai,Social Media,2025-06-16,0,726.4,1,9
+O11282,P584,Books,Supplier B,Mumbai,TV,2025-04-18,0,1636.89,1,1
+O11283,P656,Clothing,Supplier A,Chennai,Email,2025-04-17,0,1610.01,1,9
+O11284,P116,Books,Supplier A,Hyderabad,Email,2025-05-24,0,834.14,3,7
+O11285,P226,Electronics,Supplier B,Hyderabad,TV,2025-05-18,0,738.11,3,2
+O11286,P798,Home,Supplier C,Chennai,Social Media,2025-05-21,0,1207.68,3,2
+O11287,P945,Clothing,Supplier A,Chennai,TV,2025-06-15,0,215.06,3,5
+O11288,P293,Home,Supplier C,Chennai,Social Media,2025-04-04,0,348.8,2,5
+O11289,P537,Books,Supplier C,Bangalore,Website Banner,2025-06-04,0,427.11,3,4
+O11290,P687,Clothing,Supplier C,Hyderabad,Social Media,2025-05-18,1,533.74,3,3
+O11291,P821,Toys,Supplier A,Hyderabad,Website Banner,2025-04-03,0,1121.63,3,4
+O11292,P641,Home,Supplier C,Bangalore,TV,2025-06-24,0,1986.04,4,4
+O11293,P753,Clothing,Supplier A,Chennai,Social Media,2025-04-17,0,1374.7,4,2
+O11294,P424,Home,Supplier C,Mumbai,Website Banner,2025-04-24,1,310.34,3,5
+O11295,P480,Clothing,Supplier A,Chennai,Website Banner,2025-05-23,0,1146.04,2,5
+O11296,P379,Electronics,Supplier C,Chennai,Website Banner,2025-06-08,0,1093.96,4,5
+O11297,P838,Home,Supplier B,Bangalore,Email,2025-04-09,0,459.5,1,1
+O11298,P986,Toys,Supplier C,Hyderabad,TV,2025-04-25,0,1856.49,4,6
+O11299,P656,Toys,Supplier C,Chennai,Website Banner,2025-04-21,0,993.38,1,2
+O11300,P758,Books,Supplier A,Hyderabad,Social Media,2025-06-22,0,1990.21,4,7
+O11301,P121,Clothing,Supplier A,Delhi,Website Banner,2025-06-09,0,956.13,3,4
+O11302,P309,Home,Supplier C,Hyderabad,Email,2025-04-10,1,1294.32,4,5
+O11303,P947,Books,Supplier B,Mumbai,TV,2025-04-05,0,388.57,3,5
+O11304,P913,Home,Supplier B,Mumbai,Email,2025-05-01,0,1017.61,3,5
+O11305,P142,Clothing,Supplier A,Chennai,Email,2025-04-10,0,629.78,4,2
+O11306,P491,Toys,Supplier B,Hyderabad,Email,2025-05-14,1,1704.02,1,5
+O11307,P956,Electronics,Supplier C,Chennai,Social Media,2025-06-26,1,1611.06,1,3
+O11308,P526,Toys,Supplier A,Bangalore,TV,2025-05-10,0,1683.52,4,4
+O11309,P671,Books,Supplier C,Mumbai,TV,2025-04-29,0,1502.5,3,2
+O11310,P233,Electronics,Supplier A,Chennai,Social Media,2025-05-17,0,1698.83,1,4
+O11311,P946,Books,Supplier A,Bangalore,TV,2025-04-07,0,561.49,2,9
+O11312,P408,Clothing,Supplier A,Chennai,Email,2025-05-24,0,1013.68,3,8
+O11313,P582,Electronics,Supplier A,Hyderabad,TV,2025-06-03,0,1445.32,4,3
+O11314,P218,Books,Supplier B,Hyderabad,Social Media,2025-06-23,0,1347.31,3,1
+O11315,P942,Clothing,Supplier C,Hyderabad,Email,2025-05-30,0,1489.44,2,1
+O11316,P103,Toys,Supplier C,Hyderabad,Social Media,2025-06-16,0,603.67,2,6
+O11317,P881,Clothing,Supplier C,Delhi,Website Banner,2025-05-16,0,377.18,1,3
+O11318,P612,Home,Supplier A,Bangalore,Email,2025-04-18,0,1850.25,2,4
+O11319,P215,Clothing,Supplier B,Bangalore,Email,2025-04-30,0,1208.31,3,1
+O11320,P685,Clothing,Supplier C,Hyderabad,TV,2025-04-27,0,476.89,1,8
+O11321,P964,Home,Supplier B,Delhi,Email,2025-05-21,0,1628.19,2,1
+O11322,P317,Books,Supplier A,Hyderabad,Social Media,2025-05-27,0,1846.87,1,5
+O11323,P581,Books,Supplier C,Delhi,TV,2025-04-25,0,505.21,1,6
+O11324,P898,Clothing,Supplier B,Hyderabad,Website Banner,2025-06-09,0,1671.34,4,2
+O11325,P553,Home,Supplier A,Mumbai,Social Media,2025-04-16,0,1879.81,1,7
+O11326,P456,Home,Supplier B,Mumbai,Website Banner,2025-04-07,0,1889.05,1,7
+O11327,P702,Toys,Supplier C,Chennai,Website Banner,2025-06-27,0,1845.48,2,1
+O11328,P537,Books,Supplier C,Hyderabad,Website Banner,2025-05-04,1,1183.56,3,4
+O11329,P346,Electronics,Supplier A,Bangalore,Email,2025-04-14,0,841.18,3,4
+O11330,P168,Books,Supplier A,Chennai,Social Media,2025-05-22,1,213.09,2,5
+O11331,P889,Books,Supplier A,Mumbai,Social Media,2025-06-06,0,309.64,3,1
+O11332,P951,Toys,Supplier B,Hyderabad,Email,2025-04-24,1,971.91,1,1
+O11333,P432,Electronics,Supplier B,Chennai,TV,2025-04-12,0,918.79,4,7
+O11334,P242,Toys,Supplier B,Hyderabad,Website Banner,2025-05-03,0,532.49,1,9
+O11335,P378,Electronics,Supplier A,Mumbai,Social Media,2025-04-14,0,911.86,1,1
+O11336,P861,Clothing,Supplier C,Chennai,Email,2025-04-20,0,514.37,4,2
+O11337,P327,Electronics,Supplier C,Mumbai,Website Banner,2025-05-23,1,1727.82,2,6
+O11338,P727,Toys,Supplier B,Delhi,TV,2025-05-21,0,736.75,1,6
+O11339,P317,Books,Supplier B,Mumbai,TV,2025-04-25,0,1277.42,1,2
+O11340,P159,Electronics,Supplier C,Hyderabad,Website Banner,2025-04-01,0,1105.12,2,9
+O11341,P232,Electronics,Supplier C,Bangalore,TV,2025-05-10,0,293.39,1,4
+O11342,P133,Home,Supplier B,Mumbai,Social Media,2025-04-11,1,1896.02,1,7
+O11343,P747,Books,Supplier B,Bangalore,Social Media,2025-06-01,0,1149.01,3,6
+O11344,P600,Clothing,Supplier C,Delhi,Social Media,2025-06-20,0,785.1,2,3
+O11345,P788,Toys,Supplier A,Chennai,TV,2025-05-22,0,484.63,1,8
+O11346,P724,Clothing,Supplier B,Chennai,Social Media,2025-06-03,1,809.35,1,7
+O11347,P364,Books,Supplier C,Bangalore,Email,2025-06-08,0,236.92,4,9
+O11348,P792,Electronics,Supplier C,Chennai,Social Media,2025-05-17,0,854.4,4,3
+O11349,P879,Electronics,Supplier C,Mumbai,Social Media,2025-05-08,0,1156.67,4,1
+O11350,P964,Books,Supplier C,Bangalore,TV,2025-05-20,0,1769.36,1,2
+O11351,P693,Electronics,Supplier A,Hyderabad,Social Media,2025-06-17,0,1437.27,1,1
+O11352,P266,Electronics,Supplier C,Mumbai,Website Banner,2025-06-01,1,400.85,4,5
+O11353,P416,Electronics,Supplier B,Mumbai,Email,2025-04-05,0,465.94,3,2
+O11354,P870,Toys,Supplier A,Mumbai,TV,2025-04-16,1,970.62,3,3
+O11355,P427,Toys,Supplier C,Hyderabad,Email,2025-05-29,0,552.27,3,8
+O11356,P435,Home,Supplier A,Delhi,Website Banner,2025-05-13,0,250.13,3,5
+O11357,P479,Clothing,Supplier B,Chennai,TV,2025-06-08,1,1649.03,2,4
+O11358,P934,Books,Supplier C,Bangalore,TV,2025-04-13,0,235.14,4,5
+O11359,P153,Books,Supplier B,Delhi,Social Media,2025-06-26,0,1695.24,1,6
+O11360,P556,Books,Supplier C,Bangalore,Email,2025-05-23,0,459.39,4,7
+O11361,P537,Home,Supplier C,Chennai,Website Banner,2025-05-17,0,1954.42,3,9
+O11362,P785,Toys,Supplier C,Hyderabad,Website Banner,2025-06-16,0,1286.97,1,1
+O11363,P122,Home,Supplier C,Mumbai,TV,2025-06-17,0,1522.97,2,4
+O11364,P351,Books,Supplier C,Mumbai,Social Media,2025-04-08,1,398.87,4,9
+O11365,P563,Clothing,Supplier A,Hyderabad,TV,2025-04-24,1,1751.79,1,5
+O11366,P667,Electronics,Supplier C,Delhi,TV,2025-06-08,0,1710.55,1,8
+O11367,P334,Toys,Supplier C,Delhi,TV,2025-06-18,1,1375.39,3,1
+O11368,P894,Toys,Supplier A,Bangalore,TV,2025-05-17,1,1104.09,3,4
+O11369,P784,Home,Supplier A,Hyderabad,Website Banner,2025-04-10,0,1498.68,4,9
+O11370,P303,Toys,Supplier A,Delhi,Website Banner,2025-04-26,0,210.67,2,1
+O11371,P353,Books,Supplier A,Hyderabad,TV,2025-06-21,0,1266.39,1,1
+O11372,P749,Books,Supplier A,Chennai,TV,2025-06-07,0,1725.33,3,4
+O11373,P919,Home,Supplier A,Mumbai,Social Media,2025-05-31,0,842.42,4,3
+O11374,P964,Books,Supplier C,Mumbai,TV,2025-05-17,1,394.92,3,7
+O11375,P535,Clothing,Supplier C,Mumbai,Website Banner,2025-04-18,0,957.58,4,3
+O11376,P584,Home,Supplier B,Hyderabad,Email,2025-05-21,0,1508.79,3,1
+O11377,P115,Clothing,Supplier C,Hyderabad,Website Banner,2025-04-04,0,393.14,2,2
+O11378,P633,Electronics,Supplier C,Bangalore,Social Media,2025-05-23,0,570.89,1,4
+O11379,P386,Clothing,Supplier A,Mumbai,Website Banner,2025-04-12,0,465.59,3,1
+O11380,P893,Electronics,Supplier A,Bangalore,Email,2025-04-01,0,1634.51,1,1
+O11381,P313,Electronics,Supplier C,Mumbai,TV,2025-06-26,0,313.21,4,8
+O11382,P981,Clothing,Supplier B,Bangalore,Email,2025-05-07,0,1435.86,2,7
+O11383,P719,Home,Supplier A,Bangalore,TV,2025-06-16,0,859.62,1,8
+O11384,P491,Books,Supplier C,Chennai,TV,2025-06-07,0,1560.42,3,4
+O11385,P174,Books,Supplier C,Bangalore,Website Banner,2025-06-10,0,1935.89,1,6
+O11386,P519,Electronics,Supplier B,Hyderabad,Website Banner,2025-04-13,0,406.18,1,3
+O11387,P771,Electronics,Supplier B,Bangalore,Website Banner,2025-04-06,0,765.89,4,8
+O11388,P300,Home,Supplier A,Mumbai,Social Media,2025-06-05,0,1658.23,2,4
+O11389,P769,Toys,Supplier B,Bangalore,Website Banner,2025-06-01,0,679.09,2,3
+O11390,P943,Clothing,Supplier C,Delhi,Social Media,2025-05-01,1,587.22,1,4
+O11391,P155,Electronics,Supplier C,Mumbai,Website Banner,2025-04-15,0,1685.68,1,6
+O11392,P332,Books,Supplier B,Delhi,TV,2025-06-04,0,1976.75,4,7
+O11393,P849,Home,Supplier B,Mumbai,Social Media,2025-06-05,1,1202.39,1,7
+O11394,P926,Clothing,Supplier B,Hyderabad,Email,2025-04-19,0,700.49,4,4
+O11395,P659,Home,Supplier B,Hyderabad,Social Media,2025-05-06,0,917.42,2,8
+O11396,P135,Clothing,Supplier A,Hyderabad,Social Media,2025-04-22,1,506.23,2,7
+O11397,P191,Clothing,Supplier B,Delhi,Email,2025-04-26,0,1571.4,4,2
+O11398,P537,Electronics,Supplier A,Chennai,Social Media,2025-04-27,0,1592.25,1,8
+O11399,P364,Home,Supplier C,Mumbai,TV,2025-04-02,1,1775.22,2,9
+O11400,P943,Home,Supplier B,Hyderabad,Website Banner,2025-05-14,0,247.88,3,5
+O11401,P186,Books,Supplier A,Mumbai,Email,2025-04-16,0,1211.57,4,4
+O11402,P421,Books,Supplier B,Delhi,Website Banner,2025-06-29,0,585.66,2,4
+O11403,P944,Electronics,Supplier C,Chennai,TV,2025-05-11,0,813.59,2,4
+O11404,P836,Electronics,Supplier C,Delhi,Email,2025-05-11,0,1612.92,2,6
+O11405,P573,Toys,Supplier C,Mumbai,Website Banner,2025-04-29,0,545.66,3,4
+O11406,P423,Books,Supplier B,Chennai,Website Banner,2025-06-04,1,1349.02,3,7
+O11407,P980,Clothing,Supplier B,Chennai,TV,2025-06-27,1,1378.22,3,7
+O11408,P144,Home,Supplier A,Delhi,Website Banner,2025-05-05,1,1917.37,1,5
+O11409,P620,Electronics,Supplier C,Hyderabad,TV,2025-06-25,0,1595.29,4,5
+O11410,P938,Home,Supplier B,Mumbai,Social Media,2025-05-18,0,1646.54,1,8
+O11411,P800,Home,Supplier C,Bangalore,TV,2025-04-28,1,1156.88,3,7
+O11412,P448,Toys,Supplier C,Bangalore,Social Media,2025-06-05,1,536.21,4,7
+O11413,P527,Books,Supplier A,Delhi,Email,2025-06-05,0,966.01,1,6
+O11414,P953,Electronics,Supplier A,Mumbai,Website Banner,2025-04-06,0,1189.08,1,7
+O11415,P745,Home,Supplier A,Mumbai,TV,2025-05-04,0,1421.15,1,7
+O11416,P236,Electronics,Supplier A,Delhi,TV,2025-06-22,0,1293.88,3,2
+O11417,P180,Clothing,Supplier C,Mumbai,Website Banner,2025-04-16,0,909.16,2,2
+O11418,P786,Toys,Supplier A,Hyderabad,Website Banner,2025-06-12,1,677.56,4,7
+O11419,P106,Clothing,Supplier A,Delhi,Email,2025-04-13,0,502.82,3,7
+O11420,P981,Electronics,Supplier A,Hyderabad,Email,2025-04-25,0,1448.92,4,7
+O11421,P260,Electronics,Supplier A,Mumbai,TV,2025-04-10,0,1361.72,3,5
+O11422,P339,Books,Supplier C,Delhi,Email,2025-05-07,0,1437.27,1,1
+O11423,P202,Home,Supplier A,Mumbai,Social Media,2025-04-27,0,870.55,1,2
+O11424,P432,Home,Supplier C,Delhi,Email,2025-04-18,0,672.33,2,9
+O11425,P734,Clothing,Supplier B,Mumbai,Email,2025-06-14,0,1567.5,2,8
+O11426,P323,Toys,Supplier C,Hyderabad,TV,2025-04-02,0,1592.57,4,8
+O11427,P665,Home,Supplier C,Hyderabad,Social Media,2025-05-03,0,1020.11,2,1
+O11428,P805,Books,Supplier A,Mumbai,Email,2025-05-22,0,1301.43,2,6
+O11429,P211,Clothing,Supplier B,Delhi,Social Media,2025-05-24,0,872.34,4,9
+O11430,P836,Clothing,Supplier B,Bangalore,Social Media,2025-04-28,1,1463.5,3,8
+O11431,P701,Books,Supplier B,Hyderabad,Social Media,2025-05-23,0,1704.3,2,3
+O11432,P324,Toys,Supplier B,Hyderabad,Website Banner,2025-05-30,1,1438.82,3,4
+O11433,P155,Books,Supplier C,Bangalore,Website Banner,2025-04-22,0,1122.65,1,3
+O11434,P318,Toys,Supplier B,Mumbai,Website Banner,2025-05-04,1,1025.58,2,6
+O11435,P595,Books,Supplier C,Delhi,Website Banner,2025-05-07,1,1356.18,1,9
+O11436,P570,Books,Supplier C,Mumbai,TV,2025-05-26,0,1423.66,1,8
+O11437,P164,Electronics,Supplier C,Chennai,Email,2025-06-16,0,1205.71,3,4
+O11438,P566,Clothing,Supplier B,Hyderabad,Website Banner,2025-06-26,0,1324.9,4,2
+O11439,P717,Books,Supplier A,Chennai,TV,2025-05-31,1,373.86,2,8
+O11440,P940,Books,Supplier A,Hyderabad,Email,2025-05-20,0,1913.18,3,8
+O11441,P869,Home,Supplier B,Hyderabad,Website Banner,2025-05-21,0,1623.39,4,6
+O11442,P891,Clothing,Supplier A,Chennai,Email,2025-05-03,0,873.07,1,8
+O11443,P979,Home,Supplier A,Chennai,Website Banner,2025-05-10,1,1213.06,2,9
+O11444,P724,Clothing,Supplier C,Mumbai,TV,2025-05-14,0,285.18,1,1
+O11445,P980,Home,Supplier C,Chennai,Social Media,2025-05-18,0,274.21,1,9
+O11446,P321,Books,Supplier B,Mumbai,Social Media,2025-05-13,0,651.44,2,2
+O11447,P660,Books,Supplier B,Mumbai,Email,2025-05-24,0,1441.46,4,1
+O11448,P843,Electronics,Supplier A,Mumbai,TV,2025-06-04,0,1733.87,4,8
+O11449,P837,Home,Supplier C,Hyderabad,Social Media,2025-04-09,0,1206.53,2,8
+O11450,P596,Toys,Supplier B,Hyderabad,Website Banner,2025-04-02,0,1157.84,2,4
+O11451,P734,Electronics,Supplier B,Chennai,Social Media,2025-06-09,1,924.16,3,8
+O11452,P866,Home,Supplier B,Hyderabad,Email,2025-04-04,0,490.88,3,7
+O11453,P981,Home,Supplier B,Chennai,Email,2025-06-22,0,413.04,1,2
+O11454,P582,Electronics,Supplier B,Hyderabad,TV,2025-05-01,0,1569.22,2,5
+O11455,P686,Books,Supplier B,Delhi,Email,2025-06-05,0,1869.51,4,4
+O11456,P613,Home,Supplier A,Delhi,Social Media,2025-04-04,0,1024.91,1,3
+O11457,P704,Books,Supplier C,Chennai,Social Media,2025-04-29,0,1387.0,1,1
+O11458,P618,Electronics,Supplier C,Hyderabad,Social Media,2025-05-14,0,1846.02,1,5
+O11459,P509,Books,Supplier B,Hyderabad,Social Media,2025-04-26,0,362.2,1,8
+O11460,P885,Clothing,Supplier C,Mumbai,TV,2025-06-13,0,1586.87,4,9
+O11461,P757,Toys,Supplier C,Bangalore,Website Banner,2025-04-12,1,1310.27,1,7
+O11462,P847,Home,Supplier C,Chennai,Website Banner,2025-06-16,0,1277.55,2,1
+O11463,P677,Toys,Supplier B,Bangalore,TV,2025-05-02,1,726.57,3,1
+O11464,P626,Books,Supplier B,Bangalore,Email,2025-05-11,0,1431.01,4,1
+O11465,P257,Home,Supplier C,Chennai,Website Banner,2025-04-19,0,1630.64,2,2
+O11466,P124,Books,Supplier C,Hyderabad,Email,2025-06-28,0,403.14,2,1
+O11467,P214,Clothing,Supplier B,Chennai,Website Banner,2025-04-03,1,1160.34,2,4
+O11468,P830,Electronics,Supplier A,Bangalore,Email,2025-04-24,0,382.28,3,9
+O11469,P429,Home,Supplier C,Hyderabad,TV,2025-05-07,0,1770.63,3,4
+O11470,P226,Clothing,Supplier A,Delhi,Social Media,2025-06-07,0,1113.75,3,4
+O11471,P799,Clothing,Supplier C,Chennai,Email,2025-05-16,0,1654.34,2,7
+O11472,P579,Home,Supplier A,Chennai,Social Media,2025-04-15,0,862.55,3,9
+O11473,P965,Books,Supplier A,Hyderabad,Email,2025-06-12,0,425.14,1,7
+O11474,P354,Clothing,Supplier A,Delhi,Email,2025-06-14,0,274.7,3,1
+O11475,P163,Toys,Supplier B,Delhi,Email,2025-06-02,1,706.72,4,1
+O11476,P248,Clothing,Supplier A,Hyderabad,Email,2025-04-03,0,639.62,2,4
+O11477,P245,Books,Supplier A,Mumbai,Email,2025-06-29,0,1208.63,2,4
+O11478,P392,Books,Supplier A,Chennai,Social Media,2025-04-16,0,239.13,1,1
+O11479,P419,Toys,Supplier C,Chennai,Email,2025-05-05,1,1137.03,3,6
+O11480,P135,Clothing,Supplier A,Bangalore,Social Media,2025-05-20,1,905.19,3,2
+O11481,P388,Books,Supplier C,Hyderabad,TV,2025-06-12,1,1238.82,4,5
+O11482,P800,Home,Supplier A,Bangalore,Website Banner,2025-04-08,0,1464.35,1,8
+O11483,P810,Electronics,Supplier A,Bangalore,Email,2025-04-23,1,1341.37,4,3
+O11484,P150,Electronics,Supplier B,Delhi,Website Banner,2025-06-21,0,1972.36,4,9
+O11485,P705,Electronics,Supplier C,Chennai,Social Media,2025-04-02,0,448.88,2,7
+O11486,P708,Clothing,Supplier A,Bangalore,TV,2025-06-25,0,973.53,2,9
+O11487,P882,Toys,Supplier C,Delhi,TV,2025-05-05,0,964.7,3,1
+O11488,P250,Books,Supplier C,Hyderabad,TV,2025-06-12,1,950.7,3,5
+O11489,P210,Home,Supplier B,Bangalore,Website Banner,2025-06-02,0,1394.84,4,3
+O11490,P609,Home,Supplier B,Chennai,Social Media,2025-05-08,0,1081.69,3,4
+O11491,P775,Clothing,Supplier B,Bangalore,Email,2025-04-24,0,1131.38,4,4
+O11492,P621,Electronics,Supplier B,Hyderabad,Email,2025-04-09,0,978.24,3,7
+O11493,P326,Clothing,Supplier B,Bangalore,Social Media,2025-05-26,0,1985.06,3,8
+O11494,P324,Toys,Supplier B,Chennai,Website Banner,2025-04-14,0,1869.61,2,5
+O11495,P750,Toys,Supplier B,Delhi,Email,2025-04-01,1,753.9,2,7
+O11496,P435,Books,Supplier B,Chennai,Social Media,2025-05-19,0,400.87,2,3
+O11497,P128,Books,Supplier A,Delhi,Email,2025-06-18,0,1711.58,2,3
+O11498,P642,Toys,Supplier C,Mumbai,TV,2025-04-30,0,1994.91,1,3
+O11499,P986,Toys,Supplier B,Chennai,Email,2025-04-08,0,726.7,2,4
+O11500,P303,Toys,Supplier B,Chennai,Website Banner,2025-05-22,1,844.01,1,6
+O11501,P544,Clothing,Supplier C,Hyderabad,Social Media,2025-06-23,0,1894.94,2,5
+O11502,P743,Toys,Supplier A,Bangalore,Website Banner,2025-06-21,0,1480.03,3,8
+O11503,P584,Home,Supplier C,Delhi,Social Media,2025-05-21,0,732.15,4,5
+O11504,P176,Electronics,Supplier C,Delhi,TV,2025-05-28,0,1245.88,3,5
+O11505,P285,Toys,Supplier B,Hyderabad,Social Media,2025-05-08,0,1899.61,3,2
+O11506,P247,Electronics,Supplier C,Hyderabad,Email,2025-04-27,0,1661.26,1,5
+O11507,P666,Clothing,Supplier C,Bangalore,Email,2025-06-04,0,1535.3,2,7
+O11508,P982,Electronics,Supplier B,Bangalore,TV,2025-05-02,0,1526.59,4,2
+O11509,P760,Clothing,Supplier B,Chennai,Social Media,2025-04-24,0,520.44,4,6
+O11510,P699,Home,Supplier B,Mumbai,TV,2025-05-22,0,1684.43,2,7
+O11511,P626,Clothing,Supplier B,Bangalore,Email,2025-05-09,0,697.01,1,5
+O11512,P857,Clothing,Supplier C,Hyderabad,Website Banner,2025-04-12,0,1874.66,1,9
+O11513,P215,Books,Supplier C,Bangalore,TV,2025-05-26,1,856.35,1,4
+O11514,P615,Toys,Supplier A,Delhi,Website Banner,2025-05-23,0,1743.79,4,1
+O11515,P468,Toys,Supplier A,Mumbai,Website Banner,2025-06-02,0,679.22,1,8
+O11516,P526,Home,Supplier C,Chennai,Social Media,2025-06-23,0,1126.15,1,8
+O11517,P897,Home,Supplier A,Delhi,TV,2025-04-10,1,392.39,4,7
+O11518,P996,Toys,Supplier C,Delhi,Website Banner,2025-05-19,0,1388.21,4,8
+O11519,P277,Books,Supplier A,Mumbai,Website Banner,2025-05-24,1,1704.94,3,2
+O11520,P772,Toys,Supplier B,Chennai,Social Media,2025-06-12,0,1493.21,4,3
+O11521,P439,Books,Supplier A,Hyderabad,Social Media,2025-06-03,1,1141.87,2,9
+O11522,P548,Home,Supplier B,Chennai,Email,2025-04-09,1,281.21,4,1
+O11523,P235,Electronics,Supplier B,Bangalore,Website Banner,2025-05-25,0,1880.19,4,8
+O11524,P793,Home,Supplier B,Delhi,Email,2025-05-24,0,1469.88,1,8
+O11525,P547,Home,Supplier B,Bangalore,Website Banner,2025-04-26,0,1542.56,3,7
+O11526,P438,Clothing,Supplier A,Hyderabad,Email,2025-06-22,0,1630.43,1,5
+O11527,P528,Clothing,Supplier C,Bangalore,Social Media,2025-05-20,0,1545.94,3,4
+O11528,P339,Clothing,Supplier B,Chennai,TV,2025-04-12,0,994.01,1,6
+O11529,P640,Clothing,Supplier A,Bangalore,Social Media,2025-04-20,0,1520.52,2,1
+O11530,P199,Books,Supplier B,Hyderabad,Email,2025-06-09,0,1325.05,1,5
+O11531,P570,Toys,Supplier A,Hyderabad,Email,2025-06-06,0,1737.23,1,4
+O11532,P915,Electronics,Supplier A,Hyderabad,TV,2025-04-15,0,1644.43,2,4
+O11533,P109,Home,Supplier A,Chennai,Website Banner,2025-06-18,0,274.47,2,7
+O11534,P353,Books,Supplier C,Hyderabad,Email,2025-06-16,1,882.0,4,9
+O11535,P770,Electronics,Supplier A,Delhi,Email,2025-06-23,0,262.49,1,8
+O11536,P168,Books,Supplier A,Hyderabad,Email,2025-04-14,0,383.73,2,8
+O11537,P286,Books,Supplier C,Bangalore,TV,2025-06-23,0,1282.54,2,5
+O11538,P785,Home,Supplier C,Bangalore,Social Media,2025-06-20,0,1772.88,4,6
+O11539,P945,Toys,Supplier A,Bangalore,Email,2025-05-04,0,415.68,3,2
+O11540,P684,Clothing,Supplier C,Chennai,TV,2025-05-24,0,1011.96,2,3
+O11541,P591,Toys,Supplier B,Bangalore,Email,2025-06-26,1,1839.58,2,5
+O11542,P571,Home,Supplier B,Chennai,Website Banner,2025-04-25,0,1665.74,1,2
+O11543,P781,Home,Supplier C,Chennai,TV,2025-06-01,0,1135.4,4,3
+O11544,P293,Home,Supplier C,Hyderabad,Email,2025-04-13,1,1588.83,1,4
+O11545,P975,Electronics,Supplier A,Delhi,TV,2025-06-17,0,1140.85,3,6
+O11546,P988,Toys,Supplier C,Hyderabad,Email,2025-05-22,1,484.57,4,5
+O11547,P436,Toys,Supplier A,Hyderabad,Social Media,2025-06-27,1,424.53,1,4
+O11548,P117,Books,Supplier B,Chennai,Email,2025-06-07,0,539.06,2,2
+O11549,P908,Books,Supplier C,Chennai,TV,2025-05-10,0,831.66,2,5
+O11550,P785,Books,Supplier A,Bangalore,Website Banner,2025-04-21,0,1874.95,4,5
+O11551,P866,Home,Supplier A,Bangalore,Website Banner,2025-06-12,0,1639.42,2,7
+O11552,P827,Toys,Supplier B,Hyderabad,Website Banner,2025-06-12,0,979.04,1,1
+O11553,P730,Home,Supplier C,Mumbai,Email,2025-05-10,1,1087.54,4,4
+O11554,P143,Electronics,Supplier B,Mumbai,Social Media,2025-05-05,0,678.1,2,5
+O11555,P624,Books,Supplier A,Bangalore,Email,2025-06-08,0,1467.84,2,8
+O11556,P738,Home,Supplier A,Mumbai,Website Banner,2025-04-01,0,1644.98,3,8
+O11557,P720,Home,Supplier C,Bangalore,TV,2025-05-14,0,630.03,3,1
+O11558,P788,Electronics,Supplier A,Chennai,Website Banner,2025-04-24,0,275.28,4,5
+O11559,P502,Clothing,Supplier C,Hyderabad,TV,2025-04-18,0,1323.0,3,1
+O11560,P365,Toys,Supplier B,Delhi,Social Media,2025-04-22,0,1212.52,1,1
+O11561,P388,Clothing,Supplier C,Hyderabad,TV,2025-06-14,0,923.84,2,2
+O11562,P410,Books,Supplier C,Bangalore,Email,2025-04-26,0,1359.01,2,2
+O11563,P584,Home,Supplier A,Bangalore,Email,2025-06-08,0,1191.1,2,9
+O11564,P196,Electronics,Supplier A,Hyderabad,Email,2025-05-22,0,651.05,4,4
+O11565,P981,Electronics,Supplier C,Bangalore,TV,2025-06-27,0,915.91,4,3
+O11566,P386,Toys,Supplier A,Mumbai,Email,2025-04-04,0,970.6,3,1
+O11567,P968,Clothing,Supplier A,Mumbai,Email,2025-05-15,0,1784.45,2,2
+O11568,P288,Toys,Supplier A,Bangalore,Email,2025-04-27,0,1929.63,2,6
+O11569,P643,Home,Supplier C,Bangalore,Social Media,2025-06-25,0,1807.4,2,9
+O11570,P205,Toys,Supplier A,Mumbai,TV,2025-05-22,0,1494.52,2,5
+O11571,P117,Electronics,Supplier C,Bangalore,TV,2025-06-14,0,1252.99,2,4
+O11572,P472,Electronics,Supplier A,Bangalore,Website Banner,2025-06-24,0,1440.67,1,5
+O11573,P794,Books,Supplier B,Hyderabad,TV,2025-06-28,0,1890.4,2,9
+O11574,P178,Books,Supplier A,Delhi,Social Media,2025-06-06,0,650.0,1,7
+O11575,P119,Home,Supplier A,Mumbai,TV,2025-06-14,1,1163.22,2,8
+O11576,P951,Clothing,Supplier C,Hyderabad,Social Media,2025-05-28,0,1441.29,4,4
+O11577,P233,Toys,Supplier C,Delhi,Social Media,2025-05-11,0,1422.64,4,8
+O11578,P891,Home,Supplier A,Bangalore,TV,2025-05-09,0,654.1,1,6
+O11579,P779,Books,Supplier B,Bangalore,Website Banner,2025-04-28,0,1256.12,2,5
+O11580,P526,Toys,Supplier A,Hyderabad,Email,2025-05-17,1,1632.64,4,7
+O11581,P189,Books,Supplier A,Bangalore,Email,2025-05-27,0,1055.14,4,6
+O11582,P849,Toys,Supplier B,Chennai,TV,2025-04-25,1,1627.94,2,3
+O11583,P319,Clothing,Supplier C,Hyderabad,TV,2025-04-06,0,847.79,2,5
+O11584,P441,Home,Supplier A,Delhi,Social Media,2025-05-28,0,1889.77,4,9
+O11585,P202,Toys,Supplier C,Hyderabad,TV,2025-06-02,0,1161.07,2,7
+O11586,P476,Electronics,Supplier C,Mumbai,Social Media,2025-05-29,0,1272.71,3,4
+O11587,P861,Electronics,Supplier B,Hyderabad,Website Banner,2025-04-15,0,256.45,2,7
+O11588,P781,Toys,Supplier B,Bangalore,TV,2025-05-02,0,506.48,4,5
+O11589,P802,Toys,Supplier C,Bangalore,Email,2025-04-08,0,1339.28,4,2
+O11590,P326,Toys,Supplier A,Chennai,Email,2025-04-28,0,955.77,1,6
+O11591,P896,Electronics,Supplier C,Chennai,TV,2025-05-14,1,1114.69,3,7
+O11592,P726,Electronics,Supplier A,Chennai,Social Media,2025-06-25,0,313.35,4,8
+O11593,P327,Toys,Supplier A,Delhi,Email,2025-05-03,0,1701.44,3,6
+O11594,P429,Books,Supplier B,Chennai,Social Media,2025-06-20,0,1612.11,2,8
+O11595,P229,Books,Supplier A,Delhi,TV,2025-04-02,0,533.64,4,7
+O11596,P863,Clothing,Supplier A,Chennai,TV,2025-06-17,0,1341.79,1,2
+O11597,P719,Home,Supplier C,Delhi,Email,2025-05-27,0,1672.97,4,6
+O11598,P665,Books,Supplier B,Hyderabad,TV,2025-04-01,1,1353.54,1,9
+O11599,P526,Electronics,Supplier A,Hyderabad,Website Banner,2025-05-11,0,758.72,3,6
+O11600,P474,Books,Supplier A,Bangalore,Website Banner,2025-06-17,0,1381.0,1,4
+O11601,P181,Clothing,Supplier B,Delhi,Email,2025-05-03,0,578.83,2,7
+O11602,P118,Clothing,Supplier C,Mumbai,Website Banner,2025-05-07,0,772.86,2,3
+O11603,P183,Home,Supplier B,Bangalore,Social Media,2025-05-28,0,632.13,2,5
+O11604,P273,Books,Supplier B,Hyderabad,Email,2025-06-04,0,1202.47,4,1
+O11605,P139,Electronics,Supplier A,Delhi,Email,2025-04-11,0,394.81,2,3
+O11606,P223,Electronics,Supplier A,Chennai,Social Media,2025-06-21,1,1879.96,2,8
+O11607,P896,Toys,Supplier C,Mumbai,Website Banner,2025-04-29,0,800.32,4,9
+O11608,P197,Electronics,Supplier A,Hyderabad,Website Banner,2025-04-03,0,594.15,3,9
+O11609,P558,Home,Supplier A,Bangalore,Website Banner,2025-06-26,0,1093.79,2,2
+O11610,P152,Home,Supplier B,Delhi,Email,2025-05-28,0,698.6,2,4
+O11611,P657,Electronics,Supplier A,Mumbai,Email,2025-05-30,0,1162.83,4,5
+O11612,P807,Electronics,Supplier C,Delhi,Website Banner,2025-04-03,0,827.32,3,3
+O11613,P263,Toys,Supplier B,Chennai,TV,2025-04-10,0,437.72,3,1
+O11614,P410,Electronics,Supplier C,Bangalore,Website Banner,2025-04-05,1,678.61,3,6
+O11615,P776,Toys,Supplier B,Delhi,Social Media,2025-05-26,1,989.19,4,2
+O11616,P985,Toys,Supplier A,Hyderabad,Email,2025-06-11,0,254.53,1,9
+O11617,P582,Electronics,Supplier B,Bangalore,Social Media,2025-05-05,1,1587.16,1,1
+O11618,P164,Clothing,Supplier B,Hyderabad,Social Media,2025-04-29,0,1319.28,2,9
+O11619,P706,Clothing,Supplier A,Delhi,Email,2025-05-30,0,1282.45,2,7
+O11620,P273,Toys,Supplier A,Bangalore,TV,2025-04-08,1,1182.89,2,2
+O11621,P725,Electronics,Supplier C,Hyderabad,Website Banner,2025-05-02,0,1262.56,1,6
+O11622,P643,Clothing,Supplier C,Chennai,Social Media,2025-04-08,0,1882.37,4,8
+O11623,P879,Electronics,Supplier A,Chennai,Email,2025-05-13,0,215.42,2,2
+O11624,P612,Electronics,Supplier A,Delhi,Social Media,2025-06-06,0,286.04,4,5
+O11625,P446,Electronics,Supplier A,Bangalore,Website Banner,2025-05-07,1,544.69,2,6
+O11626,P541,Books,Supplier B,Mumbai,TV,2025-05-13,0,501.14,4,3
+O11627,P681,Electronics,Supplier B,Bangalore,TV,2025-05-30,0,526.15,4,2
+O11628,P200,Books,Supplier B,Chennai,TV,2025-06-07,0,1409.5,1,6
+O11629,P751,Toys,Supplier A,Hyderabad,Email,2025-05-18,0,1027.07,4,3
+O11630,P179,Clothing,Supplier C,Mumbai,Email,2025-06-01,0,1985.2,3,2
+O11631,P222,Clothing,Supplier A,Delhi,TV,2025-06-02,0,608.39,1,1
+O11632,P956,Clothing,Supplier B,Mumbai,Website Banner,2025-06-06,0,759.49,2,8
+O11633,P770,Clothing,Supplier B,Delhi,Website Banner,2025-06-05,0,1971.63,1,1
+O11634,P887,Clothing,Supplier A,Mumbai,Email,2025-05-29,1,1697.16,3,5
+O11635,P567,Clothing,Supplier A,Delhi,TV,2025-05-11,0,1045.64,3,6
+O11636,P786,Clothing,Supplier B,Delhi,Website Banner,2025-05-03,0,1198.27,4,3
+O11637,P319,Toys,Supplier B,Mumbai,Website Banner,2025-05-23,0,1717.72,3,7
+O11638,P933,Electronics,Supplier B,Mumbai,Website Banner,2025-04-11,1,1065.76,3,2
+O11639,P876,Home,Supplier A,Delhi,Email,2025-06-16,1,570.84,3,7
+O11640,P646,Books,Supplier B,Chennai,TV,2025-05-24,0,1691.2,3,2
+O11641,P657,Home,Supplier B,Mumbai,Social Media,2025-06-15,0,1167.99,2,5
+O11642,P233,Home,Supplier C,Bangalore,TV,2025-04-03,0,475.48,2,7
+O11643,P176,Electronics,Supplier A,Hyderabad,TV,2025-06-17,0,1110.05,1,3
+O11644,P817,Electronics,Supplier C,Delhi,Email,2025-06-02,0,943.77,4,4
+O11645,P314,Electronics,Supplier C,Delhi,Website Banner,2025-05-15,0,1778.32,2,1
+O11646,P168,Clothing,Supplier B,Hyderabad,Website Banner,2025-05-19,1,426.9,3,3
+O11647,P322,Toys,Supplier A,Chennai,Email,2025-06-01,0,1775.38,4,9
+O11648,P595,Clothing,Supplier B,Hyderabad,Email,2025-06-08,1,1121.98,2,5
+O11649,P223,Toys,Supplier A,Mumbai,Email,2025-04-27,0,927.86,1,8
+O11650,P601,Toys,Supplier C,Hyderabad,Email,2025-05-06,0,491.54,3,2
+O11651,P781,Home,Supplier A,Delhi,Email,2025-04-25,0,1461.47,4,3
+O11652,P117,Home,Supplier B,Hyderabad,Social Media,2025-04-21,0,1868.25,2,7
+O11653,P929,Toys,Supplier B,Bangalore,TV,2025-04-06,0,875.68,4,4
+O11654,P520,Toys,Supplier B,Mumbai,TV,2025-04-29,1,634.85,2,9
+O11655,P698,Clothing,Supplier A,Hyderabad,TV,2025-04-26,1,1198.76,1,7
+O11656,P930,Clothing,Supplier C,Delhi,Website Banner,2025-05-11,1,1633.13,3,1
+O11657,P620,Home,Supplier C,Mumbai,Social Media,2025-06-26,0,206.78,1,4
+O11658,P202,Electronics,Supplier A,Delhi,TV,2025-04-15,1,1336.48,3,6
+O11659,P145,Toys,Supplier B,Chennai,Website Banner,2025-05-23,0,1273.73,3,6
+O11660,P129,Clothing,Supplier C,Bangalore,Social Media,2025-06-16,0,772.67,4,6
+O11661,P617,Home,Supplier B,Chennai,Social Media,2025-06-12,0,1012.56,2,5
+O11662,P825,Clothing,Supplier A,Bangalore,Website Banner,2025-06-27,0,644.53,1,3
+O11663,P618,Toys,Supplier B,Hyderabad,Social Media,2025-05-05,0,1621.79,1,2
+O11664,P683,Toys,Supplier C,Mumbai,Website Banner,2025-06-08,0,1342.16,1,3
+O11665,P904,Books,Supplier C,Hyderabad,TV,2025-04-11,1,1158.88,4,9
+O11666,P577,Electronics,Supplier B,Bangalore,Website Banner,2025-04-24,0,906.55,4,3
+O11667,P409,Books,Supplier A,Bangalore,Social Media,2025-04-27,0,724.49,4,3
+O11668,P235,Home,Supplier B,Bangalore,TV,2025-04-30,1,1680.93,3,1
+O11669,P715,Clothing,Supplier A,Delhi,TV,2025-04-13,0,1012.53,1,2
+O11670,P969,Home,Supplier B,Mumbai,Email,2025-05-15,1,1102.61,3,3
+O11671,P725,Toys,Supplier C,Hyderabad,Email,2025-05-11,0,1137.49,1,2
+O11672,P117,Books,Supplier A,Hyderabad,Social Media,2025-05-27,0,1007.06,1,8
+O11673,P283,Books,Supplier A,Chennai,Website Banner,2025-05-12,0,660.96,2,6
+O11674,P839,Books,Supplier A,Bangalore,Website Banner,2025-06-02,0,416.61,1,7
+O11675,P192,Home,Supplier C,Bangalore,Social Media,2025-05-10,0,377.37,4,1
+O11676,P200,Toys,Supplier B,Bangalore,TV,2025-05-28,0,1563.43,4,6
+O11677,P211,Clothing,Supplier C,Hyderabad,Social Media,2025-04-22,0,602.35,4,2
+O11678,P544,Clothing,Supplier A,Chennai,Social Media,2025-05-05,1,300.21,2,6
+O11679,P571,Home,Supplier B,Delhi,TV,2025-06-13,0,1635.53,2,3
+O11680,P947,Books,Supplier C,Mumbai,Website Banner,2025-04-07,0,477.31,3,7
+O11681,P902,Electronics,Supplier A,Delhi,Social Media,2025-06-10,0,1325.26,1,3
+O11682,P141,Home,Supplier A,Hyderabad,Website Banner,2025-05-10,0,809.56,1,9
+O11683,P124,Home,Supplier C,Bangalore,Social Media,2025-05-25,0,427.66,4,3
+O11684,P619,Toys,Supplier C,Mumbai,TV,2025-06-02,1,946.07,4,7
+O11685,P413,Clothing,Supplier C,Hyderabad,TV,2025-05-29,0,226.66,4,4
+O11686,P829,Home,Supplier A,Hyderabad,Email,2025-04-27,0,1713.88,4,8
+O11687,P556,Home,Supplier C,Hyderabad,TV,2025-06-26,0,1124.3,4,2
+O11688,P318,Books,Supplier A,Mumbai,Email,2025-04-22,0,450.49,4,8
+O11689,P410,Books,Supplier C,Mumbai,Social Media,2025-05-19,1,626.56,1,9
+O11690,P928,Electronics,Supplier A,Chennai,Website Banner,2025-04-23,0,1006.36,2,8
+O11691,P599,Toys,Supplier A,Chennai,TV,2025-04-12,0,539.96,4,6
+O11692,P825,Electronics,Supplier B,Delhi,TV,2025-04-16,0,683.48,1,1
+O11693,P459,Books,Supplier C,Mumbai,TV,2025-05-02,0,1161.89,4,7
+O11694,P708,Clothing,Supplier C,Mumbai,Social Media,2025-04-28,0,1698.7,3,1
+O11695,P836,Books,Supplier A,Mumbai,Email,2025-05-06,0,923.31,3,7
+O11696,P116,Toys,Supplier A,Chennai,Social Media,2025-06-20,1,1490.56,1,2
+O11697,P279,Books,Supplier A,Hyderabad,Website Banner,2025-06-15,1,1778.03,2,8
+O11698,P335,Toys,Supplier B,Bangalore,Social Media,2025-04-15,0,589.34,3,2
+O11699,P832,Toys,Supplier B,Chennai,Website Banner,2025-05-13,0,1652.95,3,3
+O11700,P810,Toys,Supplier A,Mumbai,TV,2025-04-21,0,1563.32,2,3
+O11701,P485,Toys,Supplier C,Chennai,Website Banner,2025-05-19,1,842.49,3,1
+O11702,P967,Toys,Supplier C,Delhi,Website Banner,2025-06-09,1,1981.14,4,5
+O11703,P881,Clothing,Supplier B,Mumbai,Email,2025-05-15,1,672.63,2,5
+O11704,P629,Electronics,Supplier B,Delhi,Website Banner,2025-06-21,0,658.65,3,5
+O11705,P555,Home,Supplier A,Mumbai,Website Banner,2025-05-15,0,1590.07,2,9
+O11706,P545,Electronics,Supplier C,Chennai,Social Media,2025-05-20,1,982.38,4,6
+O11707,P318,Toys,Supplier A,Hyderabad,TV,2025-06-17,0,795.43,3,6
+O11708,P515,Clothing,Supplier B,Bangalore,Social Media,2025-06-19,0,521.59,1,3
+O11709,P610,Books,Supplier C,Delhi,Social Media,2025-06-26,0,1577.6,3,5
+O11710,P404,Clothing,Supplier C,Chennai,TV,2025-06-29,0,1615.38,3,7
+O11711,P955,Toys,Supplier B,Hyderabad,TV,2025-04-02,0,1219.82,4,3
+O11712,P549,Clothing,Supplier A,Chennai,Website Banner,2025-05-16,0,1923.16,1,2
+O11713,P745,Clothing,Supplier A,Delhi,Website Banner,2025-05-03,0,772.69,1,5
+O11714,P522,Toys,Supplier C,Bangalore,Email,2025-06-02,1,595.31,1,3
+O11715,P798,Clothing,Supplier B,Chennai,Social Media,2025-05-10,0,1419.44,4,5
+O11716,P594,Home,Supplier C,Mumbai,TV,2025-06-17,0,1565.14,4,9
+O11717,P938,Home,Supplier B,Hyderabad,Website Banner,2025-04-15,0,604.83,4,1
+O11718,P144,Clothing,Supplier A,Chennai,TV,2025-06-28,0,337.9,4,4
+O11719,P671,Books,Supplier B,Hyderabad,Website Banner,2025-06-06,0,1658.93,4,5
+O11720,P290,Toys,Supplier A,Mumbai,Email,2025-04-08,0,1957.7,1,2
+O11721,P187,Home,Supplier B,Bangalore,Email,2025-06-09,0,1360.41,2,2
+O11722,P678,Books,Supplier C,Bangalore,TV,2025-04-11,0,700.16,4,1
+O11723,P352,Clothing,Supplier A,Mumbai,Email,2025-04-29,1,1994.01,2,8
+O11724,P762,Books,Supplier C,Hyderabad,TV,2025-05-18,0,1807.88,3,2
+O11725,P543,Electronics,Supplier C,Chennai,Website Banner,2025-04-24,0,1124.09,3,3
+O11726,P199,Home,Supplier A,Mumbai,Social Media,2025-05-30,0,1685.58,4,2
+O11727,P221,Clothing,Supplier A,Delhi,Email,2025-04-12,1,1668.48,3,4
+O11728,P548,Toys,Supplier C,Hyderabad,Website Banner,2025-05-20,0,1882.64,2,1
+O11729,P538,Clothing,Supplier C,Bangalore,Social Media,2025-04-09,1,1713.66,3,3
+O11730,P477,Toys,Supplier C,Mumbai,Social Media,2025-06-15,1,1358.62,3,5
+O11731,P921,Clothing,Supplier C,Bangalore,Social Media,2025-05-22,1,1296.75,2,1
+O11732,P397,Books,Supplier A,Hyderabad,Website Banner,2025-05-07,1,1041.24,3,4
+O11733,P362,Books,Supplier A,Bangalore,Website Banner,2025-05-23,0,1327.67,4,6
+O11734,P126,Books,Supplier C,Mumbai,TV,2025-04-27,0,1631.39,2,4
+O11735,P600,Electronics,Supplier B,Hyderabad,Social Media,2025-05-08,1,1944.27,2,7
+O11736,P731,Toys,Supplier B,Delhi,Social Media,2025-04-17,0,1041.12,1,7
+O11737,P736,Books,Supplier A,Mumbai,Social Media,2025-06-16,0,1232.58,1,6
+O11738,P773,Electronics,Supplier C,Chennai,TV,2025-04-08,0,1000.65,2,9
+O11739,P518,Toys,Supplier C,Mumbai,Social Media,2025-05-11,0,1403.28,2,2
+O11740,P598,Clothing,Supplier A,Hyderabad,Website Banner,2025-06-03,1,1333.86,1,8
+O11741,P637,Electronics,Supplier B,Mumbai,Social Media,2025-04-19,0,232.1,4,8
+O11742,P872,Home,Supplier B,Delhi,Email,2025-04-29,0,1174.09,3,4
+O11743,P567,Electronics,Supplier B,Delhi,Website Banner,2025-05-18,1,359.28,3,6
+O11744,P831,Electronics,Supplier A,Chennai,TV,2025-05-07,1,247.49,3,6
+O11745,P912,Toys,Supplier B,Bangalore,Social Media,2025-04-24,0,1624.15,2,5
+O11746,P289,Clothing,Supplier A,Hyderabad,Email,2025-05-20,0,665.57,4,1
+O11747,P546,Home,Supplier A,Hyderabad,TV,2025-05-30,0,813.18,1,3
+O11748,P338,Books,Supplier C,Bangalore,TV,2025-06-21,0,315.35,4,7
+O11749,P411,Books,Supplier B,Delhi,Website Banner,2025-05-28,0,523.1,4,8
+O11750,P159,Electronics,Supplier A,Delhi,TV,2025-06-11,0,1578.09,3,2
+O11751,P619,Toys,Supplier B,Mumbai,TV,2025-05-24,0,1088.36,1,3
+O11752,P471,Toys,Supplier B,Chennai,TV,2025-04-05,0,1785.2,4,4
+O11753,P696,Books,Supplier C,Chennai,TV,2025-06-04,0,915.04,1,5
+O11754,P304,Home,Supplier B,Chennai,Social Media,2025-06-28,0,683.66,2,3
+O11755,P251,Clothing,Supplier C,Mumbai,Social Media,2025-06-16,0,825.68,3,5
+O11756,P430,Home,Supplier A,Chennai,Social Media,2025-05-13,0,1482.99,1,8
+O11757,P357,Clothing,Supplier B,Bangalore,Social Media,2025-05-05,0,1199.01,2,8
+O11758,P858,Books,Supplier A,Mumbai,Email,2025-06-07,0,1827.54,2,2
+O11759,P914,Clothing,Supplier B,Bangalore,Social Media,2025-06-13,0,1283.9,2,6
+O11760,P717,Toys,Supplier A,Mumbai,TV,2025-05-28,1,1087.43,4,4
+O11761,P265,Electronics,Supplier B,Chennai,Social Media,2025-06-21,0,1614.35,4,9
+O11762,P378,Electronics,Supplier B,Bangalore,Social Media,2025-04-08,0,1905.56,3,2
+O11763,P693,Books,Supplier B,Bangalore,Website Banner,2025-04-20,0,840.52,3,8
+O11764,P258,Toys,Supplier B,Bangalore,TV,2025-04-15,1,649.78,2,1
+O11765,P446,Home,Supplier B,Mumbai,Social Media,2025-04-14,0,1309.19,3,6
+O11766,P428,Toys,Supplier B,Hyderabad,Social Media,2025-04-14,0,1097.97,4,1
+O11767,P434,Electronics,Supplier B,Chennai,Social Media,2025-06-13,0,1980.53,3,2
+O11768,P781,Electronics,Supplier B,Bangalore,Email,2025-04-23,0,1032.25,1,3
+O11769,P186,Toys,Supplier B,Hyderabad,Social Media,2025-04-23,1,333.8,4,9
+O11770,P277,Toys,Supplier A,Chennai,Website Banner,2025-06-19,0,1959.26,2,5
+O11771,P594,Electronics,Supplier C,Chennai,TV,2025-05-29,0,1718.46,2,2
+O11772,P454,Home,Supplier B,Bangalore,TV,2025-05-05,0,520.85,3,5
+O11773,P822,Books,Supplier C,Bangalore,Social Media,2025-06-02,0,1828.29,4,5
+O11774,P463,Books,Supplier B,Mumbai,Social Media,2025-05-08,0,813.2,2,1
+O11775,P617,Toys,Supplier B,Hyderabad,Social Media,2025-06-20,0,878.8,2,3
+O11776,P814,Books,Supplier A,Hyderabad,TV,2025-06-06,0,1831.5,4,5
+O11777,P327,Electronics,Supplier A,Bangalore,TV,2025-04-02,0,1154.21,4,9
+O11778,P233,Electronics,Supplier C,Chennai,Email,2025-05-02,0,447.97,2,1
+O11779,P897,Toys,Supplier A,Bangalore,Website Banner,2025-05-05,1,864.3,3,8
+O11780,P704,Toys,Supplier A,Chennai,Email,2025-05-18,0,1499.78,3,1
+O11781,P821,Toys,Supplier C,Chennai,Website Banner,2025-06-04,1,513.53,3,9
+O11782,P796,Home,Supplier A,Bangalore,Email,2025-05-15,0,1262.42,1,6
+O11783,P402,Books,Supplier B,Delhi,TV,2025-05-29,1,1451.49,4,1
+O11784,P670,Toys,Supplier C,Hyderabad,Email,2025-04-10,0,818.94,2,8
+O11785,P855,Clothing,Supplier C,Chennai,Website Banner,2025-06-02,0,1448.99,1,5
+O11786,P244,Clothing,Supplier B,Chennai,Social Media,2025-06-22,1,1791.57,3,7
+O11787,P775,Electronics,Supplier A,Delhi,Website Banner,2025-06-03,0,1049.81,1,7
+O11788,P762,Books,Supplier C,Mumbai,Social Media,2025-04-27,0,889.24,2,7
+O11789,P148,Toys,Supplier C,Delhi,TV,2025-04-08,0,652.09,2,6
+O11790,P861,Clothing,Supplier B,Delhi,Website Banner,2025-04-11,0,1287.57,4,8
+O11791,P115,Books,Supplier B,Chennai,Email,2025-06-29,0,1783.73,3,9
+O11792,P619,Electronics,Supplier A,Hyderabad,Website Banner,2025-05-31,0,784.39,3,2
+O11793,P532,Home,Supplier C,Delhi,Social Media,2025-04-20,0,913.22,1,7
+O11794,P196,Books,Supplier A,Mumbai,TV,2025-05-02,0,931.93,3,2
+O11795,P520,Books,Supplier A,Bangalore,Email,2025-05-15,0,1209.46,1,6
+O11796,P554,Home,Supplier B,Delhi,Website Banner,2025-04-24,0,611.14,2,2
+O11797,P665,Books,Supplier C,Delhi,Social Media,2025-05-22,0,1679.98,2,6
+O11798,P279,Electronics,Supplier C,Mumbai,Email,2025-06-12,1,732.08,2,2
+O11799,P698,Electronics,Supplier C,Hyderabad,TV,2025-06-25,0,1469.65,2,1
+O11800,P703,Home,Supplier B,Delhi,Email,2025-04-03,0,1123.79,2,7
+O11801,P886,Toys,Supplier B,Delhi,TV,2025-05-18,0,1254.62,1,3
+O11802,P619,Clothing,Supplier B,Hyderabad,Email,2025-05-04,0,523.3,2,4
+O11803,P633,Toys,Supplier B,Mumbai,Website Banner,2025-05-05,0,1523.04,1,6
+O11804,P357,Books,Supplier B,Delhi,Social Media,2025-06-29,0,539.52,2,5
+O11805,P310,Clothing,Supplier C,Hyderabad,Website Banner,2025-05-14,0,404.25,1,4
+O11806,P687,Home,Supplier A,Delhi,Website Banner,2025-05-01,0,1184.02,1,9
+O11807,P254,Home,Supplier C,Bangalore,TV,2025-05-04,0,1476.73,1,6
+O11808,P157,Clothing,Supplier A,Chennai,TV,2025-06-22,0,290.06,3,6
+O11809,P641,Electronics,Supplier B,Bangalore,TV,2025-05-26,0,324.91,1,2
+O11810,P420,Clothing,Supplier A,Delhi,Website Banner,2025-06-01,0,1644.82,1,6
+O11811,P940,Books,Supplier C,Mumbai,Email,2025-05-27,1,1656.26,2,7
+O11812,P528,Electronics,Supplier C,Chennai,Email,2025-06-06,0,641.55,1,8
+O11813,P314,Home,Supplier A,Bangalore,Website Banner,2025-04-18,0,1307.41,1,8
+O11814,P365,Clothing,Supplier B,Hyderabad,Website Banner,2025-05-24,0,997.72,4,9
+O11815,P159,Toys,Supplier B,Mumbai,Social Media,2025-05-04,0,1338.85,3,3
+O11816,P320,Toys,Supplier C,Bangalore,TV,2025-05-29,0,1753.18,4,7
+O11817,P116,Books,Supplier A,Hyderabad,TV,2025-05-21,0,343.74,2,7
+O11818,P588,Toys,Supplier B,Delhi,Website Banner,2025-06-26,0,1600.37,3,1
+O11819,P706,Clothing,Supplier B,Hyderabad,Website Banner,2025-05-27,0,1087.45,3,8
+O11820,P130,Clothing,Supplier C,Bangalore,Email,2025-04-20,0,1215.43,4,4
+O11821,P161,Toys,Supplier B,Bangalore,Website Banner,2025-04-15,0,1377.08,3,5
+O11822,P626,Clothing,Supplier A,Delhi,Email,2025-04-27,0,1860.72,4,6
+O11823,P158,Books,Supplier C,Hyderabad,Website Banner,2025-06-24,0,302.1,1,3
+O11824,P822,Electronics,Supplier C,Hyderabad,Social Media,2025-06-09,0,253.06,4,5
+O11825,P304,Books,Supplier A,Delhi,Social Media,2025-06-03,0,520.87,3,5
+O11826,P442,Books,Supplier C,Hyderabad,Email,2025-05-05,0,1975.61,3,1
+O11827,P434,Clothing,Supplier B,Delhi,TV,2025-06-07,1,1487.14,2,3
+O11828,P948,Electronics,Supplier B,Mumbai,Social Media,2025-04-01,0,1306.35,2,3
+O11829,P762,Clothing,Supplier A,Bangalore,Email,2025-04-17,0,284.67,2,1
+O11830,P690,Home,Supplier B,Mumbai,Website Banner,2025-04-24,0,1782.4,2,7
+O11831,P297,Clothing,Supplier A,Chennai,Website Banner,2025-04-30,1,1662.96,3,1
+O11832,P780,Clothing,Supplier A,Chennai,Email,2025-06-02,0,1396.64,2,7
+O11833,P610,Clothing,Supplier B,Chennai,TV,2025-04-02,0,810.44,4,4
+O11834,P849,Electronics,Supplier A,Delhi,Email,2025-04-07,0,326.91,1,9
+O11835,P481,Clothing,Supplier B,Hyderabad,Email,2025-06-05,0,1244.07,3,7
+O11836,P248,Electronics,Supplier C,Mumbai,Social Media,2025-06-05,0,1495.45,2,5
+O11837,P442,Toys,Supplier C,Mumbai,Email,2025-06-15,0,369.63,3,7
+O11838,P284,Home,Supplier A,Mumbai,Email,2025-05-24,0,1340.78,2,9
+O11839,P769,Electronics,Supplier B,Mumbai,Website Banner,2025-06-23,0,715.46,3,6
+O11840,P194,Toys,Supplier B,Chennai,Social Media,2025-06-21,1,1575.64,2,1
+O11841,P874,Electronics,Supplier C,Mumbai,Website Banner,2025-05-02,0,1171.31,1,6
+O11842,P450,Electronics,Supplier C,Hyderabad,Website Banner,2025-04-06,0,432.27,2,1
+O11843,P283,Home,Supplier B,Chennai,TV,2025-06-04,0,1147.74,4,4
+O11844,P887,Books,Supplier A,Mumbai,TV,2025-05-04,0,912.33,3,8
+O11845,P446,Books,Supplier C,Delhi,Social Media,2025-04-25,0,524.64,3,5
+O11846,P684,Electronics,Supplier A,Bangalore,Social Media,2025-06-04,0,1714.73,4,5
+O11847,P279,Clothing,Supplier A,Bangalore,TV,2025-04-26,0,219.85,4,8
+O11848,P750,Toys,Supplier C,Bangalore,TV,2025-04-28,0,761.83,1,8
+O11849,P273,Clothing,Supplier A,Chennai,TV,2025-05-17,0,222.67,3,1
+O11850,P705,Clothing,Supplier A,Mumbai,TV,2025-04-26,0,372.81,1,5
+O11851,P152,Electronics,Supplier B,Chennai,TV,2025-04-15,0,734.77,3,5
+O11852,P571,Electronics,Supplier A,Hyderabad,Website Banner,2025-04-23,0,297.69,3,8
+O11853,P868,Electronics,Supplier B,Delhi,Social Media,2025-06-16,0,1273.93,1,1
+O11854,P220,Electronics,Supplier C,Delhi,Website Banner,2025-05-27,0,356.35,3,7
+O11855,P778,Books,Supplier C,Bangalore,Website Banner,2025-04-06,0,1463.08,3,7
+O11856,P178,Electronics,Supplier B,Bangalore,Email,2025-06-03,0,294.76,1,9
+O11857,P977,Books,Supplier C,Bangalore,Website Banner,2025-06-08,0,306.76,2,2
+O11858,P655,Books,Supplier A,Mumbai,TV,2025-06-22,0,749.59,1,3
+O11859,P415,Electronics,Supplier A,Hyderabad,TV,2025-04-16,0,1813.83,3,4
+O11860,P114,Home,Supplier A,Hyderabad,Email,2025-04-16,1,1354.51,4,1
+O11861,P901,Toys,Supplier C,Hyderabad,Email,2025-06-28,0,1586.24,2,7
+O11862,P696,Clothing,Supplier A,Hyderabad,Email,2025-05-11,0,454.79,4,3
+O11863,P787,Books,Supplier C,Bangalore,Email,2025-04-21,0,1701.43,2,3
+O11864,P656,Toys,Supplier A,Delhi,Email,2025-06-26,0,214.66,4,3
+O11865,P826,Home,Supplier B,Bangalore,Website Banner,2025-06-24,0,583.5,2,8
+O11866,P108,Clothing,Supplier C,Hyderabad,Email,2025-04-01,0,1308.97,1,9
+O11867,P706,Clothing,Supplier C,Bangalore,Website Banner,2025-05-24,0,875.44,2,2
+O11868,P820,Books,Supplier A,Hyderabad,Social Media,2025-05-01,0,1971.55,2,1
+O11869,P490,Electronics,Supplier C,Chennai,Email,2025-05-20,0,254.61,2,9
+O11870,P859,Home,Supplier C,Delhi,Email,2025-05-23,0,1997.48,3,6
+O11871,P118,Books,Supplier B,Chennai,Website Banner,2025-04-15,0,1322.53,4,9
+O11872,P320,Home,Supplier B,Mumbai,Social Media,2025-05-27,0,1205.67,1,6
+O11873,P349,Electronics,Supplier A,Bangalore,Website Banner,2025-05-21,1,307.12,4,2
+O11874,P980,Electronics,Supplier B,Mumbai,Website Banner,2025-06-25,0,691.99,4,1
+O11875,P269,Books,Supplier A,Bangalore,Email,2025-04-08,0,1864.39,1,8
+O11876,P206,Electronics,Supplier A,Chennai,TV,2025-04-10,0,837.64,3,3
+O11877,P236,Toys,Supplier A,Hyderabad,TV,2025-04-27,0,1390.98,2,1
+O11878,P773,Clothing,Supplier C,Hyderabad,Website Banner,2025-06-06,1,1999.09,3,8
+O11879,P356,Books,Supplier B,Bangalore,Email,2025-06-23,1,673.53,3,1
+O11880,P760,Home,Supplier A,Hyderabad,Social Media,2025-06-08,0,1236.95,2,8
+O11881,P862,Toys,Supplier B,Chennai,TV,2025-05-29,1,1453.59,4,1
+O11882,P663,Books,Supplier A,Hyderabad,Social Media,2025-05-05,0,496.33,2,9
+O11883,P171,Electronics,Supplier B,Chennai,TV,2025-04-06,0,467.61,1,9
+O11884,P326,Electronics,Supplier B,Mumbai,Email,2025-04-03,1,1021.35,2,9
+O11885,P623,Electronics,Supplier A,Chennai,Website Banner,2025-06-23,0,894.46,4,3
+O11886,P542,Electronics,Supplier C,Delhi,Social Media,2025-04-05,0,1485.59,3,4
+O11887,P910,Home,Supplier B,Delhi,Social Media,2025-06-12,0,325.12,3,5
+O11888,P925,Toys,Supplier C,Delhi,Website Banner,2025-05-29,1,1949.9,2,6
+O11889,P375,Clothing,Supplier C,Bangalore,Social Media,2025-04-20,0,225.7,1,9
+O11890,P817,Home,Supplier A,Bangalore,TV,2025-04-10,1,1282.37,4,4
+O11891,P857,Home,Supplier A,Bangalore,Website Banner,2025-04-14,0,1212.74,3,6
+O11892,P727,Clothing,Supplier A,Chennai,TV,2025-05-13,0,442.49,2,1
+O11893,P328,Clothing,Supplier B,Bangalore,TV,2025-05-06,1,471.65,1,2
+O11894,P404,Electronics,Supplier A,Mumbai,Email,2025-05-07,0,1626.82,1,8
+O11895,P823,Home,Supplier A,Delhi,TV,2025-05-13,1,1797.61,3,4
+O11896,P923,Books,Supplier B,Chennai,Email,2025-05-04,0,709.43,3,7
+O11897,P512,Clothing,Supplier B,Delhi,Social Media,2025-06-26,0,988.34,4,4
+O11898,P604,Clothing,Supplier A,Bangalore,Social Media,2025-06-23,0,838.99,1,9
+O11899,P916,Toys,Supplier A,Chennai,Email,2025-04-18,0,330.58,4,9
+O11900,P717,Books,Supplier A,Hyderabad,TV,2025-05-11,0,1411.77,1,4
+O11901,P678,Books,Supplier A,Mumbai,Website Banner,2025-04-27,1,1685.35,1,8
+O11902,P715,Clothing,Supplier C,Bangalore,Website Banner,2025-06-05,1,748.78,2,6
+O11903,P839,Electronics,Supplier C,Bangalore,Email,2025-04-29,0,1982.32,3,1
+O11904,P954,Toys,Supplier A,Mumbai,Social Media,2025-05-08,1,336.53,1,7
+O11905,P714,Books,Supplier C,Mumbai,Social Media,2025-05-02,1,1391.22,4,1
+O11906,P832,Clothing,Supplier B,Hyderabad,Website Banner,2025-04-06,0,1006.81,3,3
+O11907,P529,Books,Supplier C,Bangalore,Email,2025-04-14,0,1003.88,4,8
+O11908,P104,Toys,Supplier C,Bangalore,Website Banner,2025-04-25,1,1023.76,3,9
+O11909,P878,Toys,Supplier A,Delhi,TV,2025-06-21,0,665.63,3,3
+O11910,P852,Home,Supplier C,Chennai,TV,2025-06-21,1,1488.01,1,1
+O11911,P357,Clothing,Supplier C,Chennai,Email,2025-05-17,1,1498.84,2,1
+O11912,P582,Toys,Supplier C,Delhi,Email,2025-05-22,1,708.31,1,7
+O11913,P812,Home,Supplier C,Chennai,TV,2025-05-15,0,1703.55,3,5
+O11914,P180,Home,Supplier B,Mumbai,Social Media,2025-04-27,0,770.32,1,1
+O11915,P817,Books,Supplier A,Chennai,Email,2025-06-24,0,1505.17,1,6
+O11916,P577,Books,Supplier A,Chennai,TV,2025-05-27,0,417.8,3,6
+O11917,P119,Home,Supplier B,Delhi,TV,2025-06-05,0,503.66,3,4
+O11918,P346,Books,Supplier C,Hyderabad,Social Media,2025-06-29,0,768.43,1,7
+O11919,P573,Toys,Supplier B,Chennai,Social Media,2025-04-22,0,1268.97,1,7
+O11920,P623,Electronics,Supplier C,Chennai,Social Media,2025-06-11,1,1361.92,1,9
+O11921,P368,Toys,Supplier B,Hyderabad,Social Media,2025-04-29,0,913.44,4,1
+O11922,P117,Home,Supplier A,Delhi,Website Banner,2025-06-01,0,340.11,1,5
+O11923,P393,Home,Supplier A,Hyderabad,Social Media,2025-04-17,0,872.54,4,3
+O11924,P646,Toys,Supplier A,Delhi,Website Banner,2025-06-05,0,1439.78,2,7
+O11925,P788,Books,Supplier C,Mumbai,Email,2025-05-29,0,1407.79,4,4
+O11926,P617,Books,Supplier C,Delhi,TV,2025-04-13,0,488.35,1,4
+O11927,P762,Home,Supplier B,Mumbai,Website Banner,2025-05-20,0,214.01,2,1
+O11928,P426,Clothing,Supplier B,Mumbai,Email,2025-04-17,0,1555.37,4,1
+O11929,P231,Books,Supplier A,Delhi,Email,2025-05-14,0,391.46,4,2
+O11930,P442,Toys,Supplier C,Bangalore,Website Banner,2025-04-11,1,348.23,3,2
+O11931,P360,Books,Supplier B,Delhi,Email,2025-05-04,1,204.86,2,1
+O11932,P848,Toys,Supplier C,Chennai,Email,2025-06-25,1,978.68,3,8
+O11933,P713,Home,Supplier C,Chennai,Website Banner,2025-06-24,1,1105.88,2,6
+O11934,P836,Books,Supplier A,Bangalore,Email,2025-04-15,1,1347.8,4,6
+O11935,P370,Toys,Supplier A,Mumbai,Social Media,2025-05-17,1,732.91,3,9
+O11936,P738,Home,Supplier C,Bangalore,Social Media,2025-04-02,0,1478.76,1,5
+O11937,P901,Clothing,Supplier C,Chennai,TV,2025-05-07,0,504.8,4,4
+O11938,P692,Toys,Supplier C,Bangalore,Email,2025-04-19,0,1697.58,2,6
+O11939,P551,Clothing,Supplier C,Delhi,TV,2025-06-17,0,1229.33,2,8
+O11940,P784,Clothing,Supplier A,Bangalore,Social Media,2025-04-22,0,1251.0,3,1
+O11941,P580,Electronics,Supplier B,Mumbai,Social Media,2025-06-11,0,577.6,3,7
+O11942,P177,Books,Supplier A,Delhi,Social Media,2025-05-23,1,333.4,2,8
+O11943,P890,Toys,Supplier B,Hyderabad,Email,2025-05-10,1,1036.5,4,9
+O11944,P571,Clothing,Supplier C,Chennai,Email,2025-04-29,0,1308.1,3,8
+O11945,P677,Electronics,Supplier B,Chennai,Social Media,2025-05-31,0,371.08,1,7
+O11946,P767,Home,Supplier A,Bangalore,TV,2025-06-04,1,1910.96,2,3
+O11947,P891,Toys,Supplier A,Delhi,TV,2025-05-03,0,1964.75,1,2
+O11948,P715,Clothing,Supplier C,Hyderabad,Website Banner,2025-05-25,0,1181.82,2,3
+O11949,P986,Books,Supplier A,Delhi,Social Media,2025-05-22,0,1910.12,1,4
+O11950,P380,Electronics,Supplier C,Chennai,TV,2025-04-15,0,523.0,4,4
+O11951,P406,Clothing,Supplier A,Delhi,Social Media,2025-05-26,0,245.76,2,6
+O11952,P648,Books,Supplier A,Hyderabad,TV,2025-06-14,1,270.94,4,7
+O11953,P162,Clothing,Supplier C,Bangalore,Website Banner,2025-06-16,0,1257.52,3,4
+O11954,P215,Toys,Supplier B,Mumbai,Website Banner,2025-04-29,0,310.96,2,6
+O11955,P703,Toys,Supplier A,Delhi,Social Media,2025-04-23,0,1925.38,4,9
+O11956,P194,Toys,Supplier B,Mumbai,TV,2025-05-02,0,455.48,1,6
+O11957,P830,Electronics,Supplier A,Chennai,Email,2025-06-13,1,748.5,4,3
+O11958,P253,Toys,Supplier A,Bangalore,Website Banner,2025-05-28,0,1680.53,2,1
+O11959,P770,Books,Supplier A,Bangalore,Social Media,2025-04-13,0,593.73,4,5
+O11960,P776,Clothing,Supplier A,Delhi,Social Media,2025-06-23,0,637.34,1,3
+O11961,P694,Home,Supplier B,Bangalore,TV,2025-04-02,0,1356.16,1,8
+O11962,P556,Books,Supplier B,Delhi,Social Media,2025-06-07,0,696.95,1,1
+O11963,P158,Books,Supplier A,Delhi,Website Banner,2025-05-12,0,591.41,3,2
+O11964,P615,Toys,Supplier A,Mumbai,Social Media,2025-05-28,0,657.52,2,3
+O11965,P119,Electronics,Supplier B,Bangalore,Social Media,2025-04-20,0,1083.17,1,3
+O11966,P750,Clothing,Supplier C,Delhi,Email,2025-05-24,0,1938.98,3,8
+O11967,P261,Electronics,Supplier C,Mumbai,Email,2025-04-23,1,1698.03,1,5
+O11968,P951,Clothing,Supplier B,Hyderabad,Website Banner,2025-06-21,1,712.3,4,8
+O11969,P871,Clothing,Supplier A,Mumbai,TV,2025-05-11,0,854.07,2,6
+O11970,P125,Electronics,Supplier A,Mumbai,Email,2025-06-10,0,1036.12,4,2
+O11971,P388,Books,Supplier C,Delhi,TV,2025-05-28,0,1962.07,3,4
+O11972,P627,Clothing,Supplier C,Chennai,Website Banner,2025-06-26,1,510.3,4,9
+O11973,P851,Electronics,Supplier B,Chennai,Email,2025-06-24,0,843.47,4,4
+O11974,P520,Clothing,Supplier C,Chennai,TV,2025-06-02,0,1512.97,1,5
+O11975,P396,Home,Supplier B,Mumbai,Email,2025-06-17,0,1935.1,4,5
+O11976,P764,Books,Supplier C,Delhi,Website Banner,2025-05-15,1,480.22,1,8
+O11977,P557,Toys,Supplier C,Bangalore,Website Banner,2025-04-17,0,609.28,1,6
+O11978,P437,Clothing,Supplier C,Mumbai,Email,2025-05-09,0,606.25,2,7
+O11979,P203,Home,Supplier A,Mumbai,TV,2025-06-29,0,237.68,3,6
+O11980,P660,Toys,Supplier A,Delhi,Social Media,2025-06-29,0,1287.41,3,5
+O11981,P545,Toys,Supplier A,Hyderabad,Social Media,2025-04-19,0,1407.27,3,5
+O11982,P142,Clothing,Supplier C,Mumbai,Email,2025-06-28,1,1284.55,1,3
+O11983,P818,Electronics,Supplier B,Hyderabad,TV,2025-06-06,1,328.38,3,7
+O11984,P912,Clothing,Supplier B,Hyderabad,Social Media,2025-05-17,0,324.61,1,5
+O11985,P479,Home,Supplier B,Chennai,Website Banner,2025-04-04,1,578.7,2,7
+O11986,P457,Toys,Supplier B,Delhi,TV,2025-05-29,0,722.53,3,2
+O11987,P933,Clothing,Supplier A,Hyderabad,Social Media,2025-05-07,0,1615.78,1,9
+O11988,P799,Electronics,Supplier A,Delhi,TV,2025-06-21,0,486.9,3,8
+O11989,P980,Clothing,Supplier C,Chennai,Email,2025-04-30,1,279.37,3,5
+O11990,P894,Books,Supplier C,Delhi,TV,2025-06-16,0,909.18,2,2
+O11991,P522,Electronics,Supplier B,Mumbai,Social Media,2025-05-17,0,949.51,4,6
+O11992,P258,Home,Supplier A,Hyderabad,Email,2025-05-20,1,1011.63,3,8
+O11993,P828,Toys,Supplier B,Delhi,TV,2025-04-07,0,1688.43,2,7
+O11994,P500,Clothing,Supplier C,Bangalore,Website Banner,2025-05-20,0,376.41,3,8
+O11995,P752,Electronics,Supplier C,Delhi,Social Media,2025-06-17,0,1467.1,3,4
+O11996,P250,Books,Supplier B,Hyderabad,Email,2025-04-28,0,808.3,3,3
+O11997,P471,Electronics,Supplier C,Chennai,TV,2025-05-07,1,757.96,3,7
+O11998,P262,Books,Supplier B,Chennai,Website Banner,2025-04-28,0,1878.58,4,2
+O11999,P224,Home,Supplier A,Hyderabad,Social Media,2025-04-01,0,647.24,4,5
